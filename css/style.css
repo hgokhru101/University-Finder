@@ -1,0 +1,15 @@
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+#map {
+    height: 200px;
+    width: 100%;
+}
