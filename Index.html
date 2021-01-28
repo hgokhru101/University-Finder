@@ -32,7 +32,7 @@
 
 <body ng-app="EduCare" ng-controller="MyCtrl">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Bright Care</a>
+        <a class="navbar-brand" href="#">EduCare</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -110,27 +110,169 @@
     <br>
     <div class="container">
         <div class="row">
-            <div class="col-sm-4">
-                <div class="card">
-                    <div class="card-body">
-                        <form>
-                            <div class="form-group">
-                                <label for="exampleInput1">University Name</label>
-                                <input type="text" class="form-control" id="university_name" aria-describedby="nameHelp"
-                                    placeholder="Enter University's Name" ng-model="uni" ng-change="get_maps()">
-                            </div>
-                        </form>
-                    </div>
-                </div>
+            <div class="card">
+                <div class="card-body">
+                    <form class="form-inline">
+                        <div class="form-group">
+                            <label for="exampleInput1">University Name :&nbsp;&nbsp;&nbsp;</label>
+                            <input type="text" class="form-control" id="university_name" aria-describedby="nameHelp"
+                                placeholder="Enter University's Name" ng-model="uni" ng-change="get_maps()">
+                        </div>
 
-            </div>
-            <div class="col-sm-8">
-                <div id="map">
+                        <div class="form-group">
+                            <label for="exampleInput2">&nbsp;&nbsp;Country Code :&nbsp;&nbsp;&nbsp;</label>
+                            <input type="text" class="form-control" id="exampleInput2" placeholder="IN">
+                        </div>
+                        &nbsp;&nbsp;
+                        <button type="submit" class="btn btn-outline-primary">Search</button>
+                    </form>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4">
+            <div id="map">
+            </div>
+        </div>
+    </div>
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <div class="content">
+        <div class="container">
+            <div class="p-5 text-center">
+                <h3 mb-3>What Students are Saying About EduCare</h3>
+            </div>
+            <div class="hr-theme-slash-2">
+                <div class="hr-line"></div>
+                <div class="hr-icon"><img src="https://img.icons8.com/doodle/48/000000/quote-left.png" /></div>
+                <div class="hr-line"></div>
+            </div>
+            <!-- end row -->
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="text-center card-box">
+                        <div class="member-card pt-2 pb-2">
+                            <div class="thumb-lg member-thumb mx-auto"><img
+                                    src="https://bootdey.com/img/Content/avatar/avatar2.png"
+                                    class="rounded-circle img-thumbnail" alt="profile-image"></div>
+                            <div class="">
+                                <h4>Freddie J. Plourde</h4>
+                                <!-- <p class="text-muted">@Founder <span>| </span><span><a href="#"
+                                            class="text-pink">websitename.com</a></span></p> -->
+                                <p class="mb-0 mt-2 font-italic">"I have used it to find my programme and I know how
+                                    much it can help students in making the right decision. Even now that I am already
+                                    registered, I still use EduCare to find summer programmes and I am constantly
+                                    recommending it to friends that are going through the same struggle that I went
+                                    through when I had to choose a study."</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <!-- end col -->
+                <div class="col-lg-4">
+                    <div class="text-center card-box">
+                        <div class="member-card pt-2 pb-2">
+                            <div class="thumb-lg member-thumb mx-auto"><img
+                                    src="https://bootdey.com/img/Content/avatar/avatar3.png"
+                                    class="rounded-circle img-thumbnail" alt="profile-image"></div>
+                            <div class="">
+                                <h4>Julie L. Arsenault</h4>
+                                <p class="mb-0 mt-2 font-italic">"Educare is the main factor that I am here. It was
+                                    my best decision of my life. Now I am living my dream, to study, work and live
+                                    abroad. I got to know amazing people from all around the world, learned some German,
+                                    and I love the University programme, is intense, involving and helps students to
+                                    grow in the personal and professional aspect."</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end col -->
+                <div class="col-lg-4">
+                    <div class="text-center card-box">
+                        <div class="member-card pt-2 pb-2">
+                            <div class="thumb-lg member-thumb mx-auto"><img
+                                    src="https://bootdey.com/img/Content/avatar/avatar4.png"
+                                    class="rounded-circle img-thumbnail" alt="profile-image"></div>
+                            <div class="">
+                                <h4>Christopher Gallardo</h4>
+                                <p class="mb-0 mt-2 font-italic">"I was looking for universities for roughly over a year
+                                    through Educare and I finally found my university through them. Moving from
+                                    home might have some doubts but it is worth it to experience the world and get a
+                                    taste of what is truly out there."</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end col -->
+            </div>
+            <!-- end row -->
+            <div class="hr-theme-slash-2">
+                <div class="hr-line"></div>
+                <div class="hr-icon"><img src="https://img.icons8.com/doodle/48/000000/quote-right.png" /></div>
+                <div class="hr-line"></div>
+            </div>
+        </div>
+        <!-- container -->
+    </div>
+    <div class="p-5 text-center">
+        <h3 mb-3>Where to Study Abroad ?</h3>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="content"> <a href="#">
+                    <div class="content-overlay"></div> <img class="content-image"
+                        src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1557246503/3_zoom_1.jpg">
+                    <div class="content-details fadeIn-bottom">
+                        <h3 class="content-title">Geysers Valley</h3>
+                        <p class="content-text"><i class="fa fa-map-marker"></i> Russia</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="content"> <a href="#">
+                    <div class="content-overlay"></div> <img class="content-image"
+                        src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1557246502/test_zoom.jpg">
+                    <div class="content-details fadeIn-bottom">
+                        <h3 class="content-title">Khumbu Valley</h3>
+                        <p class="content-text"><i class="fa fa-map-marker"></i> Nepal</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="content"> <a href="#">
+                    <div class="content-overlay"></div> <img class="content-image"
+                        src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1557246499/3_zoom_2.jpg">
+                    <div class="content-details fadeIn-bottom">
+                        <h3 class="content-title">Waipi’o Valley</h3>
+                        <p class="content-text"><i class="fa fa-map-marker"></i> Hawaii</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="p-5 text-center">
+        <h3 mb-3>Browse By Discipline</h3>
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="card">
+                <img class="card-img-top" src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1557246499/3_zoom_2.jpg" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Special title treatment</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Special title treatment</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
             </div>
         </div>
     </div>
