@@ -1,0 +1,771 @@
+[{
+  "_id": {
+    "$oid": "6014ee5bb032d65a08c24f64"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/102/logos/1563967759_dtu-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Materials and Manufacturing Engineering",
+  "university": "Technical University of Denmark (DTU)",
+  "location": "Copenhagen, Denmark",
+  "description": "Graduates from Materials and Manufacturing Engineering from the Technical University of Denmark (DTU) solve engineering challenges because they are able to optimize advanced materials and complex manufacturing processes for high-tech industrial production.",
+  "fee": "15,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee5bb032d65a08c24f65"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/bd3855ed.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sustainable Urban Design - Pre-Master's Programme",
+  "university": "ONCAMPUS Lund",
+  "location": "Lund, Sweden",
+  "description": "The Sustainable Urban Design - Pre-Master's Programme from ONCAMPUS Lund is available as a two or three-term programme, with the opportunity to progress to a wide range of Engineering and Science Master’s degrees at Lund University and Swedish University of Agricultural Sciences or two Business Master's degrees at Kristianstad University. ",
+  "fee": "14,988 EUR / year",
+  "duration": "7 months"
+},{
+  "_id": {
+    "$oid": "6014ee5cb032d65a08c24f66"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20204/logos/1605006677_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Agrofood Chain",
+  "university": "Toulouse INP, INSA Toulouse and ENSFEA",
+  "location": "Multiple locations",
+  "description": "The Master of Science Agrofood Chain is a two-year program at Toulouse INP and ENSFEA dedicated to high-level students from around the world. The current context of demographic, food and agro-ecological transitions raises new challenges for actors along agricultural food chains: securing food supply in a sustainable way, managing risks and food safety, value enhancement and re-use of by-products…",
+  "fee": "9,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee5cb032d65a08c24f67"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/154965/logos/1608294983_aero-plaquette-2.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Aerospace Engineering",
+  "university": "Centrale Lyon",
+  "location": "Lyon, France",
+  "description": "The Master's degree in Aerospace Engineering is a graduate program of the Université de Lyon, operated by the École Centrale de Lyon.",
+  "fee": "3,768 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee5cb032d65a08c24f68"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electronics",
+  "university": "The University of Edinburgh",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "description": "The Electronics programme at The University of Edinburgh offers distinct specialisation areas in electronics: analogue VLSI design, bioelectronics and analogue and digital systems.",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee5cb032d65a08c24f69"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Applied Physics - Mastertrack Nano, Quantum and Photonics",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "The Applied Physics - Mastertrack Nano, Quantum and Photonics  programme from Eindhoven University of Technology (TU/e) focuses on the control of materials at the nanometer scale. It involves emerging technologies that enable scientists to address and position individual atoms and molecules.",
+  "fee": "16,400 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee5cb032d65a08c24f6a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering Sciences (Clean Energy)",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The Engineering Sciences (Clean Energy) program of the University at Buffalo SUNY - School of Engineering and Applied Sciences focuses on the fundamentals of green energy and illustrates how solar, wind and other clean sources can be efficiently integrated into power systems.",
+  "fee": "19,053 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee5db032d65a08c24f6b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sustainable Transportation and Logistics",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The MS program in Sustainable Transportation and Logistics from the University at Buffalo SUNY - School of Engineering and Applied Sciences is a 30-credit, full-time, 3-semester program with a minimum GPA of 3.0 required in every semester.  ",
+  "fee": "19,053 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ee5db032d65a08c24f6c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Oil and Gas Management - Master's Qualifying Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "The Oil and Gas Management - Master's Qualifying Programme from ONCAMPUS Coventry is available as a one, two or three-term programme, with progression opportunity to a wide range of Master’s degrees at Coventry University. You will study your Master's programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "16,628 EUR / year",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014ee5db032d65a08c24f6d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17276/logos/1564427347_primary-wordmark-fullcolor.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music Technology - Performance Technology",
+  "university": "Southern Utah University",
+  "location": "Online",
+  "description": "This unique, fully online Music Technology - Performance Technology degree program from Southern Utah University will enable working musicians to master the technology and techniques used to create music and audio for use in video, film, TV production, and more. ",
+  "fee": "10,640 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee7bc870eaf86bb1065e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12294/logos/1576081321_oth.global.ctt.sm.redc.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bioengineering",
+  "university": "University of Illinois at Chicago",
+  "location": "Chicago, Illinois, United States",
+  "description": "As a M.S. in Bioengineering student at the University of Illinois at Chicago, the UIC Global experience provides more than academic, language and cultural growth. ",
+  "fee": "11,550 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ee7bc870eaf86bb1065f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Information Technology - Master's Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Information Technology - Master's Foundation Programme from ONCAMPUS London is designed to prepare international students for postgraduate study in the UK. ",
+  "fee": "19,804 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ee7bc870eaf86bb10660"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/64fb5ab8.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Renewable Electric Power Systems",
+  "university": "Linnaeus University",
+  "location": "Växjö, Sweden",
+  "description": "The Renewable Electric Power Systems programme offered at Linnaeus University offers a thorough knowledge of electricity from renewable energy technology with special focus on electric power systems.",
+  "fee": "15,434 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee7bc870eaf86bb10661"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Civil Engineering degree at South Dakota State University offers coursework, design, and research activities within Civil and Environmental Engineering that are related to structural, transportation, geotechnical, water resources, hydrology, hydraulics and environmental engineering, as well as engineering mechanics.  ",
+  "fee": "534 EUR / credit",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee7cc870eaf86bb10662"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/8da20d98.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Oil and Gas Accounting and Finance",
+  "university": "Aberdeen Business School - Robert Gordon University",
+  "location": "Aberdeen, Scotland, United Kingdom",
+  "description": "This Oil and Gas Accounting and Finance course from Aberdeen Business School - Robert Gordon University will help you develop and be capable of using advanced critical knowledge and understanding of the accounting for upstream activities and the financial arrangements/implications of a broad spectrum of oil and gas ventures.",
+  "fee": "16,984 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee7cc870eaf86bb10663"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/70/logos/1542356718_logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Technology of Wood, Plastic and Textiles",
+  "university": "Tallinn University of Technology",
+  "location": "Tallinn, Estonia",
+  "description": "The Technology of Wood, Plastic and Textiles programme at Tallinn University of Technology emphasises the basic practical knowledge of CAD-engineering programmes and CAM-manufacturing technologies as they are extremely important in every industrial sector all over the world.",
+  "fee": "3,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee7cc870eaf86bb10664"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering and Management - Master's Qualifying Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "The Engineering and Management - Master's Qualifying Programme from ONCAMPUS Coventry is available as a one, two or three-term programme, with progression opportunity to a wide range of Master’s degrees at Coventry University. You will study your Master's programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014ee7cc870eaf86bb10665"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0413e8c3.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Energy Technologies and Economics",
+  "university": "Kaunas University of Technology",
+  "location": "Kaunas, Lithuania",
+  "description": "The graduates of this Energy Technologies and Economics programme from Kaunas University of Technology will be able to control power engineering objects and make economically reasonable engineering solutions.  ",
+  "fee": "4,300 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee7cc870eaf86bb10666"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10427/logos/1599465833_vt_pilnas_en_blue.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Innovative Road and Bridge Engineering (Joint Degree With Rtu)",
+  "university": "Vilnius Gediminas Technical University",
+  "location": "Vilnius, Lithuania",
+  "description": "The Innovative Road and Bridge Engineering (Joint Degree With Rtu) programme at Vilnius Gediminas Technical University is a joint degree programme with Riga Technical University.",
+  "fee": "4,400 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ee7dc870eaf86bb10667"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17017/logos/1605199506_umdearborn_vertical_white.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Software Engineering",
+  "university": "University of Michigan - Dearborn",
+  "location": "Dearborn, Michigan, United States",
+  "description": "The Software Engineering program of  University of Michigan - Dearborn is designed as a 30-credit hour interdisciplinary graduate program jointly administered by the Department of Computer and Information Science and the Department of Electrical and Computer Engineering.",
+  "fee": "1,185 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee8c26d03e4a44dbac22"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sustainable Energy Technology (Masterstrack SELECT)",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Aimed at true sustainable energy enthusiasts, the Sustainable Energy Technology (Masterstrack SELECT) from Eindhoven University of Technology (TU/e) maps out the route from basic renewable energy sources to future energy systems, fostering thought on global responsibility on the way.",
+  "fee": "16,400 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee8c26d03e4a44dbac23"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil and Structural Engineering",
+  "university": "",
+  "location": "Pontypridd, Wales, United Kingdom",
+  "description": "The Civil and Structural Engineering programme offered by the University of South Wales is your opportunity to establish or consolidate your career as a civil or structural design engineer. There is also an opportunity for working professionals to progress towards CEng status through a tailor-made route.",
+  "fee": "16,192 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee8c26d03e4a44dbac24"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13777/logos/1567448854_wsu_vertical_color-2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering Management",
+  "university": "Wichita State University",
+  "location": "Wichita, Kansas, United States",
+  "description": "The Engineering Management program at Wichita State University helps engineers/technologists develop planning, decision-making, and managerial skills while receiving advanced technical knowledge.",
+  "fee": "624 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee8c26d03e4a44dbac25"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17017/logos/1605199506_umdearborn_vertical_white.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Industrial and Systems Engineering",
+  "university": "University of Michigan - Dearborn",
+  "location": "Dearborn, Michigan, United States",
+  "description": "This 30 credit hours Industrial and Systems Engineering program at University of Michigan - Dearborn is designed for engineers and other professionals who have responsibility for designing, installing, improving and evaluating large integrated systems. ",
+  "fee": "1,185 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee8c26d03e4a44dbac26"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering",
+  "university": "School of Built Environment and Engineering",
+  "location": "Leeds, England, United Kingdom",
+  "description": "Gain the skills to shape and maintain the world around us with this Civil Engineering from Leeds Beckett University. The growing demand for infrastructure to sustain modern societies and underpin economic and social development requires creative solutions from engineering professionals.",
+  "fee": "15,852 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee8d26d03e4a44dbac27"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/2f5e4c16.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Master of Biometrics and Intelligent Vision",
+  "university": "UPEC - University Paris-Est Créteil",
+  "location": "Créteil, France",
+  "description": "The International Master of Biometrics and Intelligent Vision from UPEC - Université Paris-Est Créteil is about, Artificial Intelligence, Computer Vision,  Data Science, for bioengineering applications.",
+  "fee": "243 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee8d26d03e4a44dbac28"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/520/logos/1596101423_tu-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mechanical Engineering (with Advanced Practice)",
+  "university": "Teesside University",
+  "location": "Middlesbrough, England, United Kingdom",
+  "description": "This Mechanical Engineering (with Advanced Practice) programme offered by Teesside University, gives you an advanced level of study in specific aspects of mechanical engineering which are in demand from industry.  ",
+  "fee": "8,492 EUR / year",
+  "duration": "1 year, 8 months"
+},{
+  "_id": {
+    "$oid": "6014ee8d26d03e4a44dbac29"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17017/logos/1605199506_umdearborn_vertical_white.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Program and Project Management",
+  "university": "University of Michigan - Dearborn",
+  "location": "Dearborn, Michigan, United States",
+  "description": "The Program and Project Management program of University of Michigan - Dearborn is designed to address this growing need and targets technical professionals from various industries who need to deepen their understanding of program and project management and would like to make a transition from team members to program managers.",
+  "fee": "1,185 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee8d26d03e4a44dbac2a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mechanical Engineering",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The MS Mechanical Engineering at the University at Buffalo SUNY - School of Engineering and Applied Sciences provides students with opportunities where they are trained for careers in engineering practice and/or further study at the doctoral level.",
+  "fee": "19,053 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ee8d26d03e4a44dbac2b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19116/logos/1582638612_tampere-university-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Automation Engineering - Factory Automation and Robotics",
+  "university": "Tampere University",
+  "location": "Tampere, Finland",
+  "description": "Do you want to become an expert in factory automation and robotics? Join our inspiring learning environment with international staff in the Automation Engineering - Factory Automation and Robotics program at Tampere University.",
+  "fee": "12,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee9fc6d2b9c8b06c4f85"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Quality and Reliability Engineering (Certificate NDP)",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The purpose of the Quality and Reliability Engineering (Certificate NDP) at University of Arizona is to develop talent in reliability and quality engineering to help industry to replace talent lost through retirement and attrition.",
+  "fee": "16,600 EUR / year",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014eea0c6d2b9c8b06c4f86"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Instructional Design and Tech (Certificate NDP)",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "UA South - the University of Arizona’s branch campus headquartered in Sierra Vista - extends the University’s educational mission to the region’s people, in multiple locations and with the Instructional Design and Tech (Certificate NDP) program at University of Arizona. ",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014eea0c6d2b9c8b06c4f87"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13777/logos/1567448854_wsu_vertical_color-2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Industrial Engineering",
+  "university": "Wichita State University",
+  "location": "Wichita, Kansas, United States",
+  "description": "The Industrial Engineering program at Wichita State University will prepare you for high-paying, high-demand career options in design, research, improvement, and management of systems in manufacturing and service organizations as well as for success in a future Ph.D. program. ",
+  "fee": "624 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eea0c6d2b9c8b06c4f88"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Optical Sciences (Certificate NDP)",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "To meet the needs of both employers and employees within the optics industry, the Optical Sciences (Certificate NDP) offered by the University of Arizona offers an innovative academic program that can be completed entirely by distance learning, entirely on campus or in any combination of the two.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eea0c6d2b9c8b06c4f89"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10427/logos/1599465833_vt_pilnas_en_blue.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Industrial Engineering and Innovation Management",
+  "university": "Vilnius Gediminas Technical University",
+  "location": "Vilnius, Lithuania",
+  "description": "This Industrial Engineering and Innovation Management programme offered by the Vilnius Gediminas Technical University has the purpose of giving students engineering and management perception for successful innovation creations and implementation, fulfilment of subsequent scientific research which results can be adapted in the industrial enterprises activity. ",
+  "fee": "4,400 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eea0c6d2b9c8b06c4f8a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Environmental Engineering degree offered by the  University of Arizona is one of the top ranked graduate engineering programs at UA, and highly ranked nationally.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eea1c6d2b9c8b06c4f8b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering Studies",
+  "university": "University of Auckland",
+  "location": "Multiple locations",
+  "description": "Enhance your employability in the competitive global market with a qualification that provides advanced technical foundations and industrial perspectives in your chosen field with this Master of Engineering Studies from University of Auckland.",
+  "fee": "24,468 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eea1c6d2b9c8b06c4f8c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/65272/logos/1519044116_HUJI_LogoEng_hor.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Quality Sciences",
+  "university": "The Hebrew University of Jerusalem",
+  "location": "Rehovot, Israel",
+  "description": "The Environmental Quality Sciences programme at The Hebrew University of Jerusalem prepares students to address the challenges of global environmental issues: development of alternative water and energy resources, water and soil pollution treatment, waste recycling, agricultural intensification, environmentally-sustainable pest control and plant protection, and related economics.  ",
+  "fee": "8,660 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eea1c6d2b9c8b06c4f8d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/fb444a98.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Immersive Experiences and Technologies",
+  "university": "Postgraduate Research courses",
+  "location": "Dundee, Scotland, United Kingdom",
+  "description": "The Immersive Experiences and Technologies program at Abertay University covers a wide range of applied and theoretical research.",
+  "fee": "16,701 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eea1c6d2b9c8b06c4f8e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Instructional Systems Development",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The Master of Arts in Instructional Systems Development at University of Maryland Baltimore County requires a minimum of 36 credits hours.",
+  "fee": "934 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eeb42879d7a4688411e3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19116/logos/1582638612_tampere-university-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Engineering",
+  "university": "Tampere University",
+  "location": "Tampere, Finland",
+  "description": "The two-year Environmental Engineering programme from Tampere University educates professionals in environmental engineering and circular economy. With us you will learn about processes and technologies to produce clean water, to recover nutrients and metals, to produce renewable energy and biochemicals, and to minimize pollution and to support sustainable use of natural resources.",
+  "fee": "12,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eeb42879d7a4688411e4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Energy Law - Part-time (Online)",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "The International Energy Law - Part-time (Online) programme is offered by The University of Law.",
+  "fee": "10,417 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eeb42879d7a4688411e5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/271/logos/1548674856_UCL%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biochemical Engineering",
+  "university": "University College London (UCL)",
+  "location": "London, England, United Kingdom",
+  "description": "This 3-year Biochemical Engineering programme at University College London (UCL) draws upon the expertise within the department and the multidisciplinary research linkages of the Advanced Centre for Biochemical Engineering.",
+  "fee": "28,534 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014eeb42879d7a4688411e6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10427/logos/1599465833_vt_pilnas_en_blue.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics Engineering",
+  "university": "Vilnius Gediminas Technical University",
+  "location": "Vilnius, Lithuania",
+  "description": "Economics Engineering studies at Vilnius Gediminas Technical University are designed to prepare for a broad range of economic and management activities of today's globalized economics new demands and challenges. Students will aquire comprehensive knowledge in economics and risk engineering, will learn to solve various risk assessment and management-related problems.",
+  "fee": "3,900 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014eeb52879d7a4688411e7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1682/logos/1518170641_SPbPU_logo2.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Engineering",
+  "university": "Peter the Great St. Petersburg Polytechnic University (SPbPU)",
+  "location": "Saint Petersburg, Russia",
+  "description": "The Business Engineering program at Peter the Great St. Petersburg Polytechnic University (SPbPU) is aimed at training professionals in business management with a focus on ICT using advanced theoretical and practical achievements in the field of enterprise architecture, business process reengineering, project management, development, implementation and maintenance of information systems.",
+  "fee": "3,247 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eeb52879d7a4688411e8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Legal Technology - Part-time (Online)",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "The PGDip in Legal Technology at The University of Law is available for both law and non-law graduates, providing you with an insight into this rapidly developing area.",
+  "fee": "4,967 EUR / year",
+  "duration": "1 year, 4 months"
+},{
+  "_id": {
+    "$oid": "6014eeb52879d7a4688411e9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Renewable Energy and Power Systems Management",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "Accredited by the IET, this world-class MSc in Renewable Energy and Power Systems Management from City, University of London will develop your engineering skills and prepare you for a rewarding career within the renewable energy sector.",
+  "fee": "21,944 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eeb52879d7a4688411ea"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0413e8c3.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Engineering",
+  "university": "Kaunas University of Technology",
+  "location": "Kaunas, Lithuania",
+  "description": "The Environmental Engineering Master programme offered by Kaunas University of Technology combines technological, analytical and management aspects of the environmental protection.  ",
+  "fee": "4,300 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eeb52879d7a4688411eb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Construction Management",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "Join the Construction Management course from City, University of London and equip yourself with the construction knowledge and management skills to successfully manage major complex construction projects or develop your business in construction management.",
+  "fee": "21,944 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eeb52879d7a4688411ec"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/321/logos/1578642463_unitrento_logo_ita_colore-1.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Materials and Production Engineering",
+  "university": "University of Trento",
+  "location": "Trento, Italy",
+  "description": "The Materials and Production Engineering programme at the University of Trento is designed to qualify skilled materials engineers and scientists able to explore the design and testing of materials employing cutting-edge technologies, and to manage and promote the technological innovation at different levels.",
+  "fee": "4,500 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eec5ee082038fb51e5b5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Acoustics and Noise Control",
+  "university": "School of Clinical & Applied Sciences",
+  "location": "Leeds, England, United Kingdom",
+  "description": "Awarded by the Institute of Acoustics, the Acoustics and Noise Control course from Leeds Beckett University aims to equip you with a thorough understanding of the nature of noise and the ways in which it can be controlled in the environment, the workplace and in buildings. ",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eec5ee082038fb51e5b6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/2aa7fc17.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Science",
+  "university": "University of Genova",
+  "location": "Genova, Italy",
+  "description": "The Computer Science from University of Genova is organized in two curricula: Data Science & Engineering, centered on the management, and visualization of massive amounts of digital data for artificial intelligence and Software Security & Engineering, devoted to the development of high-quality, innovative software systems through state of the art technologies, and standardized processes.",
+  "fee": "3,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eec5ee082038fb51e5b7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sustainable Energy",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "This Sustainable Energy programme from University of Malta is designed for science, engineering and architecture graduates. ",
+  "fee": "8,933 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014eec5ee082038fb51e5b8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/271/logos/1548674856_UCL%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Smart Buildings and Digital Engineering",
+  "university": "University College London (UCL)",
+  "location": "London, England, United Kingdom",
+  "description": "On this Smart Buildings and Digital Engineering programme from University College London (UCL)  takes a forward-looking view on the impact of this digital transformation to the established discipline of Building Services Engineering.",
+  "fee": "32,270 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eec6ee082038fb51e5b9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Aerospace Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Aerospace Engineering degree offered by the University of Arizona covers the fields of aeronautics and space technology. The AME Department also offers options in micro electro mechanical systems (MEMS), nuclear engineering, and biomedical engineering. Close relation with the Applied Mathematics Program is maintained.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eec6ee082038fb51e5ba"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11021/logos/1478165579_InnoEnergy.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sustainable Energy Systems",
+  "university": "EIT InnoEnergy Master School",
+  "location": "Multiple locations",
+  "description": "The Environomical Pathways for Sustainable Energy Systems (SELECT) at EIT InnoEnergy Master School is where you can learn how to make a real contribution to minimising the environmental impact of current and future energy systems. EIT InnoEnergy Master’s in Sustainable Energy Systems (SELECT) is a two-year dual degree programme offered in cooperation with Instituto Superior Tecnico (IST), Universitat Politecnica de Catalunya (UPC),Royal Institute of Technology (KTH), Grenoble INP, KU Leuven, TU/Eindhoven, AGH Institute of Science and Technology, Politecnico di Torino (PoliTo), Aalto University and ESADE Business School.",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eec6ee082038fb51e5bb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/321/logos/1578642463_unitrento_logo_ita_colore-1.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Science",
+  "university": "University of Trento",
+  "location": "Trento, Italy",
+  "description": "The Master of Science in Computer Science programme at the University of Trento foresees the acquisition of knowledge, methodologies and specialized computer technologies which will give the graduate student the opportunity to plan, to design, to develop, to estimate and to manage complex innovative systems for production, transmission and processing of information.",
+  "fee": "6,500 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eec6ee082038fb51e5bc"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "Gain the skills that will help to increase your earning potential and take your engineering career to the next level. With your Master’s Degree in Engineering (M.A.) from Liberty University, you’ll enhance your options as you prepare for a position of upper management in engineering.",
+  "fee": "450 EUR / credit",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eec6ee082038fb51e5bd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Technology in Second Language Teaching (Certificate NDP)",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Technology in Second Language Teaching (Certificate NDP) at University of Arizona focuses on providing students with the knowledge about language-learning technologies and the skills on how to effectively integrate and use them to enhance and support second language teaching and learning.",
+  "fee": "16,600 EUR / year",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014eec6ee082038fb51e5be"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/39978/logos/1574237479_logo_uw.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Robotics and Automation (distance)",
+  "university": "University West",
+  "location": "Trollhättan, Sweden",
+  "description": "The Robotics and Automation (distance) programme at University West  is taught in virtual environments (distance learning) and all your studies have a close link to industry.",
+  "fee": "9,671 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eedae401756450d67c17"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering",
+  "university": "University of Auckland",
+  "location": "Auckland, New Zealand",
+  "description": "Boost your undergraduate qualification with advanced engineering and management skills to innovate in the technologically diverse environments with this Postgraduate Certificate in Engineering from University of Auckland.",
+  "fee": "12,234 EUR / year",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014eedae401756450d67c18"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20128/logos/1601282792_vert-1000-white.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Java Web Developer - Nanodegree",
+  "university": "School of Programming",
+  "location": "Online",
+  "description": "Learn back-end development with the Java programming language, one of the most popular programming languages in the world and one a majority of large enterprises rely on for their infrastructure with the Java Web Developer - Nanodegree at Udacity.",
+  "fee": "1,118 EUR / full",
+  "duration": "4 months"
+},{
+  "_id": {
+    "$oid": "6014eedae401756450d67c19"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biochemical Regulatory Engineering Professional Studies",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The Biochemical Regulatory Engineering Professional Studies certificate program is offered by the University of Maryland Baltimore County.",
+  "fee": "934 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014eedae401756450d67c1a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Urban Design",
+  "university": "The University of Western Australia",
+  "location": "Perth, Western Australia, Australia",
+  "description": "Gain a comprehensive overview of the theoretical and practical aspects of urban design with this Graduate Diploma in Urban Design at The University of Western Australia.",
+  "fee": "23,293 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eedbe401756450d67c1b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/792/logos/1544022317_121-logo-srh-heidelberg550x134.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Business and Engineering",
+  "university": "SRH University Heidelberg",
+  "location": "Heidelberg, Germany",
+  "description": "Our Master's  International Business and Engineering program at SRH Hochschule Heidelberg will enable you to understand the connection between technology, economics, social, philosophical aspects, develop sustainable business solution and intercultural skills. ",
+  "fee": "14,860 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014eedbe401756450d67c1c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1682/logos/1518170641_SPbPU_logo2.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nuclear Power Engineering",
+  "university": "Peter the Great St. Petersburg Polytechnic University (SPbPU)",
+  "location": "Saint Petersburg, Russia",
+  "description": "The Nuclear Power Engineering program at Peter the Great St. Petersburg Polytechnic University (SPbPU) is aimed at training professionals in nuclear power engineering. ",
+  "fee": "4,409 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eedbe401756450d67c1d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/196/logos/1525334562_UoD_Logo_land_RGB_Blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering and Construction Management (Online)",
+  "university": "University of Derby",
+  "location": "Online",
+  "description": "Civil Engineering and Construction Management (Online) at University of Derby covers critical issues facing the industry today, from flood risk engineering management to sustainable development.",
+  "fee": "3,431 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014eedbe401756450d67c1e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biosystems Engineering - Accelerated Master's Program",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "With Biosystems Engineering - Accelerated Master's Program degree offered by the University of Arizona majors can leverage their undergraduate work in Biosystems Engineering into a graduate degree through the investment of one additional year of coursework.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eedbe401756450d67c1f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/bd3855ed.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Energy-Efficient and Environmental Building Design - Pre-Master's Programme",
+  "university": "ONCAMPUS Lund",
+  "location": "Lund, Sweden",
+  "description": "The Energy-Efficient and Environmental Building Design - Pre-Master's Programme from ONCAMPUS Lund is available as a two or three-term programme, with the opportunity to progress to a wide range of Engineering and Science Master’s degrees at Lund University and Swedish University of Agricultural Sciences or two Business Master's degrees at Kristianstad University. ",
+  "fee": "14,988 EUR / year",
+  "duration": "7 months"
+},{
+  "_id": {
+    "$oid": "6014eedce401756450d67c20"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Legal Technology - Full-time",
+  "university": "The University of Law",
+  "location": "Multiple locations",
+  "description": "The Legal Technology - Full-time programme offered by The University of Law is available for both law and non-law graduates, providing you with an insight into this rapidly developing area. ",
+  "fee": "13,588 EUR / year",
+  "duration": "1 year"
+}]

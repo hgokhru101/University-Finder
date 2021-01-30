@@ -1,0 +1,705 @@
+[{
+  "_id": {
+    "$oid": "6014f1dda6b61b08c61a9aff"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing Practice",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Nursing Practice program at South Dakota State University prepares Advanced Practice Registered Nurses (APRNs) to transform clinical practice as expert clinicians and leaders with a special focus on rural and underserved populations.",
+  "fee": "534 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f1dea6b61b08c61a9b00"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Doctor of Philosophy in Public Health from University of Technology Sydney is a research degree requiring an original and significant contribution to knowledge in a defined field of study. It is the traditional path for those wishing to assume leadership positions in research. ",
+  "fee": "23,338 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f1dea6b61b08c61a9b01"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Optical Sciences",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Ph.D. in Optical Sciences program at University of Arizona  prepares students for extraordinary opportunities in a fast-changing, high-tech world.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f1dea6b61b08c61a9b02"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing",
+  "university": "South Dakota State University",
+  "location": "Online",
+  "description": "The Doctor of Philosophy in Nursing course at South Dakota State University  prepares nurse scientists to assume roles as researchers, faculty, policy makers and administrators with an emphasis on health promotion and disease prevention in under-served and rural populations.",
+  "fee": "534 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f1dea6b61b08c61a9b03"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19559/logos/1588686317_web-ace.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health Education",
+  "university": "American College of Education",
+  "location": "Online",
+  "description": "The Education Specialist in Public Health Education program at American College of Education is designed for healthcare professionals and educators who are dedicated to health promotion and disease prevention through evidence-based interventions that improve the health of all populations around the world.",
+  "fee": "6,699 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014f1dea6b61b08c61a9b04"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health and Care Professions",
+  "university": "Faculty of Science and Health",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "This Health and Care Professions programme at University of Portsmouth delivers research at the highest ethical standard to improve knowledge for services and the health of the community.",
+  "fee": "16,192 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f1dea6b61b08c61a9b05"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biosystems Analytics and Tech",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Biosystems Analytics and Tech program from University of Arizona focuses on biological systems and water-related issues such as irrigation and water quality, and biosystems applications, including computer modeling, sensors and controls, and systems design and evaluation.",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f1dea6b61b08c61a9b06"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11027/logos/1595342999_1-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Osteopathic Medicine",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "Answer your call to the medical field and improve lives through the most comprehensive medical care available with a DO degree from Liberty University’s College of Osteopathic Medicine (LUCOM).",
+  "fee": "38,766 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f1dfa6b61b08c61a9b07"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing Informatics",
+  "university": "The University of Arizona Global",
+  "location": "Online",
+  "description": "The University of Arizona Global will help international students like you stay on track toward an U.S. degree, wherever you are in the world. Join the Nursing Informatics program and build the skills necessary to pursue leadership roles including Chief Information Officer (CIO), Chief Nursing Information Officer (CNIO), project manager and clinical systems analyst.",
+  "fee": "12,372 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f2043241191edc10eee8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Podiatric Medicine",
+  "university": "The University of Western Australia",
+  "location": "Perth, Western Australia, Australia",
+  "description": "The Doctor of Podiatric Medicine from The University of Western Australia degree is a comprehensive course designed to produce highly trained and competent podiatrists who are well prepared to enter clinical practice as primary contact health care practitioners in the diagnosis and treatment of conditions affecting the foot and ankle.",
+  "fee": "36,522 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f2043241191edc10eee9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "As the landscape of advanced practice nursing changes, Liberty University is poised to help you take advantage of new opportunities with its Doctor of Nursing Practice (DNP).",
+  "fee": "524 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f2043241191edc10eeea"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medicine",
+  "university": "Medical University of the Americas",
+  "location": "New Carlisle, Ohio, United States",
+  "description": "Medical University of the Americas is a Caribbean-based medical school offering affordable, high-quality education for the next generation of doctors. Our students consistently achieve high results on the USMLE Step 1 exam (our students attained an average first-time pass rate of 95%) as a result of our personalized teaching approach that includes small classes taught by credentialed faculty.",
+  "fee": "27,754 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f2043241191edc10eeeb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nutrition and Dietetics",
+  "university": "University of Nicosia",
+  "location": "Nicosia, Cyprus",
+  "description": "The Nutrition and Dietetics programme from University of Nicosia aims to provide the student with the most advanced knowledge of Dietetics/Nutrition.",
+  "fee": "4,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f2053241191edc10eeec"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Pharmaceutical Sciences - Pharmacokinetics - Pharmaceutics",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The mission of this Pharmaceutical Sciences - Pharmacokinetics - Pharmaceutics program at University of Arizona is to educate and prepare students for work in the pharmaceutical industry and in academia. The specific fields of study are physical Pharmaceutical Chemistry and Pharmacokinetics. ",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f2053241191edc10eeed"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Cancer Biology",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Cancer Biology Graduate Interdisciplinary program leads to a Ph.D. degree in Cancer Biology. The Program from University of Arizona allows students to focus their training in several related disciplines which have in common research faculty studying various aspects of cancer biology.",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f2053241191edc10eeee"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing - Family Nurse Practitioner (Post Master's to D.N.P.)",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Nursing - Family Nurse Practitioner (Post Master's to D.N.P.) program at South Dakota State University prepares family nurse practitioners  who transform clinical practice as  clinicians and leaders with a special focus on rural and underserved populations.",
+  "fee": "534 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f2053241191edc10eeef"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Pharmaceutical Sciences - Health and Pharm Outcomes",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The objective of the Ph.D. track in Pharmaceutical Sciences - Health and Pharm Outcomes at University of Arizona is to impart advanced scientific knowledge relevant to the field of study and to provide training opportunities in conducting state-of-the-art approaches in research.   ",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f2053241191edc10eef0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing - Pediatric Nurse Practitioner",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Doctor of Nursing - Pediatric Nurse Practitioner at University of Arizona is similar to other practice doctorates such as the MD, JD, and PharmD.  Graduates of the DNP program are prepared as advanced practice nurses.",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f217e09afee4cea1bb22"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Professional Doctorate in Sport, Exercise and Health Science",
+  "university": "Faculty of Science and Health",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "The Professional Doctorate in Sport, Exercise and Health Science offered by the University of Portsmouth is an alternative pathway to a doctorate qualification. It is a rigorous programme of advanced study and research, designed specifically to meet the needs of commerce, industry and professional groups and is the professionally oriented counterpart to the more theoretical PhD. ",
+  "fee": "8,096 EUR / year",
+  "duration": "6 years"
+},{
+  "_id": {
+    "$oid": "6014f217e09afee4cea1bb23"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Clinical Psychology",
+  "university": "School of Humanities and Social Sciences",
+  "location": "Nicosia, Cyprus",
+  "description": "The aims set for the program in Clinical Psychology from University of Nicosia are multi-fold covering the complexity and the multifaceted reality of the profession.",
+  "fee": "7,630 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f217e09afee4cea1bb24"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Endodontology",
+  "university": "The University of Edinburgh",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "description": "This three year, full-time Endodontology programme from The University of Edinburgh is aimed at nationally- and internationally-based general dental practitioners who are seeking to become specialist practitioners within the discipline of endodontology.",
+  "fee": "58,313 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f217e09afee4cea1bb25"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Molecular Medicine",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Graduate Program in Molecular Medicine at the University of Arizona is an interdepartmental, multidisciplinary training program fostering the development of scientists and educators who are prepared for lifelong participation in research and other intellectual pursuits. ",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f217e09afee4cea1bb26"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11027/logos/1595342999_1-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing - Nurse Anesthesia",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Doctor of Nursing - Nurse Anesthesia at University of Arizona is similar to other practice doctorates such as the MD, JD, and PharmD.  Graduates of the DNP program are prepared as advanced practice nurses. ",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f218e09afee4cea1bb27"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing - Executive Health Systems Leadership",
+  "university": "The University of Arizona Global",
+  "location": "Online",
+  "description": "The University of Arizona Global will help international students like you stay on track toward an U.S. degree, wherever you are in the world. This Nursing - Executive Health Systems Leadership program is pioneering healthcare leadership innovation and theory application to develop and implement strategies supporting quality outcomes and organizational goals in complex health systems.",
+  "fee": "12,372 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f218e09afee4cea1bb28"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Animal and Comparative Biomedical Sciences",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Ph.D. degree in Animal and Comparative Biomedical Sciences from University of Arizona requires a minimal number of formal graduate courses, the passing of traditional comprehensive written and oral exams, and completion of a formal research project and dissertation defense. Our Ph.D. program does not require prior completion of a master’s degree.",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f218e09afee4cea1bb29"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physiotherapy",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This PhD in Physiotherapy from University of Technology Sydney is a research degree requiring an original and significant contribution to knowledge. It is the traditional path for those wishing to assume leadership positions in research. It requires students to undertake a large research project under academic supervision. ",
+  "fee": "21,768 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f218e09afee4cea1bb2a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing (D.N.P.) - Family Nurse Practitioner Specialization (B.S. to D.N.P.)",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Nursing (D.N.P.) - Family Nurse Practitioner Specialization (B.S. to D.N.P.) program at South Dakota State University prepares Family Nurse Practitioners  to transform clinical practice as clinicians and leaders with a special focus on rural and underserved populations.",
+  "fee": "534 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f22e200f1df53aa542aa"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing - Family Nurse Practitioner",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "The Doctor of Nursing  - Family Nurse Practitioner degree at Liberty University is designed to translate evidence-based research into practice. Our goal is to equip you to improve patient safety, as well as quality care, as you learn how to design a more effective healthcare environment",
+  "fee": "524 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f22e200f1df53aa542ab"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nutrition and Exercise Sciences",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Ph.D. in Nutrition and Exercise Sciences course at South Dakota State University will prepare graduates for careers as researchers in healthcare settings, government, industry, corporations, and universities.",
+  "fee": "534 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f22e200f1df53aa542ac"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Podiatric Surgery",
+  "university": "The University of Western Australia",
+  "location": "Perth, Western Australia, Australia",
+  "description": "This Doctor of Podiatric Surgery from The University of Western Australia provides theoretical and clinical knowledge in podiatric surgery to an advanced level.",
+  "fee": "36,522 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f22f200f1df53aa542ad"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Health Sciences",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The PhD in Environmental Health Sciences is offered by the Division of Community, Environment, and Policy and University of Arizona. Using an interdisciplinary approach, Environmental Health Sciences examines the critical link between environmental and occupational exposures and human health.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f22f200f1df53aa542ae"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Orthodontics",
+  "university": "The University of Edinburgh",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "description": "The DClinDent in Orthodontics at The University of Edinburgh is a three-year, full-time programme which enables you to develop, consolidate and enhance your range of academic and clinical competencies.",
+  "fee": "58,313 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f22f200f1df53aa542af"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Engineering",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The PhD degree in Biomedical Engineering from the University at Buffalo SUNY - School of Engineering and Applied Sciences provides an opportunity for you to pursue a program of research in a specialized area and to develop a dissertation that embodies the results of original research and gives evidence of high level independent scholarship.",
+  "fee": "19,053 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014f22f200f1df53aa542b0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12502/logos/1565617059_pace-logo-rgb-isolated.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing",
+  "university": "Pace University",
+  "location": "Pleasantville, New York, United States",
+  "description": "The only one of its kind in the mid-Hudson region, the PhD in Nursing at Pace University is a research-intensive program that prepares graduates for tenure track faculty positions to educate the next generation of nurses, develop new nursing science, or take on a stronger leadership role in global health or healthcare policy.",
+  "fee": "1,146 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f22f200f1df53aa542b1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biosystems Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The department was established in 1891. In 2018 the Department name, along with the graduate program names, changed to Biosystems Engineering. The Biosystems Engineering degree is offered by the University of Arizona.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f230200f1df53aa542b2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19559/logos/1588686317_web-ace.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health Education",
+  "university": "American College of Education",
+  "location": "Online",
+  "description": "The Doctorate in Public Health Education at American College of Education is designed for healthcare professionals and educators who are dedicated to health promotion and disease prevention through evidence-based interventions that improve the health of all populations around the world.",
+  "fee": "5,635 EUR / year",
+  "duration": "3½ years"
+},{
+  "_id": {
+    "$oid": "6014f230200f1df53aa542b3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16681/logos/1568822792_umsl_type_red_152r_30g_50b.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Behavioral Neuroscience",
+  "university": "University of Missouri–St. Louis",
+  "location": "Saint Louis, Michigan, United States",
+  "description": "The doctoral program in Behavioral Neuroscience from University of Missouri–St. Louis has adopted an apprenticeship model of graduate training in which each student works closely and continuously with a faculty member within the realm of the faculty member's research interests. ",
+  "fee": "",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f2442206d7a9765eb1a7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17024/logos/1553648885_maristlogored.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Clinical Psychology",
+  "university": "University of San Francisco - School of Nursing and Health Professions",
+  "location": "San Francisco, California, United States",
+  "description": "The Clinical Psychology from University of San Francisco traines students to translate thought into action, through practice-oriented training that emphasizes the mental, emotional, and physical health needs of underserved communities.",
+  "fee": "1,221 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f2452206d7a9765eb1a8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Doctor of Physical Therapy",
+  "university": "Marist College",
+  "location": "Poughkeepsie, New York, United States",
+  "description": "The Doctor of Physical Therapy (DPT) program from Marist College is a full-time, 115-credit program designed to prepare students for the National Physical Therapy Examination (NPTE) and for successful careers as doctors of physical therapy.",
+  "fee": "36,044 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f2452206d7a9765eb1a9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Science",
+  "university": "University of Auckland",
+  "location": "Multiple locations",
+  "description": "Science at University of Auckland is a globally recognised postgraduate research degree and the highest level of degree you can achieve. PhD students are critical, curious, creative thinkers who undertake original research over at least 3 years.",
+  "fee": "4,027 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f2452206d7a9765eb1aa"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Podiatry",
+  "university": "The University of Western Australia",
+  "location": "Perth, Western Australia, Australia",
+  "description": "This Doctor of Podiatry from The University of Western Australia provides additional theoretical and clinical knowledge in podiatric medicine and surgery beyond the Doctor of Podiatric Medicine degree.",
+  "fee": "35,953 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f2452206d7a9765eb1ab"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medicine",
+  "university": "University of Auckland",
+  "location": "Auckland, New Zealand",
+  "description": "The Doctor of Medicine at University of Auckland  is a professional doctorate that provides an opportunity for experienced medical clinicians to undertake advanced study and research.",
+  "fee": "24,434 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f2452206d7a9765eb1ac"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16681/logos/1568822792_umsl_type_red_152r_30g_50b.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medicine",
+  "university": "Saba University",
+  "location": "The Bottom, Bonaire, Sint Eustatius and Saba (former Netherlands Antilles)",
+  "description": "Saba University was established in 1992 and has since become one of the top providers of medical education in the Caribbean. The Medicine program is an affordable alternative to US and Canadian medical schools without compromising on quality. Since its founding, Saba University has had more than 2,500 successful graduates who have gone on to work at some of the top hospitals in the US and Canada.",
+  "fee": "31,054 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f2462206d7a9765eb1ad"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Dental Medicine",
+  "university": "The University of Western Australia",
+  "location": "Perth, Western Australia, Australia",
+  "description": "Home to WA's only tertiary dental training centre, UWA has trained future dentists for more than 70 years. Taught by dedicated staff in state-of-the-art facilities, Doctor of Dental Medicine at The University of Western Australia students are trained for full registration in the dental profession.",
+  "fee": "52,473 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f2462206d7a9765eb1ae"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Optometry (Professional)",
+  "university": "University of Missouri–St. Louis",
+  "location": "Saint Louis, Michigan, United States",
+  "description": "The Optometry (Professional) program from University of Missouri–St. Louis currently offer students the opportunity to earn an undergraduate degree and Doctor of Optometry degree in seven years instead of the traditional eight year plan.",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f25b58abd333df377aab"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Pharmacy",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "This Pharmacy course from University of Malta will prepare graduates who are able to deliver a significant contribution to the practice of clinical pharmacy, pharmaceutical policies and patient-centred pharmaceutical regulatory aspects. ",
+  "fee": "12,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f25b58abd333df377aac"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing - Psychiatric Mental Health Nurse Practitioner",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Doctor of Nursing - Psychiatric Mental Health Nurse Practitioners at University of Arizona is similar to other practice doctorates such as the MD, JD, and PharmD.  Graduates of the DNP program are prepared as advanced practice nurses. ",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f25b58abd333df377aad"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Pharmacy",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This PhD in Pharmacy from University of Technology Sydney is a research degree requiring an original and significant contribution to knowledge. It is the traditional path for those wishing to assume leadership positions in research. It requires students to undertake a large research project under academic supervision. ",
+  "fee": "21,768 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f25b58abd333df377aae"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing - Family Nurse Practitioner",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Doctor of Nursing - Family Nurse Practitioner at University of Arizona  is similar to other practice doctorates such as the MD, JD, and PharmD.  Graduates of the DNP program are prepared as advanced practice nurses.  ",
+  "fee": "16,600 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014f25b58abd333df377aaf"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/861/logos/1603199647_uplogo_liliomos_en_feher_foltban.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medical Sciences",
+  "university": "University of Pécs",
+  "location": "Pécs, Hungary",
+  "description": "The structure of the Medical Sciences PhD programs at University of Pécs of the Medical Faculty is similar to those of most European and American universities. ",
+  "fee": "9,898 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f25c58abd333df377ab0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12502/logos/1565617059_pace-logo-rgb-isolated.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health and Care Professions",
+  "university": "Faculty of Science and Health",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "This PhD in Health and Care Professions at University of Portsmouth delivers research at the highest ethical standard to improve knowledge for services and the health of the community.",
+  "fee": "16,192 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f25c58abd333df377ab1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/02745a0a.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Doctor of Nursing Practice",
+  "university": "Pace University",
+  "location": "Multiple locations",
+  "description": "As the number of higher-level nursing positions that prefer candidates with a DNP continues to rise, the Doctor of Nursing Practice at Pace University provides the innovative learning opportunities you need to become a clinical leader in advanced nursing and primary health care.",
+  "fee": "1,326 EUR / credit",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f25c58abd333df377ab2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health Sciences",
+  "university": "Ben-Gurion University of the Negev",
+  "location": "Beersheba, Israel",
+  "description": "At Ben-Gurion University of the Negev one can study and do research towards a Ph.D. degree in the Faculties of Engineering Sciences, Natural Sciences, Health Sciences, Humanities &amp; Social Sciences, Management and in the Jacob Blaustein Institutes of Desert Research or in interdisciplinary study programs.",
+  "fee": "4,124 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f25c58abd333df377ab3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sport and Exercise",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Doctor of Philosophy in Sport and Exercise from University of Technology Sydney is a research degree requiring an original and significant contribution to knowledge in a defined field of study. It is the traditional path for those wishing to assume leadership positions in research and industry. ",
+  "fee": "23,338 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f274165b1c17aa199c59"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Engineering",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "As a PhD in Biomedical Engineering from Eindhoven University of Technology (TU/e), you are really interested in everything that is related to diseases. You will investigate and develop engineering principles and tools with the aim to unravel the pathophysiology of diseases. You will also add to the enhancement of diagnostics, intervention and treatment. ",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f275165b1c17aa199c5a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Anatomy and Cell Biology",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "If you are looking to become a university professor, choose our Ph.D. in Anatomy and Cell Biology at Liberty University to develop the teaching skills required to lead the next generation of anatomy and biology students. Open their eyes to all the ways they can make a difference in the world of medicine, academics, nursing, and physical therapy!",
+  "fee": "38,766 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014f275165b1c17aa199c5b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Oral Surgery",
+  "university": "The University of Edinburgh",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "description": "The DClinDent in Oral Surgery at The University of Edinburgh is a three-year, full-time programme which enables you to develop, consolidate and enhance your range of academic and clinical competencies.",
+  "fee": "58,313 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f275165b1c17aa199c5c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medicine",
+  "university": "The University of Western Australia",
+  "location": "Perth, Western Australia, Australia",
+  "description": "Doctor of Medicine from The University of Western Australia graduates will be committed to the wellbeing of the patient, community and society as responsible, accountable, scholarly, capable and caring doctors.",
+  "fee": "52,473 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f275165b1c17aa199c5d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Cellular and Molecular Medicine",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Cellular and Molecular Medicine PhD program from University of Arizona offers students opportunities to pursue graduate studies in biomedical sciences with a general focus on the biological mechanisms of human disease. Faculty associated with the graduate program pursue research in cell and developmental biology, neurobiology, cardiovascular biology and cancer research.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f275165b1c17aa199c5e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Pharmaceutical Sciences - Pharmaceutical Economics, Policy, and Outcomes",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The objective of the Ph.D. track in Pharmaceutical Sciences - Pharmaceutical Economics, Policy, and Outcomes at University of Arizona is to impart advanced scientific knowledge relevant to the field of study and to provide training opportunities in conducting state-of-the-art approaches in research. ",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f276165b1c17aa199c5f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16681/logos/1568822792_umsl_type_red_152r_30g_50b.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Clinical Psychology",
+  "university": "University of Missouri–St. Louis",
+  "location": "Saint Louis, Michigan, United States",
+  "description": "The Clinical Psychology program from University of Missouri–St. Louis is in accordance with the scientist-practitioner model of training, and is based on the understanding that doctoral-level psychologists in the future are unlikely to function solely in a service capacity as psychotherapists. ",
+  "fee": "",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f276165b1c17aa199c60"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Pharmacy",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": " Admitted students pursue a four-year doctor of pharmacy (PharmD) degree. The Pharmacy course at University of Arizona is also called the pharmacy professional program.",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f276165b1c17aa199c61"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Clinical Translational Sciences",
+  "university": "University of Arizona",
+  "location": "Multiple locations",
+  "description": "The Clinical Translational Sciences (CTS) graduate program from University of Arizona is designed to provide a strong foundation in clinical translational sciences for post-baccalaureate or post-graduate students with either a clinical or basic science background. ",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f276165b1c17aa199c62"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Pharmaceutical Sciences - Drug Discovery and Development",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Drug Discovery and Development Track of the Graduate Program in Pharmaceutical Sciences offers a Ph.D. degree in pharmaceutical sciences.  Students in this Pharmaceutical Sciences - Drug Discovery and Development program at University of Arizona must take courses in the major area as well as one of the several possible minor areas of study.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+}]

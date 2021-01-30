@@ -1,0 +1,705 @@
+[{
+  "_id": {
+    "$oid": "6014d066b98dbfacd1b1c29f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12928/logos/1583875494_eitnewlogo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering Geology and Geotechnics (Hons)",
+  "university": "Faculty of Science and Health",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "Take your first step towards becoming a professional Chartered Engineering Geologist or Chartered Geotechnical Engineer on this BEng (Hons) Engineering Geology and Geotechnics degree course.",
+  "fee": "18,570 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d066b98dbfacd1b1c2a0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/15321/logos/1479219623_UW_left-stack_rgb-black.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical Engineering (Online)",
+  "university": "Engineering Institute of Technology",
+  "location": "Online",
+  "description": "Electrical engineers are responsible for designing new systems, solving problems, testing equipment and working on a wide range of components and systems, from the smallest microchips to huge power station generators. The Electrical Engineering (Online) programme is offered by Engineering Institute of Technology.",
+  "fee": "",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d066b98dbfacd1b1c2a1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10831/logos/1568845722_uon.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Applied Environmental Studies",
+  "university": "University of Winnipeg",
+  "location": "Winnipeg, Canada",
+  "description": "This program in Applied Environmental Studies, offered by the University of Winnipeg, is specifically designed to serve the needs of health and service industries in Manitoba.",
+  "fee": "1,138 EUR / module",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d066b98dbfacd1b1c2a2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19116/logos/1582638612_tampere-university-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mechanical Engineering - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS Sunderland",
+  "location": "Sunderland, England, United Kingdom",
+  "description": "This one-year (3 term) Mechanical Engineering - Undergraduate Foundation Programme at ONCAMPUS Sunderland can offer successful students guaranteed progression to the University of Sunderland. You will study your Foundation programme at our state-of-the-art Centre located at the heart of the University of Sunderland City campus.",
+  "fee": "16,526 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d067b98dbfacd1b1c2a3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Chemical Engineering (Honours) - Mathematics",
+  "university": "University of Newcastle",
+  "location": "Newcastle, New South Wales, Australia",
+  "description": "The Chemical Engineering (Honours) - Mathematics program from University of Newcastle train engineers capable of solving the greatest global challenges.  As a chemical engineer your study may lead to involvement in a team developing high-efficiency insulation products that improve heating and cooling. ",
+  "fee": "23,581 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014d067b98dbfacd1b1c2a4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10427/logos/1599465833_vt_pilnas_en_blue.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Science and Engineering - Natural Sciences and Mathematics",
+  "university": "Tampere University",
+  "location": "Multiple locations",
+  "description": "The Science and Engineering - Natural Sciences and Mathematics program at Tampere University offers all this! It is a cross-disciplinary degree programme that provides you with a solid grounding in several core fields of engineering and the ability to follow rapid technological developments and apply scientific methods.",
+  "fee": "10,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d067b98dbfacd1b1c2a5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mechatronics and Intelligent Machines - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS UK North",
+  "location": "Preston, England, United Kingdom",
+  "description": "This one-year (3 term) Mechatronics and Intelligent Machines - Undergraduate Foundation Programme from ONCAMPUS UK North offers successful students guaranteed progression to UCLan and the opportunity to apply to a number of other top UK universities through the UCAS process. You will study your Foundation programme at our Centre located at the heart of the UCLan campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d067b98dbfacd1b1c2a6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Financial Engineering",
+  "university": "Vilnius Gediminas Technical University",
+  "location": "Vilnius, Lithuania",
+  "description": "The study programme in Financial Engineering offered at Vilnius Gediminas Technical University aims to prepare Bachelors of finance with a variety of modern knowledge about the financial systems and markets.",
+  "fee": "2,700 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d07a0a67e252d7499830"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "Civil Engineers are custodians of the built environment and are responsible for all aspects of the world’s infrastructure.To prepare students for these responsibilities, the Civil Engineering program at South Dakota State University  provides opportunities for them to solve engineering problems, promote original thought, illustrate the work expected of engineers and stimulate interest.",
+  "fee": "307 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d07b0a67e252d7499831"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Construction Management",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Construction Management program offered by South Dakota State University prepares you to manage projects in commercial, heavy-highway-utilities, and residential construction.",
+  "fee": "307 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d07b0a67e252d7499832"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10831/logos/1568845722_uon.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mechanical and Manufacturing Engineering (Distance Learning) (Top up) (Hons) (2 or 3 Years)",
+  "university": "Faculty of Technology",
+  "location": "Online",
+  "description": "If you have an interest in improving and creating products and want to top up your HND or Foundation degree to a full Bachelor's degree, this BEng Mechanical and Manufacturing Engineering (Distance Learning) (Top up) (Hons) (2 or 3 Years) degree course from University of Portsmouth is ideal.",
+  "fee": "1,744 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014d07b0a67e252d7499833"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Software Engineering (Honours)",
+  "university": "University of Newcastle",
+  "location": "Newcastle, New South Wales, Australia",
+  "description": "When you study a Software Engineering (Honours) program at University of Newcastle your degree will develop your capability to solve global challenges. You may develop software for digital forensics analysis to help fight crime, or work in defence and combat cyber attacks. You could design wearable health management devices or write the software that powers robotically assisted surgery. ",
+  "fee": "23,597 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d07b0a67e252d7499834"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Aviation Maintenance (Management)",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "Expand your Aviation Maintenance Technician School (A&P) training for FAA aviation mechanic licensure with your Aviation Maintenance (Management) degree at Liberty University.",
+  "fee": "19,630 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d07c0a67e252d7499835"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electronics Engineering Technician",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "Humber College’s Electronics Engineering Technician diploma program emphasizes electronic products, control systems and telecommunications - all built on a strong basis of computer and networking engineering. ",
+  "fee": "10,209 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014d07c0a67e252d7499836"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biotechnology - Business",
+  "university": "University of Technology Sydney",
+  "location": "Multiple locations",
+  "description": "The combined Bachelor degrees in Biotechnology - Business at the University of Technology Sydney is designed to produce graduates who are prepared for scientific practice in the biotechnology industry or who are equipped for entry into business and management in science-based businesses or institutions. ",
+  "fee": "545 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d07c0a67e252d7499837"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13777/logos/1567448854_wsu_vertical_color-2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Science - Physical and Chemical Dynamics Emphasis",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Environmental Science - Physical and Chemical Dynamics Emphasis at University of Arizona is the scientific investigation of human interactions with natural systems. ",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d07c0a67e252d7499838"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medical Laboratory Sciences",
+  "university": "Wichita State University",
+  "location": "Wichita, Kansas, United States",
+  "description": "The Medical Laboratory Sciences program at Wichita State University combines quality, accredited classroom curriculum with practical, hands-on learning in Kansas' health care hub. ",
+  "fee": "445 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d08f9cf7f80480672bf1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Aerospace Engineering",
+  "university": "University of Central Lancashire (UCLan)",
+  "location": "Preston, England, United Kingdom",
+  "description": "If you’re fascinated by aircraft, spacecraft and related technologies then MEng Aerospace Engineering course from University of Central Lancashire (UCLan) is for you. You’ll learn about aerodynamics, structures, propulsion, systems, flight dynamics, mechanical engineering and computer-aided design.",
+  "fee": "15,512 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d08f9cf7f80480672bf2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19496/logos/1554988737_csubanner.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Audio Engineering",
+  "university": "California State University, Dominguez Hills",
+  "location": "Carson, California, United States",
+  "description": "The B.A. in Audio Engineering at California State University, Dominguez Hills is a hands-on, professionally-oriented program geared for students who want marketable job skills for careers in studio recording, live sound reinforcement, and sound design for television, film, and live theatre. ",
+  "fee": "7,839 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d08f9cf7f80480672bf3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering (Honours) - Business (Professional Engineering Practice)",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This combined Bachelor degrees in Engineering (Honours) - Business (Professional Engineering Practice) at the University of Technology Sydney provides students with the opportunity to complete the core and major components of both the engineering and business degrees. ",
+  "fee": "575 EUR / credit",
+  "duration": "6 years"
+},{
+  "_id": {
+    "$oid": "6014d08f9cf7f80480672bf4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering Management (Top-UP) (Hons)",
+  "university": "School of Computing, Creative Technologies and Engineering",
+  "location": "Leeds, England, United Kingdom",
+  "description": "With this Engineering Management (Top-UP) (Hons) from Leeds Beckett University you will develop a broad knowledge of both general and discipline specific engineering issues. This expertise will inform your management practice, particularly in terms of accounting and cost control.",
+  "fee": "14,720 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d0909cf7f80480672bf5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13040/logos/1515428209_XJTLU%20Square.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Digital Media Technology",
+  "university": "Xi'an Jiaotong-Liverpool University",
+  "location": "Suzhou, China",
+  "description": "In the BEng Digital Media Technology programme at Xi'an Jiaotong-Liverpool University you will learn how computerised or electronic devices can represent, record, transmit, process, display and interact with multimedia information, such as text, audio, images, video and animations.",
+  "fee": "9,089 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d0909cf7f80480672bf6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Physics (Honours)",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Bachelor of Biomedical Physics (Honours) degree at the University of Technology Sydney provides students with the unique opportunity to undertake research, and gain in-depth knowledge and training in the area of biomedical physics. ",
+  "fee": "545 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d0909cf7f80480672bf7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Engineering with Mechanical Engineering",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The Bachelor of Science Biomedical Engineering with Mechanical Engineering program from Colorado State University typically draws students interested in using biology and chemistry in engineering.",
+  "fee": "26,156 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014d0909cf7f80480672bf8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10831/logos/1568845722_uon.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical and Electronic Engineering (Honours) - Mathematics",
+  "university": "University of Newcastle",
+  "location": "Newcastle, New South Wales, Australia",
+  "description": "Complete the Electrical and Electronic Engineering (Honours) - Mathematics program from University of Newcastle in just five years – deepen your technical skills with advanced maths courses. Mathematics is fundamental to break-through engineering and can open up new, complimentary fields like data mining, mathematical modelling, statistics and predictive analysis.",
+  "fee": "23,689 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014d0909cf7f80480672bf9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical Engineering Technology - Control Systems",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "Humber College’s Electrical Engineering Technology - Control Systems advanced diploma program is designed in collaboration with an industry advisory panel ensuring you learn fundamental concepts and experience the latest technologies in this field.  ",
+  "fee": "10,950 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d0909cf7f80480672bfa"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17276/logos/1564427347_primary-wordmark-fullcolor.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Agricultural Science and Industry - Plant Science and Industries",
+  "university": "Southern Utah University",
+  "location": "Cedar City, Utah, United States",
+  "description": "Students in the Agricultural Science and Industry - Plant Science and Industries program from Southern Utah University study the latest science behind farming and apply that education first hand on the university’s 800-acre farm and 2,800-acre mountain property. ",
+  "fee": "17,174 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d0a8c8dce00ca4b223ff"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11506/logos/1540893470_rsz_lsbu_crest_simple_white_text_horizon_blackoutline.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Engineering - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS London South Bank",
+  "location": "London, England, United Kingdom",
+  "description": "This one-year (3 term) Computer Engineering - Undergraduate Foundation Programme from ONCAMPUS London South Bank offers successful students guaranteed progression to London South Bank University. You will study your Foundation programme at our Centre located at the heart of the London South Bank University campus.",
+  "fee": "16,696 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d0a8c8dce00ca4b22400"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering (Hons)",
+  "university": "Coventry University",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This Civil Engineering (Hons) course at Coventry University is aimed at students who aspire to become professionally qualified engineers, wishing to study civil engineering with an emphasis on engineering practice and its role within construction. ",
+  "fee": "18,570 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d0a8c8dce00ca4b22401"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11506/logos/1540893470_rsz_lsbu_crest_simple_white_text_horizon_blackoutline.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical Engineering and Power Electronics - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS London South Bank",
+  "location": "London, England, United Kingdom",
+  "description": "This one-year (3 term) Electrical Engineering and Power Electronics - Undergraduate Foundation Programme from ONCAMPUS London South Bank offers successful students guaranteed progression to London South Bank University. You will study your Foundation programme at our Centre located at the heart of the London South Bank University campus.",
+  "fee": "16,696 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d0a8c8dce00ca4b22402"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1758/logos/1552294633_1500x1500-ingilizce-logo-23052018.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Quantity Surveying - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS Reading",
+  "location": "London, England, United Kingdom",
+  "description": "This Quantity Surveying - Undergraduate Foundation Programme from ONCAMPUS Reading is designed to prepare international students, who have completed senior secondary education, for entry to undergraduate studies at the University of Reading. ",
+  "fee": "19,006 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d0a8c8dce00ca4b22403"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11996/logos/1584562410_unitas_int_p_pos_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering",
+  "university": "Istanbul Okan University",
+  "location": "Istanbul, Turkey",
+  "description": "The Civil Engineering program from Okan University is based upon to give the ability to our students to design and construct civil structures that control the nature for extreme events and to use the benefits of the nature for the population to live safely and economically.",
+  "fee": "3,794 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d0a9c8dce00ca4b22404"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10427/logos/1599465833_vt_pilnas_en_blue.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering (Specialisation) with Honours",
+  "university": "University of Tasmania",
+  "location": "Launceston, Tasmania, Australia",
+  "description": "The Bachelor of Engineering (Specialisation) with Honours from University of Tasmania is a distinctive Maritime Engineering degree and the only of its kind in the Southern hemisphere.",
+  "fee": "25,690 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d0a9c8dce00ca4b22405"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mechanical Engineering",
+  "university": "Faculty of Technology",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "On this 2-year, part-time HNC Mechanical Engineering course from University of Portsmouth, you'll get to grips with the fundamentals of engineering sciences and management and learn how you can apply your skills to the industries you want to work in.",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d0a9c8dce00ca4b22406"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Protection Engineering",
+  "university": "Vilnius Gediminas Technical University",
+  "location": "Vilnius, Lithuania",
+  "description": "This Environmental Protection Engineering from Vilnius Gediminas Technical University not only provides environmental knowledge, but also helps to develop the ability to monitor and evaluate the extent of environmental pollution, plan and implement engineering measures to prevent environmental pollution, improve the quality of the environment.",
+  "fee": "3,500 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d0cafe93e5d33f4a1f42"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electronic Engineering - Intensive International Foundation Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This two term Electronic Engineering - Intensive International Foundation Programme from ONCAMPUS Coventry offers successful students progression to Coventry University. You will study your Intensive Foundation programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "18,105 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014d0cafe93e5d33f4a1f43"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Motorsport Engineering (Hons)",
+  "university": "Coventry University",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This MEng/BEng Motorsport Engineering (Hons) at Coventry University has been designed to respond to the demand for Motorsport Engineers with strong analytical and problem-solving skills to ensure the industry remains at the cutting edge of innovation.",
+  "fee": "18,570 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d0cafe93e5d33f4a1f44"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Radiation Therapy",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "The Texas State University Bachelor of Science in Radiation Therapy  (B.S.R.T.) degree with a major in Radiation Therapy, is a two- and one-half year program beginning in the junior year. The junior and senior years combine clinical experiences in the affiliated radiation therapy facilities with advanced academic study in the professional disciplines.",
+  "fee": "19,647 EUR / year",
+  "duration": "2½ years"
+},{
+  "_id": {
+    "$oid": "6014d0cbfe93e5d33f4a1f45"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/c82fc116.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fashion and Textile Technologies (Short Degree Programme)",
+  "university": "Saxion University of Applied Sciences",
+  "location": "Enschede, Netherlands",
+  "description": "'The future of fashion and textiles is materials', according to trendwatcher Lidewij Edelkoort. This is exactly how Fashion and Textile Technologies (Short Degree Programme) at Saxion University of Applied Sciences distinguishes itself from other such programmes.",
+  "fee": "7,800 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d0cbfe93e5d33f4a1f46"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11506/logos/1540893470_rsz_lsbu_crest_simple_white_text_horizon_blackoutline.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Commercial Management (Quantity Surveying) - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS London South Bank",
+  "location": "London, England, United Kingdom",
+  "description": "This one-year (3 term) Commercial Management (Quantity Surveying) - Undergraduate Foundation Programme from ONCAMPUS London South Bank offers successful students guaranteed progression to London South Bank University. You will study your Foundation programme at our Centre located at the heart of the London South Bank University campus.",
+  "fee": "16,696 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d0cbfe93e5d33f4a1f47"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Analytical Chemistry and Forensic Science - International Foundation Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This one-year (3 term) Analytical Chemistry and Forensic Science - International Foundation Programme from ONCAMPUS Coventry can offer successful students progression to Coventry University. You will study your Foundation programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "18,105 EUR / full",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d0cbfe93e5d33f4a1f48"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13777/logos/1567448854_wsu_vertical_color-2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering Technology - Civil Engineering Technology",
+  "university": "Wichita State University",
+  "location": "Wichita, Kansas, United States",
+  "description": "The Engineering Technology - Civil Engineering Technology program at Wichita State University gives you the knowledge and practical skills in engineering and technology fundamentals, engineering principles, instrumentation, mathematics, science, and applied design. ",
+  "fee": "445 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d0cbfe93e5d33f4a1f49"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/38/logos/1480942147_HR_KULEUVEN_LOGO_CYMK%20(2).jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Engineering",
+  "university": "KU Leuven",
+  "location": "Brussels, Belgium",
+  "description": "Business engineers are global managers who can solve complex business problems in an analytical way using a multi-disciplinary approach. The Bachelor of Science in Business Engineering is taught in English and has a strong international focus. It is a well-rounded programme that utilizes an academic structure, and follows a 'science-as-foundation' and a 'practice-as-orientation' approach.",
+  "fee": "1,750 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d0cbfe93e5d33f4a1f4a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Building Services Engineering (Hons)",
+  "university": "School of Built Environment and Engineering",
+  "location": "Leeds, England, United Kingdom",
+  "description": "In this Building Services Engineering (Hons) programme from Leeds Beckett University you’ll work towards graduate membership of the Chartered Institution of Building Services Engineers (CIBSE), learning how to create sustainable environments within buildings.",
+  "fee": "14,720 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d0ccfe93e5d33f4a1f4b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Science",
+  "university": "University of Auckland",
+  "location": "Multiple locations",
+  "description": "The Science programme of The University of Auckland is your opportunity to create a solid foundation for your study in the Earth, Chemical, Computational, Human, Life, Mathematical and Physical Sciences.",
+  "fee": "20,825 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d0e46018b59d42d6e2f1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11506/logos/1540893470_rsz_lsbu_crest_simple_white_text_horizon_blackoutline.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bioscience - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS London South Bank",
+  "location": "London, England, United Kingdom",
+  "description": "This one-year (3 term) Bioscience - Undergraduate Foundation Programme from ONCAMPUS London South Bank offers successful students guaranteed progression to London South Bank University. You will study your Foundation programme at our Centre located at the heart of the London South Bank University campus.",
+  "fee": "16,696 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d0e46018b59d42d6e2f2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12928/logos/1583875494_eitnewlogo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil and Structural Engineering (Online)",
+  "university": "Engineering Institute of Technology",
+  "location": "Online",
+  "description": "This Civil and Structural Engineering (Online) qualification is offered at the Engineering Institute of Technology. Civil engineers are responsible for ensuring that the infrastructure around us gets developed, is safe, meets our needs and improves our quality of life.",
+  "fee": "",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d0e46018b59d42d6e2f3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11253/logos/1579013754_standard.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Systems Engineering",
+  "university": "Drexel University College of Engineering",
+  "location": "Online",
+  "description": "The Systems Engineering program Drexel University equips students with fundamental skills associated with systems engineering. ",
+  "fee": "1,107 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d0e56018b59d42d6e2f4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical and Electronic Engineering - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS UK North",
+  "location": "Preston, England, United Kingdom",
+  "description": "This one-year (3 term) Electrical and Electronic Engineering - Undergraduate Foundation Programme from ONCAMPUS UK North offers successful students guaranteed progression to UCLan and the opportunity to apply to a number of other top UK universities through the UCAS process. You will study your Foundation programme at our Centre located at the heart of the UCLan campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d0e56018b59d42d6e2f5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering (Hons)",
+  "university": "",
+  "location": "Pontypridd, Wales, United Kingdom",
+  "description": "Civil Engineering (Hons) at University of South Wales  is designed with senior industry professionals to ensure you are highly employable and a valuable addition to any area of the industry. This course is also available through Network75, a combined work and study route.",
+  "fee": "15,286 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d0e56018b59d42d6e2f6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering (Honours) - Professional Engineering Practice",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This combined Bachelor degrees in Engineering (Honours) - Professional Engineering Practice at the University of Technology Sydney is a comprehensive preparation for careers in the professional practice of engineering. Students learn to deal with complex systems and manage large-scale projects using the most appropriate emerging technologies. ",
+  "fee": "616 EUR / credit",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014d0e56018b59d42d6e2f7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical Techniques",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "Humber College’s Electrical Techniques certificate program is designed to introduce you to the fundamental elements of the trade. We aim to facilitate your employment by giving you practical experience with trade regulations and practices. ",
+  "fee": "10,209 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d0e56018b59d42d6e2f8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Construction Management",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The Construction Management program at Colorado State University is one of the top-ranked programs in the nation.",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d0e66018b59d42d6e2f9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electronic and Electrical Engineering - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS Sunderland",
+  "location": "Sunderland, England, United Kingdom",
+  "description": "This one-year (3 term) Electronic and Electrical Engineering - Undergraduate Foundation Programme at ONCAMPUS Sunderland can offer successful students guaranteed progression to the University of Sunderland. You will study your Foundation programme at our state-of-the-art Centre located at the heart of the University of Sunderland City campus.",
+  "fee": "16,526 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d1006bccf24c878cc7dd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12294/logos/1576081321_oth.global.ctt.sm.redc.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Engineering",
+  "university": "University of Illinois at Chicago",
+  "location": "Chicago, Illinois, United States",
+  "description": "As a B.S. in Computer Engineering and UIC Global student at the University of Illinois at Chicago, you get more than academic, language and cultural growth. You also gain valuable professional skills that prepare you for a long, rewarding career.",
+  "fee": "26,394 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d1006bccf24c878cc7de"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Engineering",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The B.S. in Computer Engineering at University of Maryland Baltimore County is accredited by the Engineering Accreditation Commission of ABET.",
+  "fee": "20,074 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d1016bccf24c878cc7df"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10831/logos/1568845722_uon.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medical Engineering (Honours)",
+  "university": "University of Newcastle",
+  "location": "Newcastle, New South Wales, Australia",
+  "description": "As a graduate of the Medical Engineering (Honours) program from University of Newcastle, you’ll strive to make medical treatment more effective, efficient, safer and affordable, and will be uniquely placed to save and improve lives.",
+  "fee": "24,616 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1016bccf24c878cc7e0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Manufacturing Engineering - International Foundation Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This one-year (3 term) Manufacturing Engineering - International Foundation Programme from ONCAMPUS Coventry can offer successful students progression to Coventry University. You will study your Foundation programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d1016bccf24c878cc7e1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0413e8c3.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering",
+  "university": "Kaunas University of Technology",
+  "location": "Kaunas, Lithuania",
+  "description": "The Civil Engineering programme offered by Kaunas University of Technology thoroughly covers the scientific fundamentals of civil engineering and computer-aided design skills required to apply them, providing a range of opportunities to put theory into practice through specialist laboratory classes, project works, group works using BIM methodology. ",
+  "fee": "3,200 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1016bccf24c878cc7e2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Building Surveying (Hons)",
+  "university": "School of Built Environment and Engineering",
+  "location": "Leeds, England, United Kingdom",
+  "description": "This Building Surveying (Hons) course from Leeds Beckett University will equip you with the skills you will need in design, law, management and technology to become a chartered surveyor. It will enable you to look at a building and see potential, create plans and consider practical aspects of its use.",
+  "fee": "14,720 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d1016bccf24c878cc7e3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering Science",
+  "university": "University of Technology Sydney",
+  "location": "Multiple locations",
+  "description": "This Bachelor of Engineering Science course at the University of Technology Sydney is an engineering technologist-level program which is similar in nature to the Bachelor of Engineering (Honours) but does not provide full professional engineering status. ",
+  "fee": "591 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d1026bccf24c878cc7e4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/303064/logos/1603268926_1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Aviation Management",
+  "university": "Cyprus West University",
+  "location": "Famagusta, Northern Cyprus",
+  "description": "The Civil Aviation Management program from Cyprus West University aims to train the human resources in different sectors of aviation industry. ",
+  "fee": "2,021 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014d1026bccf24c878cc7e5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mechanical and Medical Engineering - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "This one-year (3 term) Mechanical and Medical Engineering - Undergraduate Foundation Programme at ONCAMPUS Hull offers successful students guaranteed progression to the University of Hull. ",
+  "fee": "17,426 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d1026bccf24c878cc7e6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Aerospace Engineering with Pilot Studies - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS UK North",
+  "location": "Preston, England, United Kingdom",
+  "description": "This one-year (3 term) Aerospace Engineering with Pilot Studies - Undergraduate Foundation Programme from ONCAMPUS UK North offers successful students guaranteed progression to UCLan and the opportunity to apply to a number of other top UK universities through the UCAS process. You will study your Foundation programme at our Centre located at the heart of the UCLan campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "9 months"
+}]

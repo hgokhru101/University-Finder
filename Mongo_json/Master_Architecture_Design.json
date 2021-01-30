@@ -1,0 +1,705 @@
+[{
+  "_id": {
+    "$oid": "6014f0a39be29d8843d9ab68"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music Therapy",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "This unique three-year part-time Master's Music Therapy course from University of the West of England (UWE Bristol) can lead to registration as a music therapist with the Health and Care Professions Council (HCPC). It also provides a popular route for international students looking to develop their qualifications.",
+  "fee": "8,209 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f0a39be29d8843d9ab69"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13200/logos/1538988885_itmo_logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art and Science",
+  "university": "ITMO University",
+  "location": "Saint Petersburg, Russia",
+  "description": "The unique Master’s programme in Art and Science from ITMO University is created for those who strive to overcome any disciplinary boundaries. It allows to obtain scientific and engineering skills essential for artists who are already engaged in the art work and who would like to find new ways of expressing their creative initiatives. ",
+  "fee": "3,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f0a49be29d8843d9ab6a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film Curating - Master's Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Film Curating - Master's Foundation Programme from ONCAMPUS London is designed to prepare international students for postgraduate study in the UK. ",
+  "fee": "19,804 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014f0a49be29d8843d9ab6b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Surface Pattern and Textiles",
+  "university": "University of Central Lancashire (UCLan)",
+  "location": "Preston, England, United Kingdom",
+  "description": "Students on this MA Surface Pattern and Textiles course at University of Central Lancashire (UCLan) cultivate an innovative view of surface design. ",
+  "fee": "14,946 EUR / year",
+  "duration": "1 year, 1 month"
+},{
+  "_id": {
+    "$oid": "6014f0a49be29d8843d9ab6c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1090/logos/1517928432_LOGO-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Furniture Design",
+  "university": "POLI.design - Milan (Italy)",
+  "location": "Milano, Italy",
+  "description": "The Furniture Design Master offered at POLI.design - Milan (Italy) is based on the capacity of Italian companies, working in the furniture industry, to use design as a fundamental lever of competitive advantage and a structural element of corporate culture.",
+  "fee": "14,500 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f0a49be29d8843d9ab6d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/7719971d.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Urbanism",
+  "university": "Fontys School of Fine and Performing Arts",
+  "location": "Tilburg, Netherlands",
+  "description": "The Design Studio is the heart of the Urbanism program at Fontys University of Applied Sciences. In the studio students are trained to apply all kinds of skills and methods towards ever more convincing design proposals for complex spatial problems.",
+  "fee": "7,170 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f0a49be29d8843d9ab6e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1090/logos/1517928432_LOGO-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Service Design",
+  "university": "POLI.design - Milan (Italy)",
+  "location": "Milano, Italy",
+  "description": "The Master in Service Design at POLI.design - Milan (Italy)  was especially created in response to the growing demand for professionals specifically able to handle the complexity of designing a service.",
+  "fee": "15,500 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f0a49be29d8843d9ab6f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11214/logos/1528466140_MetFilm_school_FullLogo_Medium.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Directing",
+  "university": "MetFilm School Berlin",
+  "location": "Berlin, Germany",
+  "description": "The MA Directing course at MetFilm School Berlin equips you with a comprehensive skillset to work across all screen platforms – film, TV, commercials and online.",
+  "fee": "19,500 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f0a59be29d8843d9ab70"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13040/logos/1515428209_XJTLU%20Square.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Communication Design - Book Design - Master's Foundation Programme",
+  "university": "ONCAMPUS Reading",
+  "location": "Redhill, England, United Kingdom",
+  "description": "This Communication Design - Book Design - Master's Foundation Programme from ONCAMPUS Reading is designed to prepare international students, who have completed a Bachelor's degree, for entry to postgraduate studies at the University of Reading. ",
+  "fee": "19,006 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014f0fa7425348213855e1d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art History",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Art History degree offered by the University of Arizona provides a broad based and methodologically critical foundation essential to pursuing a career in Art History, whether in a university or museum setting.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f0fa7425348213855e1e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music Education - Conducting",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "The Master of Arts in Music Education - Conducting at Liberty University can help prepare you for careers in music education or administration in public, private, and higher education.",
+  "fee": "450 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f0fb7425348213855e1f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Arts Policy and Management - Master's Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Arts Policy and Management - Master's Foundation Programme from ONCAMPUS London is designed to prepare international students for postgraduate study in the UK. ",
+  "fee": "19,804 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014f0fb7425348213855e20"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Humanities",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "The MRes in Humanities from Keele University has a specific focus on encouraging ground-breaking interdisciplinarity. As part of this ethos, you can develop a unique research project with support across disciplines, learn aes). ",
+  "fee": "18,117 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f0fb7425348213855e21"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18986/logos/1550005523_10.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Design",
+  "university": "Torrens University Australia",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "Want to sharpen your professional abilities and gain a deeper understanding of various fields of design? Offered at the postgraduate level, this foundational Design course from Torrens University Australia will give you essential practical skills and current theoretical insights. ",
+  "fee": "8,229 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014f0fb7425348213855e22"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/324b1fe7.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Arts Management",
+  "university": "Università Cattolica del Sacro Cuore",
+  "location": "Milano, Italy",
+  "description": "The Master in Arts Management at Università Cattolica del Sacro Cuore offers a unique learning experience preparing students to embark on a management career in the arts and creative industry",
+  "fee": "10,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f0fb7425348213855e23"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Graphic Communication",
+  "university": "",
+  "location": "Cardiff, Wales, United Kingdom",
+  "description": "Our MA Graphic Communication at University of South Wales is an ideal opportunity to develop your skills and interests by exploring the creative issues and technical aspects of graphic design today.",
+  "fee": "15,965 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f0fc7425348213855e24"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Choreography",
+  "university": "School of Film, Music and Performing Arts",
+  "location": "Leeds, England, United Kingdom",
+  "description": "Whether you are an established choreographer intent on refining and hot-housing your practice, a dance artist looking to retrain or a recent graduate from a performance-related subject, this Choreography course from Leeds Beckett University will give you the opportunity to find new and innovative ways to produce exciting choreography.",
+  "fee": "14,720 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f0fc7425348213855e25"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Landscape Architecture",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This course is suitable for those who wish to change careers, for qualified Landscape Architects who want to update their skills, or for anyone wanting to undertake an accredited Masters of Landscape Architecture at UTS via the Graduate Certificate in Landscape Architecture from University of Technology Sydney.",
+  "fee": "534 EUR / credit",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014f0fc7425348213855e26"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music - Conducting",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Music - Conducting degree offered by the University of Arizona may be pursued with emphases in composition, ethnomusicology, music education, musicology, music theory, and performance (including accompanying and conducting)",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f10fb257dc39f28e7f32"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Animation and Visualisation",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The University of Technology Sydney Master of Animation and Visualisation has been developed in partnership with Animal Logic and is offered through the UTS Animal Logic Academy.  ",
+  "fee": "472 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f10fb257dc39f28e7f33"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Materials Design and Innovation",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The University at Buffalo SUNY - School of Engineering and Applied Sciences offers a unique Materials Design and Innovation program on the use of materials informatics that links experimental and computational perspectives of materials science and engineering. Academically qualified students from all fields of science and engineering are welcome to apply.",
+  "fee": "19,053 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014f110b257dc39f28e7f34"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Animation and Visualisation",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Graduate Certificate in Animation and Visualisation at University of Technology Sydney has been developed in partnership with the industry-leading digital animation studio Animal Logic and is offered through the UTS Animal Logic Academy. ",
+  "fee": "472 EUR / credit",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014f110b257dc39f28e7f35"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music - Composition",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Music - Composition degree offered by the University of Arizona may be pursued with emphases in composition, ethnomusicology, music education, musicology, music theory, and performance (including accompanying and conducting)",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f110b257dc39f28e7f36"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/271/logos/1548674856_UCL%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Design and Engineering",
+  "university": "University College London (UCL)",
+  "location": "London, England, United Kingdom",
+  "description": "This Environmental Design and Engineering programme offered at the University College London (UCL),  explores established, leading edge and emerging themes in built environment study, covered key areas including passive design, efficient building services systems design, advanced building simulation techniques and occupant health and comfort. ",
+  "fee": "32,270 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f110b257dc39f28e7f37"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Television Writing and Producing",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "The Television Writing and Producing certificate at Humber College prepares you to work as a television writer and producer, and to work in the production offices and on sets of major television shows.",
+  "fee": "10,012 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f110b257dc39f28e7f38"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music (Musicology, Composition, Performance, Technology)",
+  "university": "University of Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "Become the musician you want to be with a flexible taught MMus Music (Musicology, Composition, Performance, Technology) degree offered at The University of Hull.",
+  "fee": "16,418 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f111b257dc39f28e7f39"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/195/logos/1500885766_studyportals-solo-logo%20400px.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Digital Fashion Communication",
+  "university": "Università della Svizzera Italiana (USI)",
+  "location": "Lugano, Switzerland",
+  "description": "MSc in Digital Fashion Communication from Università della Svizzera Italiana (USI) is the first digital fashion communication master of its kind in the world. It has been created to fill the existing digital skills gap in fashion business education and to meet the increasing demand for highly trained digital fashion marketers.",
+  "fee": "7,420 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f111b257dc39f28e7f3a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/ce31b985.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Creative Enterprise (Art-Communication Design-Film-Theatre) - Master's Foundation Programme",
+  "university": "ONCAMPUS Reading",
+  "location": "Redhill, England, United Kingdom",
+  "description": "This Creative Enterprise (Art-Communication Design-Film-Theatre) - Master's Foundation Programme from ONCAMPUS Reading is designed to prepare international students, who have completed a Bachelor's degree, for entry to postgraduate studies at the University of Reading. ",
+  "fee": "19,006 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014f128e00d869998734ac2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art History",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Art History degree offered by the University of Arizona provides a broad based and methodologically critical foundation essential to pursuing a career in Art History, whether in a university or museum setting.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f128e00d869998734ac3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/165/logos/1518708936_crested-logo-370x111.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music - Mixed Composition pathway",
+  "university": "University of Birmingham",
+  "location": "Birmingham, England, United Kingdom",
+  "description": "The Music - Mixed Composition pathway programme offered by the University of Birmingham aims to foster your skills as you navigate this exciting new world. ",
+  "fee": "20,891 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f129e00d869998734ac4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/165/logos/1518708936_crested-logo-370x111.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film and Television - Research and Production",
+  "university": "University of Birmingham",
+  "location": "Birmingham, England, United Kingdom",
+  "description": "Do you want to develop a broad range of skills that will be directly applicable within the film and television industries? Are you looking to kick-start your career in media production or scholarly research? The Film and Television - Research and Production programme from the University of Birmingham places employability at the heart of the programme. ",
+  "fee": "21,706 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f129e00d869998734ac5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/165/logos/1518708936_crested-logo-370x111.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film Studies (On-Campus or by Distance Learning)",
+  "university": "University of Birmingham",
+  "location": "Birmingham, England, United Kingdom",
+  "description": "The Film Studies (On-Campus or by Distance Learning) programme at University of Birmingham offer promising candidates the opportunity to carry out research in one of the most dynamic institutions in Britain.",
+  "fee": "20,245 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f129e00d869998734ac6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music Education - Conducting",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "The Master of Arts in Music Education - Conducting at Liberty University can help prepare you for careers in music education or administration in public, private, and higher education.",
+  "fee": "450 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f129e00d869998734ac7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Arts Policy and Management - Master's Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Arts Policy and Management - Master's Foundation Programme from ONCAMPUS London is designed to prepare international students for postgraduate study in the UK. ",
+  "fee": "19,804 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014f129e00d869998734ac8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "History of Art",
+  "university": "Postgraduate courses",
+  "location": "London, England, United Kingdom",
+  "description": "History of art is a rich and dynamic discipline, combining the rigorous investigation of the visual arts with the creative exploration of their connections to culture, politics and society. Postgraduate study in History of Art at Birkbeck, University of London trains you at a high level in looking at, thinking about and researching art and its histories.",
+  "fee": "5,746 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f129e00d869998734ac9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film and Screen Media (with Study Abroad)",
+  "university": "Postgraduate courses",
+  "location": "London, England, United Kingdom",
+  "description": "This Master's degree in Film and Screen Media (with Study Abroad) at Birkbeck, University of London explores the history, development and interaction of film, television and other screen media. ",
+  "fee": "17,211 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f12ae00d869998734aca"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Humanities",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "The MRes in Humanities from Keele University has a specific focus on encouraging ground-breaking interdisciplinarity. As part of this ethos, you can develop a unique research project with support across disciplines, learn aes). ",
+  "fee": "18,117 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f12ae00d869998734acb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17213/logos/1506682151_centennial%20college.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architectural Technology (Fast-Track)",
+  "university": "Centennial College",
+  "location": "Pickering, Canada",
+  "description": "The Architectural Technology (Fast-Track) program at Centennial College allows qualified graduates with a university degree in architecture (including those from foreign universities) to gain direct admission into the third semester of the three-year Architectural Technology program and receive their diploma in four academic semesters.  ",
+  "fee": "10,225 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f15eec11d4d7d6b7da3d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/33/logos/1493803036_logoresized.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Building Information Management",
+  "university": "Faculty of Technology",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "This Building Information Management course at University of Portsmouth you’ll cover the fundamentals of project and financial management and learn to integrate exciting new technology.",
+  "fee": "18,570 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f15eec11d4d7d6b7da3e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/474/logos/1559810831_logo-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Contemporary Theatre, Dance and Dramaturgy",
+  "university": "Utrecht University",
+  "location": "Utrecht, Netherlands",
+  "description": "The Contemporary Theatre, Dance and Dramaturgy programme at Utrecht University welcomes both international students as well as students with a Dutch Bachelor's degree in art and culture studies, but also arts professionals who wish to enrich their practice through academic research.",
+  "fee": "17,280 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f15eec11d4d7d6b7da3f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1231/logos/1579513267_uhk3lineen.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fashion and Luxury Business",
+  "university": "EU Business School",
+  "location": "Barcelona, Spain",
+  "description": "The Master in Fashion and Luxury Business from EU Business School in Barcelona provides students with an insight into how to build and manage a unique luxury brand. The program encompasses advertising, communication and financial skills in relation to the luxury fashion industry.",
+  "fee": "13,800 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f15eec11d4d7d6b7da40"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20198/logos/1608292290_trebas_final_logo_mobile.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Teaching at Basic Art Schools - Specialization in Music Edu and Playing a Musical Instrument and Solo Singing",
+  "university": "University of Hradec Králové",
+  "location": "Hradec Králové, Czech Republic",
+  "description": "This Teaching at Basic Art Schools - Specialization in Music Edu and Playing a Musical Instrument and Solo Singing programme at the University of Hradec Králové is organised in the form of double-subject studies and offers broad knowledge and skills in music theory, developed interpretative skills in a chosen area, developed instrumental skills, teaching methods, and teaching skills.",
+  "fee": "4,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f15fec11d4d7d6b7da41"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/33/logos/1493803036_logoresized.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film and Television Production and Post-Production (Toronto)",
+  "university": "Trebas Institute",
+  "location": "Montréal, Canada",
+  "description": "Get hands-on experience in this Film and Television Production (Toronto) program offered by Trebas Institute, with a variety of projects, including short films, a web series, television broadcasts and commercials. ",
+  "fee": "14,184 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f15fec11d4d7d6b7da42"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/ce31b985.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Building Information Management (Distance Learning)",
+  "university": "Faculty of Technology",
+  "location": "Online",
+  "description": "The Architecture, Engineering and Construction industry (AEC) is changing. If you’re interested in a career in Building Information Modelling/Management (BIM), which is becoming the industry standard for the design, building and management of modern structures, this Building Information Management (Distance Learning) course at University of Portsmouth is for you.",
+  "fee": "2,718 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f15fec11d4d7d6b7da43"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9355/logos/1512479767_newlogo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Interior Architecture and Design",
+  "university": "Faculty of Creative and Cultural Industries",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "This Interior Architecture and Design course at University of Portsmouth encourages you to engage with interior spaces through creative practice and experimentation, exploring space through material and immaterial matter. The course also supports you to use advanced technologies and to engage with 3D printers.",
+  "fee": "16,192 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f1762d5b76f74a524fd6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12928/logos/1583875494_eitnewlogo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil - Structural Engineering",
+  "university": "Engineering Institute of Technology",
+  "location": "Multiple locations",
+  "description": "The Master of Engineering in Civil - Structural Engineering at the Engineering Institute of Technology addresses the specific core competencies and associated underpinning knowledge required of Structural Engineers",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f1772d5b76f74a524fd7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1448/logos/1512576428_HSE_wizard_edit_for_website_4-18-2017.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Arts and Culture Management",
+  "university": "National Research University - Higher School of Economics (HSE)",
+  "location": "Moscow, Russia",
+  "description": "The Master’s programme in Arts and Culture Management from National Research University - Higher School of Economics (HSE) is designed to train future innovative and resilient leaders in the management of art, culture, creative industries and future entrepreneurs of the industry.",
+  "fee": "1,640 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f1772d5b76f74a524fd8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architecture",
+  "university": "School Of Art, Architecture & Design",
+  "location": "Leeds, England, United Kingdom",
+  "description": "This MArch in Architecture from Leeds Beckett University is a creative, studio-focused course with a strong commitment to design research. ",
+  "fee": "15,852 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f1772d5b76f74a524fd9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sound Design",
+  "university": "School of Film, Music and Performing Arts",
+  "location": "Leeds, England, United Kingdom",
+  "description": "There are increasing numbers of freelancers in sound design and this Sound Design course from Leeds Beckett University has been created to help those already working in the industry update their skills in the planning, generation and manipulation of audio soundtracks. At the same time, it meets the training requirements of those new to the field and will help develop and encourage fresh talent.",
+  "fee": "14,720 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f1772d5b76f74a524fda"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/222/logos/1574157040_aub-logo-wireframe-400x400.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film Practice",
+  "university": "Arts University Bournemouth",
+  "location": "Bournemouth, England, United Kingdom",
+  "description": "The MA Film Practice course from Arts University Bournemouth is for talented and emerging filmmakers seeking to learn through making, to look beyond the short film, to define themselves as artists within film practice and to gain that vital experience demanded by the industry.",
+  "fee": "20,947 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f1772d5b76f74a524fdb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/861/logos/1603199647_uplogo_liliomos_en_feher_foltban.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Classical Music Performance (Guitar)",
+  "university": "University of Pécs",
+  "location": "Pécs, Hungary",
+  "description": "Classical Music Performance (Guitar) at University of Pécs focuses on developing music performance skills and artistic qualities on the highest level possible",
+  "fee": "6,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f1782d5b76f74a524fdc"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/276202/logos/1584999198_berkeley-global-bluonwht-710x150.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "UX User-Experience and UI Interface",
+  "university": "UC Berkeley Global",
+  "location": "Berkeley, California, United States",
+  "description": "Gain employable skills in UX User-Experience and UI Interface at University of California, Berkeley by completing coursework at home — or from anywhere in the world! ",
+  "fee": "9,073 EUR / full",
+  "duration": "5 months"
+},{
+  "_id": {
+    "$oid": "6014f1782d5b76f74a524fdd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/222/logos/1574157040_aub-logo-wireframe-400x400.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Illustration",
+  "university": "Arts University Bournemouth",
+  "location": "Bournemouth, England, United Kingdom",
+  "description": "The Illustration course from Arts University Bournemouth allows you to further refine your creative identity, offering a bridge between HE and professional illustration practice. It offers a great opportunity for creative professionals to return to university in order to reflect upon their creative practice and change direction.",
+  "fee": "20,947 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f1782d5b76f74a524fde"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13777/logos/1567448854_wsu_vertical_color-2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music - Piano Pedagogy",
+  "university": "Wichita State University",
+  "location": "Wichita, Kansas, United States",
+  "description": " The Music - Piano Pedagogy program at Wichita State University will help you take your musical talent and career to a higher level. ",
+  "fee": "624 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f1782d5b76f74a524fdf"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/43b16c41.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art: Studio Practice",
+  "university": "Portland State University",
+  "location": "Portland, Oregon, United States",
+  "description": "Built around a core of research-intensive creative investigation, the three-year, full-residency Studio concentration of the MFA in Art: Studio Practice degree at  Portland State University focuses on interdisciplinary experimentation and the exploration of ideas through the experience of making. ",
+  "fee": "553 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f192d4f084f8c4b6dfc2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Final Examination in Professional Practice (Part 3) Architecture",
+  "university": "Faculty of Creative and Cultural Industries",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "If you've studied architecture, surveying or civil engineering, and have completed RIBA parts 1 and 2, our Final Examination in Professional Practice (Part 3) Architecture course at University of Portsmouth is the final step in becoming a professional architect.",
+  "fee": "2,831 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f193d4f084f8c4b6dfc3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Interior Design",
+  "university": "University of Central Lancashire (UCLan)",
+  "location": "Preston, England, United Kingdom",
+  "description": "The MA Interior Design course at University of Central Lancashire (UCLan)  has been developed as a coherent part of the School of Art, Design and Fashion’s Masters Programmes and shares the same values and philosophies that unite them.",
+  "fee": "14,946 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f193d4f084f8c4b6dfc4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Professional Practice in Art and Design",
+  "university": "School Of Art, Architecture & Design",
+  "location": "Leeds, England, United Kingdom",
+  "description": "Push the boundaries of creative expression by developing your existing practice in areas such as art, graphics, sculpture, filmmaking, animation, sound and curating with this Professional Practice in Art and Design from Leeds Beckett University.",
+  "fee": "14,720 EUR / full",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014f193d4f084f8c4b6dfc5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architecture",
+  "university": "School Of Art, Architecture & Design",
+  "location": "Leeds, England, United Kingdom",
+  "description": "If you want to pursue a design specialism within architecture, this MA in Architecture from Leeds Beckett University will help you develop an expert approach to architectural thinking and design execution.",
+  "fee": "14,720 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f193d4f084f8c4b6dfc6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/474/logos/1559810831_logo-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Entrepreneurship",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The Certificate program in Entrepreneurship is offered to students by the University of Maryland Baltimore County.",
+  "fee": "934 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f193d4f084f8c4b6dfc7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fashion and Luxury Business",
+  "university": "EU Business School",
+  "location": "Montreux, Switzerland",
+  "description": "The Master in Fashion and Luxury Business from EU Business School provides students with an insight into how to build and manage a luxury unique brand. ",
+  "fee": "26,214 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f194d4f084f8c4b6dfc8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film",
+  "university": "University of South Wales",
+  "location": "Cardiff, Wales, United Kingdom",
+  "description": "The MA Film course from University of South Wales offers students the opportunity to hone key skills for a variety of career options in the film and television industry.",
+  "fee": "15,965 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f194d4f084f8c4b6dfc9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/6762ebde.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architecture - Accelerated Master's Program",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Architecture - Accelerated Master's Program degree offered by the University of Arizona allows top undergraduates to continue in a graduate program in the same UA discipline.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f194d4f084f8c4b6dfca"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Design for Smart Cities",
+  "university": "Strate School of Design",
+  "location": "Paris, France",
+  "description": "During this programme, including a final 3 to 6 month internship, students become strong professionals thanks to an intensive project-based pedagogy, and a strong connection with the industry.",
+  "fee": "",
+  "duration": "2 years, 4 months"
+}]

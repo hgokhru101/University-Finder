@@ -1,0 +1,760 @@
+[{
+  "_id": {
+    "$oid": "6014eda73a48c61cddcde0fd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9466/logos/1489658578_images.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Law and Human Rights",
+  "university": "The Hebrew University of Jerusalem",
+  "location": "Jerusalem, Israel",
+  "description": "The International Law and Human Rights program is offered at The Hebrew University of Jerusalem.",
+  "fee": "13,197 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eda73a48c61cddcde0fe"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0af180eb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Banking and Finance Law",
+  "university": "University of Leeds",
+  "location": "Leeds, England, United Kingdom",
+  "description": "This is a distinctive International Banking and Finance Law programme at the University of Leeds that provides a comprehensive postgraduate study package in the area of banking and finance law.",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eda73a48c61cddcde0ff"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "The Law programme at University of the West of England (UWE Bristol) is highly regarded by both branches of the profession, and many solicitors and barristers choose this route into law, building on the knowledge they have obtained in another academic field to establish a successful legal career.",
+  "fee": "9,625 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eda73a48c61cddcde100"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminal Litigation",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "The specialist LLM in Criminal Litigation at at City, University of London is the first postgraduate degree course in the UK to be devoted exclusively to criminal litigation. It concentrates on the principles that lie behind the criminal justice system and the need to place those principles in a critical and comparative context. ",
+  "fee": "20,619 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eda83a48c61cddcde101"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology and Criminal Justice",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "This Criminology and Criminal Justice course from Keele University is designed for all those who want to acquire a thorough understanding of the more recent and often complex trends and developments in crime, criminal justice, and governance more broadly.",
+  "fee": "18,117 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eda83a48c61cddcde102"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Legal Practice Course (LPC) - full-time",
+  "university": "The University of Law",
+  "location": "Multiple locations",
+  "description": "If you have a law degree or GDL and wish to train as a solicitor, we offer three options including an LPC MSc in Law, Business and Management to make you business ready with this Legal Practice Course (LPC) - full-time course at The University of Law.",
+  "fee": "14,437 EUR / full",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014eda83a48c61cddcde103"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Law",
+  "university": "The University of Edinburgh",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "description": "This International Law programme from The University of Edinburgh is ideally suited to those wishing to specialise in public international law and offers you a firm foundation in the fundamentals of the international legal system and international relations.",
+  "fee": "25,873 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eda83a48c61cddcde104"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law - Part-time",
+  "university": "The University of Law",
+  "location": "Multiple locations",
+  "description": "The Law - Part-time programme offered by The University of Law is designed for non-law graduates who want to gain a legal qualification at Master’s Level. This is an online course, with the option to study over one or two years. ",
+  "fee": "6,199 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eda83a48c61cddcde105"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11027/logos/1595342999_1-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Human Rights Practice",
+  "university": "The University of Arizona Global",
+  "location": "Online",
+  "description": "The University of Arizona Global will help international students like you stay on track toward an U.S. degree, wherever you are in the world. Working professionals who desire advanced human rights training can build a portfolio of applied work, a large network of contacts, and marketable skills for the practice and application of human rights. Join the Human RIghts Practice program to learn more.",
+  "fee": "12,372 EUR / year",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014eda93a48c61cddcde106"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Graduate Diploma in Law (GDL) Online - Full-time",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "Get on the case with the modular Graduate Diploma in Law (GDL) Online - Full-time. The University of Law (ULaw) GDL spreads the workload for a better paced approach.",
+  "fee": "10,587 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edbadf86ffd7892fc410"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Professional Legal Practice",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This Juris Doctor Graduate Certificate in Professional Legal Practice at the University of Technology Sydney is the only integrated law and Practical Legal Training (PLT) degree in Sydney, and meets both the academic and practical requirements for admission to practise law in NSW. ",
+  "fee": "673 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014edbadf86ffd7892fc411"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Human Rights Law and Practice",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "The aim of the Master of Arts in Human Rights Law and Practice from University of Malta is primarily to provide a multi-disciplinary and in-depth teaching of human rights law.",
+  "fee": "7,200 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014edbadf86ffd7892fc412"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Graduate Diploma in Law (GDL) Online - Part-time",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "Get on the case with the modular Graduate Diploma in Law (GDL) Online - Part-time. The University of Law (ULaw) GDL spreads the workload for a better paced approach.",
+  "fee": "6,049 EUR / year",
+  "duration": "1 year, 9 months"
+},{
+  "_id": {
+    "$oid": "6014edbbdf86ffd7892fc413"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Laws (Research)",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Master of Laws (Research) at the University of Technology Sydney provides an opportunity for graduates to develop their research skills, deepen their knowledge in some area of the law and undertake original research.  ",
+  "fee": "21,768 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014edbbdf86ffd7892fc414"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Business Law - Full-time",
+  "university": "The University of Law",
+  "location": "Multiple locations",
+  "description": "The International Business Law - Full-time programme is offered by The University of Law.",
+  "fee": "13,588 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edbbdf86ffd7892fc415"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19241/logos/1544615899_Capture.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Business Law",
+  "university": "UCLan Cyprus",
+  "location": "Larnaca, Cyprus",
+  "description": "The School of Law of UCLan Cyprus is proud to announce the LLM International Business Law. Within industry, international business law is a fast-changing and increasingly complex area. ",
+  "fee": "10,500 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edbbdf86ffd7892fc416"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Automotive Engineering - Master's Qualifying Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "The Automotive Engineering - Master's Qualifying Programme from ONCAMPUS Coventry is available as a one, two or three-term programme, with progression opportunity to a wide range of Master’s degrees at Coventry University. You will study your Master's programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014edbbdf86ffd7892fc417"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Finance Law - Part-time (Online)",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "The Finance Law - Part-time (Online) programme is offered by The University of Law.",
+  "fee": "10,417 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014edbbdf86ffd7892fc418"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0af180eb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Global Governance and Diplomacy",
+  "university": "University of Leeds",
+  "location": "Leeds, England, United Kingdom",
+  "description": "This Global Governance and Diplomacy programme at the University of Leeds  provides the expertise and skills required to pursue a fruitful career within an international organisation and their member states, or a non-governmental organisation operating within global politics.",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edbcdf86ffd7892fc419"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Human Rights - Master's Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Human Rights - Master's Foundation Programme from ONCAMPUS London is designed to prepare international students for postgraduate study in the UK. ",
+  "fee": "19,804 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014edd06bdaeb7c4c9fd3c4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11027/logos/1595342999_1-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Legal Information and Scholarly Communication",
+  "university": "The University of Arizona Global",
+  "location": "Online",
+  "description": "The University of Arizona Global will help international students like you stay on track toward an U.S. degree, wherever you are in the world. Join the Legal Information and Scholarly Communication program and gain the skills to serve in a wide variety of libraries, archives, government agencies and businesses where legal information is vital to the mission of the organization.",
+  "fee": "12,372 EUR / year",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014edd06bdaeb7c4c9fd3c5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0af180eb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminal Justice and Criminal Law",
+  "university": "University of Leeds",
+  "location": "Leeds, England, United Kingdom",
+  "description": "The Criminal Justice and Criminal Law programme at the University of Leeds  will enable you to develop a sophisticated knowledge of current issues in criminal justice, criminology and criminal law in the UK, Europe and across the globe. It combines cutting-edge compulsory modules with a wide range of optional modules allowing you to tailor your degree to your own particular interests.",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edd16bdaeb7c4c9fd3c6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Master of Arts in Criminology (Preparatory Programme)",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "The aim of this Master of Arts in Criminology (Preparatory Programme) from University of Malta  is designed predominantly to deliver a serious of study units that cover the advanced themes in criminology and to prepare students for a research based approach required at masters level thus contributing to a richer understanding of criminology.",
+  "fee": "4,250 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edd16bdaeb7c4c9fd3c7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19000/logos/1537179478_rkc-logo-rev.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Online Master of Laws in International Business Law",
+  "university": "University of Cumbria",
+  "location": "Online",
+  "description": "The Online Master of Laws in International Business Law at Robert Kennedy College is the prime management qualification for lawyers and managers wishing to strengthen their legal knowledge; research indicates that the LL.M is a catalyst for individuals with strong career aspirations. ",
+  "fee": "11,183 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edd16bdaeb7c4c9fd3c8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Global Environment and Climate Change Law",
+  "university": "The University of Edinburgh",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "description": "The Global Environment and Climate Change Law programme offered by The University of Edinburgh is designed to equip you with an advanced, multidisciplinary knowledge of the legal issues and techniques related to environmental protection, with special emphases on climate change and the marine environment.",
+  "fee": "25,873 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edd16bdaeb7c4c9fd3c9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Banking and Finance Law",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "Part of the comprehensive range of LLM programmes, the LLM in International Banking and Finance Law from University of the West of England (UWE Bristol) offers you a pathway to specialise in law relating to the global finance and banking sectors. ",
+  "fee": "15,286 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edd16bdaeb7c4c9fd3ca"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Master of Law (General) - Part-time (Online)",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "The Master of Law (General) - Part-time (Online) programme is offered by The University of Law.",
+  "fee": "9,908 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014edd16bdaeb7c4c9fd3cb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mediation and Alternative Dispute Resolution - Full-time",
+  "university": "The University of Law",
+  "location": "Multiple locations",
+  "description": "The Mediation and Alternative Dispute Resolution - Full-time programme is offered by The University of Law.",
+  "fee": "13,588 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edd26bdaeb7c4c9fd3cc"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Construction Law and Dispute Resolution",
+  "university": "School of Built Environment and Engineering",
+  "location": "Online",
+  "description": "If you’re a professional working in surveying, construction or a related field, this Construction Law and Dispute Resolution from Leeds Beckett University will develop your ability to manage disputes efficiently and to resolve them.",
+  "fee": "1,005 EUR / module",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014edd26bdaeb7c4c9fd3cd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bar Practice Course (BPC) - full-time",
+  "university": "The University of Law",
+  "location": "Multiple locations",
+  "description": "If you have a law degree or GDL and wish to train as a barrister, the Bar Practice Course (BPC) - full-time (previously the Bar Professional Training Course - BPTC) at The University of Law is designed to help you secure pupillage",
+  "fee": "13,304 EUR / full",
+  "duration": "8 months"
+},{
+  "_id": {
+    "$oid": "6014ede253697163b6f06ad0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Laws",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This Master of Laws at the University of Technology Sydney gives students the opportunity to build specialist legal skills in their area of professional practice, as well as theoretical and practical research capabilities as they relate to the study of the law. ",
+  "fee": "622 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ede253697163b6f06ad1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/489/logos/1558444085_clsbe_hor_cores-01.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law in a Digital Economy",
+  "university": "Católica Global School of Law",
+  "location": "Lisbon, Portugal",
+  "description": "The rapid development of technologies like artificial intelligence, cloud computing, blockchain and the Internet of Things have been testing the boundaries of existing legal rules and sparking debate on whether they are fit for purpose. The aim of this Law in a Digital Economy programme from Catholic University of Portugal is to prepare students to understand and anticipate these challenges.",
+  "fee": "14,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ede253697163b6f06ad2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1293/logos/1560341012_logo_hfd_300dpi_gruen.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Human Rights Studies in Politics, Law and Society",
+  "university": "Fulda University of Applied Sciences",
+  "location": "Fulda, Germany",
+  "description": "Human Rights Studies in Politics, Law and Society at Fulda University of Applied Sciences addresses graduates in the social sciences, cultural sciences, communication, law or philosophy with a special interest in human rights. ",
+  "fee": "0 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ede253697163b6f06ad3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Professional Advocacy",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "The Specialist Master of Laws (LLM) in Professional Advocacy from City, University of London provides a unique opportunity to acquire the relevant knowledge and skills to manage litigation and dispute resolution successfully and effectively.",
+  "fee": "20,619 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ede253697163b6f06ad4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/33/logos/1493803036_logoresized.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law and Technology in Europe",
+  "university": "Utrecht University",
+  "location": "Utrecht, Netherlands",
+  "description": "This thought-provoking Law and Technology in Europe programme at Utrecht University  dives deep into the fascinating digital and societal developments that are raising new questions at the intersection of law, regulation and technology.",
+  "fee": "17,280 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ede353697163b6f06ad5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Juris Doctor",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The University of Technology Sydney Juris Doctor is an internationally recognised graduate-entry qualification for non-law graduates. As an Australian Qualifications Framework Level 9 master's qualification, this course meets the academic requirements for admission as a lawyer in NSW for graduates who have successfully completed a first degree. ",
+  "fee": "648 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ede353697163b6f06ad6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/33/logos/1493803036_logoresized.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "European Criminal Justice in a Global Context",
+  "university": "Utrecht University",
+  "location": "Utrecht, Netherlands",
+  "description": "The European Criminal Justice in a Global Context programme at Utrecht University links the national criminal justice systems of the EU Member States to EU criminal law, EU constitutional law, including fundamental rights law, and EU administrative law.",
+  "fee": "17,280 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ede353697163b6f06ad7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0af180eb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Human Rights Law",
+  "university": "University of Leeds",
+  "location": "Leeds, England, United Kingdom",
+  "description": "This advanced International Human Rights Law course at the University of Leeds in human rights taught by international experts offers a unique and distinctive focus on the theories and practice of rights, producing a vibrant environment for exploring this significant area of law and policy.",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ede353697163b6f06ad8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminal Law and Criminal Justice - Master's Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Criminal Law and Criminal Justice - Master's Foundation Programme from ONCAMPUS London is designed to prepare international students for postgraduate study in the UK. ",
+  "fee": "19,804 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ede353697163b6f06ad9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19241/logos/1544615899_Capture.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Laws",
+  "university": "UCLan Cyprus",
+  "location": "Larnaca, Cyprus",
+  "description": "The Laws course at UCLan Cyprus will enable students to focus on a range of very different subjects of use in their professional careers but also specialise in a range of exciting fields of law for those preferring a narrower focus.",
+  "fee": "10,500 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edf464512cf179ee1ba5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10396/logos/1597235067_capturelogo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Policy Analysis",
+  "university": "Walden University",
+  "location": "Online",
+  "description": "The M.S. in Criminal Justice Leadership and Executive Management - Policy Analysis program from Walden University blends criminal behavioral theory with studies in human services, technology, and homeland security to help broaden your management skills.",
+  "fee": "",
+  "duration": "2 years, 8 months"
+},{
+  "_id": {
+    "$oid": "6014edf464512cf179ee1ba6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Laws (Research)",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Master of Laws (Research) at the University of Technology Sydney provides an opportunity for graduates to develop their research skills, deepen their knowledge in some area of the law and undertake original research.  ",
+  "fee": "21,768 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014edf564512cf179ee1ba7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Economic Law (Intensive) (Part-Time)",
+  "university": "Postgraduate courses",
+  "location": "London, England, United Kingdom",
+  "description": "This innovative International Economic Law (Intensive) (Part-Time) programme at Birkbeck, University of London enables you to tailor your studies to your professional and research interests. ",
+  "fee": "9,511 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014edf564512cf179ee1ba8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/18dd0aeb.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Legal Practice Course",
+  "university": "Manchester Metropolitan University",
+  "location": "Manchester, England, United Kingdom",
+  "description": "Practice your legal skills in live situations. And learn the latest theory from academic experts. The Legal Practice Course from Manchester Metropolitan University gives you the best of both worlds in a supportive university community.",
+  "fee": "13,588 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edf564512cf179ee1ba9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Business Law - Full-time",
+  "university": "The University of Law",
+  "location": "Multiple locations",
+  "description": "The International Business Law - Full-time programme is offered by The University of Law.",
+  "fee": "13,588 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edf564512cf179ee1baa"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17213/logos/1506682151_centennial%20college.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Paralegal",
+  "university": "Centennial College",
+  "location": "Toronto, Canada",
+  "description": "Access to justice requires well-trained and licensed paralegals to fill the growing demand for affordable services in the legal profession. Centennial College’s Paralegal program will prepare you to excel in the field through strong theoretical and practical courses. ",
+  "fee": "14,409 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edf564512cf179ee1bab"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19241/logos/1544615899_Capture.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Business Law",
+  "university": "UCLan Cyprus",
+  "location": "Larnaca, Cyprus",
+  "description": "The School of Law of UCLan Cyprus is proud to announce the LLM International Business Law. Within industry, international business law is a fast-changing and increasingly complex area. ",
+  "fee": "10,500 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014edf564512cf179ee1bac"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Automotive Engineering - Master's Qualifying Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "The Automotive Engineering - Master's Qualifying Programme from ONCAMPUS Coventry is available as a one, two or three-term programme, with progression opportunity to a wide range of Master’s degrees at Coventry University. You will study your Master's programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014edf664512cf179ee1bad"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Finance Law - Part-time (Online)",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "The Finance Law - Part-time (Online) programme is offered by The University of Law.",
+  "fee": "10,417 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014edf664512cf179ee1bae"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0af180eb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Global Governance and Diplomacy",
+  "university": "University of Leeds",
+  "location": "Leeds, England, United Kingdom",
+  "description": "This Global Governance and Diplomacy programme at the University of Leeds  provides the expertise and skills required to pursue a fruitful career within an international organisation and their member states, or a non-governmental organisation operating within global politics.",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee08c8296f28fb42ae68"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law",
+  "university": "University of Central Lancashire (UCLan)",
+  "location": "Preston, England, United Kingdom",
+  "description": "The LLM Law programme at University of Central Lancashire (UCLan) has a strong emphasis on flexibility of choice. Students have diverse backgrounds, needs and aspirations and this course allows them to design a programme of study, at a suitable postgraduate level, to meet those needs. ",
+  "fee": "14,946 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee08c8296f28fb42ae69"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Corporate Governance - Part-time",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "This International Corporate Governance - Part-time programme is taught at The University of Law.",
+  "fee": "9,908 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ee08c8296f28fb42ae6a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Online MA Law (i-MA Law) - Full-time",
+  "university": "University of Law, Hong Kong",
+  "location": "Online",
+  "description": "The Online MA Law (i-MA Law) - Full-time from The University of Law is an online course designed for non-law graduates who want to gain a legal qualification at Master’s Level. You’ll learn practical legal skills such as analysis and critical evaluation, alongside a range of transferable attributes such as research and presentation skills.",
+  "fee": "11,976 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee08c8296f28fb42ae6b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Data Protection and Intellectual Property - Full-time (Online)",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "The Data Protection and Intellectual Property - Full-time (Online) programme is offered by The University of Law.",
+  "fee": "10,417 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee08c8296f28fb42ae6c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Commercial Law",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "Part of the comprehensive range of postgraduate LLM programmes, the LLM in Commercial Law  from University of the West of England (UWE Bristol) offers you a specialist pathway for indepth study in law relating to business.",
+  "fee": "15,286 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee09c8296f28fb42ae6d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Legal Practice Course (LPC) - part-time weekend",
+  "university": "The University of Law",
+  "location": "Multiple locations",
+  "description": "If you have a law degree or GDL and wish to train as a solicitor, we offer three options including an LPC MSc in Law, Business and Management to make you business ready and this Legal Practice Course (LPC) - part-time weekend is offered by The University of Law.",
+  "fee": "7,874 EUR / year",
+  "duration": "1 year, 10 months"
+},{
+  "_id": {
+    "$oid": "6014ee09c8296f28fb42ae6e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/489/logos/1558444085_clsbe_hor_cores-01.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law in a European and Global Context",
+  "university": "Católica Global School of Law",
+  "location": "Lisbon, Portugal",
+  "description": "This Law in a European and Global Context at Catholic University of Portugal is a programme like no other offered in Europe. It is not simply one more programme focusing on European and International Law, our aim is to teach Law in a European and Global Context and to do so with a top international faculty and employing new methodologies and pedagogical techniques.",
+  "fee": "14,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee09c8296f28fb42ae6f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Human Rights Law - Master's Qualifying Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "The Human Rights Law - Master's Qualifying Programme from ONCAMPUS Coventry is available as a one, two or three-term programme, with progression opportunity to a wide range of Master’s degrees at Coventry University. You will study your Master's programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "16,628 EUR / year",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014ee09c8296f28fb42ae70"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Energy Law - Full-time (Online)",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "The International Energy Law - Full-time (Online) programme is offered by The University of Law.",
+  "fee": "10,417 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee09c8296f28fb42ae71"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/33092/logos/1522250150_UoE_Law_2_colour.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Innovation, Technology and the Law (Online Learning)",
+  "university": "The University of Edinburgh",
+  "location": "Online",
+  "description": "This unique and internationally-focused Innovation, Technology and the Law (Online Learning) programme at The University of Edinburgh explores how the law responds to, regulates and promotes new and emerging technologies.",
+  "fee": "26,043 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee1bce9737a6c314eaa5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Law",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "Part of the comprehensive range of LLM programmes, the LLM in International Law from University of the West of England (UWE Bristol) offers you an opportunity to study the fundamentals of international law at an advanced level, linking theory to practice.",
+  "fee": "15,286 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee1bce9737a6c314eaa6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Economic Law",
+  "university": "The University of Edinburgh",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "description": "This International Economic Law programme from The University of Edinburgh seeks to provide you with in-depth knowledge and critical understanding of the institutions, rules and principles of the international economic system, as well as of key legal and policy issues arising from the globalisation of the world economy.",
+  "fee": "25,873 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee1bce9737a6c314eaa7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law and LegalTech",
+  "university": "University of Portsmouth",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "Do you have a background in law or computing? Would you like to develop the skills and knowledge to use new technologies to offer innovative legaltech services or software? If so, the Law and LegalTech programme from University of Portsmouth is for you.",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee1bce9737a6c314eaa8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Dispute Resolution",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "The specialist LLM in International Dispute Resolution from City, University of London offers an in depth understanding of international dispute resolution practice and theory in both civil and criminal matters",
+  "fee": "20,619 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee1cce9737a6c314eaa9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Compliance and Regulation - Full-time (Online)",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "The Compliance and Regulation - Full-time (Online) programme is offered by The University of Law.",
+  "fee": "10,417 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee1cce9737a6c314eaaa"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "SQE Law Essentials Online - Full-time",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "Start your legal journey with our new SQE Law Essentials course, the first step for non-law graduates who plan to progress to SQE1. The SQE Law Essentials Online - Full-time programme is offered by The University of Law.",
+  "fee": "3,963 EUR / full",
+  "duration": "2 months"
+},{
+  "_id": {
+    "$oid": "6014ee1cce9737a6c314eaab"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Corporate Law",
+  "university": "The University of Edinburgh",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "description": "This innovative Corporate Law programme at The University of Edinburgh aims to transcend a narrow focus on legal rules and put the study of corporate law in a wider interdisciplinary and comparative framework.",
+  "fee": "25,873 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee1cce9737a6c314eaac"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Commercial and Resources Law",
+  "university": "The University of Western Australia",
+  "location": "Perth, Western Australia, Australia",
+  "description": "This Commercial and Resources Law course from The University of Western Australia prepares both legal and non-legal professionals with the knowledge and skills needed for a future in the rapidly expanding resources sector. ",
+  "fee": "25,002 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ee1cce9737a6c314eaad"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Finance Law - Full-time (Online)",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "The Finance Law - Full-time (Online) programme is offered by The University of Law.",
+  "fee": "10,417 EUR / year",
+  "duration": "1 year"
+}]

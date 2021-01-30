@@ -1,0 +1,760 @@
+[{
+  "_id": {
+    "$oid": "6014f3be89264d384606455d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/fb3bffe5.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Robotics",
+  "university": "University of Twente (UT)",
+  "location": "Enschede, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the PDEng programme in Robotics from University of Twente (UT) focuses on creating technical solutions for the industrial sector (i.e. automatic welding robots), for maintenance and inspection (i.e. sewer inspection) and for medical use (like rehabilitation or surgical robotics).",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f3be89264d384606455e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical Engineering",
+  "university": "University of Nicosia",
+  "location": "Nicosia, Cyprus",
+  "description": "The Electrical Engineering doctorate degree offered at University of Nicosia is intended for students who have excelled during their undergraduate and/or graduate studies, have a strong motivation and enthusiasm toward technological research and innovation, and are inclined to remain in an academic or research environment working on emerging technologies and challenging engineering projects.",
+  "fee": "4,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f3bf89264d384606455f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business",
+  "university": "University of Auckland",
+  "location": "Multiple locations",
+  "description": "Business at University of Auckland is a globally recognised postgraduate research degree and the highest level of degree you can achieve. PhD students are critical, curious, creative thinkers who undertake original research over at least 3 years.",
+  "fee": "4,027 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f3bf89264d3846064560"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/fb3bffe5.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Maintenance",
+  "university": "University of Twente (UT)",
+  "location": "Enschede, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the Maintenance programme from University of Twente (UT) educates technological designers who are capable to design efficient and effective maintenance processes from a multidisciplinary perspective. ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f3bf89264d3846064561"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Engineering",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The Computer Engineering program at University of Maryland Baltimore County provides advanced instruction and research opportunities in a broad range of computer engineering areas and is focused on both the theoretical and practical aspects of the state of the art in computer engineering.",
+  "fee": "934 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f3bf89264d3846064562"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/fb3bffe5.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering",
+  "university": "University of Twente (UT)",
+  "location": "Enschede, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the Civil Engineering programme from University of Twente (UT) focuses on solving design issues within the main themes of water management, transport engineering and construction engineering.",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f3bf89264d3846064563"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Smart Buildings and Cities",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the Smart Buildings and Cities programme from Eindhoven University of Technology (TU/e) is a two-year post-master technological designer program. The SB&C program wants to contribute to the transition towards smart, intelligent and sustainable cities where quality of life is high. ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f3bf89264d3846064564"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Systems and Industrial Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Systems and Industrial Engineering program at University of Arizona is designed for those individuals wishing to pursue research at an advanced level.  Only those who have already demonstrated an ability to pursue independent and scholarly work should consider applying for this program.",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f3c089264d3846064565"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Aerospace Engineering",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The Aerospace Engineering degree from the University at Buffalo SUNY - School of Engineering and Applied Sciences is designed to prepare students to assume leadership positions in the aerospace industry and related industries. ",
+  "fee": "19,053 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f3c089264d3846064566"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Hydrology",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The department offers a program leading to the Doctor of Philosophy (Ph.D.) degree with a major in Hydrology at University of Arizona. ",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f3d29ba3ff2d151b1d1a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical Engineering",
+  "university": "University of Nicosia",
+  "location": "Nicosia, Cyprus",
+  "description": "The Electrical Engineering doctorate degree offered at University of Nicosia is intended for students who have excelled during their undergraduate and/or graduate studies, have a strong motivation and enthusiasm toward technological research and innovation, and are inclined to remain in an academic or research environment working on emerging technologies and challenging engineering projects.",
+  "fee": "4,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f3d29ba3ff2d151b1d1b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business",
+  "university": "University of Auckland",
+  "location": "Multiple locations",
+  "description": "Business at University of Auckland is a globally recognised postgraduate research degree and the highest level of degree you can achieve. PhD students are critical, curious, creative thinkers who undertake original research over at least 3 years.",
+  "fee": "4,027 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f3d29ba3ff2d151b1d1c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The Civil Engineering programme from Instituto Superior Técnico combines a research project with the attendance of advanced training courses.",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f3d39ba3ff2d151b1d1d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bioengineering",
+  "university": "",
+  "location": "Lisbon, Portugal",
+  "description": "Instituto Superior Técnico, Department of Bioengineering, in collaboration with the Institute for Bioengineering and Biosciences (iBB) offer an international PhD Program on Bioengineering. ",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f3d39ba3ff2d151b1d1e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/772/logos/1547652569_logo_UA.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physical Engineering",
+  "university": "Universidade de Aveiro",
+  "location": "Aveiro, Portugal",
+  "description": "The program in Physical Engineering (PhD) from Universidade de Aveiro corresponds to the formation of researchers in the area of Physical Engineering, of high qualification and autonomy degree.",
+  "fee": "2,750 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f3d39ba3ff2d151b1d1f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/fb3bffe5.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Maintenance",
+  "university": "University of Twente (UT)",
+  "location": "Enschede, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the Maintenance programme from University of Twente (UT) educates technological designers who are capable to design efficient and effective maintenance processes from a multidisciplinary perspective. ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f3d39ba3ff2d151b1d20"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Engineering",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The Computer Engineering program at University of Maryland Baltimore County provides advanced instruction and research opportunities in a broad range of computer engineering areas and is focused on both the theoretical and practical aspects of the state of the art in computer engineering.",
+  "fee": "934 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f3d39ba3ff2d151b1d21"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/fb3bffe5.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering",
+  "university": "University of Twente (UT)",
+  "location": "Enschede, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the Civil Engineering programme from University of Twente (UT) focuses on solving design issues within the main themes of water management, transport engineering and construction engineering.",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f3d39ba3ff2d151b1d22"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/772/logos/1547652569_logo_UA.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Industrial Engineering and Management",
+  "university": "Universidade de Aveiro",
+  "location": "Aveiro, Portugal",
+  "description": "The Industrial Engineering and Management programmes offered by Universidade de Aveiro is directed to holders of a master’s degree, second cycle or equivalent, or those who have a scientific or professional curriculum recognized as relevant and appropriate, with a strong background in areas related to Industrial Engineering and Management (IEM) or other related areas.",
+  "fee": "2,325 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f3d49ba3ff2d151b1d23"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Smart Buildings and Cities",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the Smart Buildings and Cities programme from Eindhoven University of Technology (TU/e) is a two-year post-master technological designer program. The SB&C program wants to contribute to the transition towards smart, intelligent and sustainable cities where quality of life is high. ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f3e87708e4e169dcc634"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering",
+  "university": "University of Auckland",
+  "location": "Multiple locations",
+  "description": "Engineering at University of Auckland  is a globally recognised postgraduate research degree and the highest level of degree you can achieve. PhD students are critical, curious, creative thinkers who undertake original research over at least 3 years.",
+  "fee": "4,027 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f3e87708e4e169dcc635"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Animal and Comparative Biomedical Sciences",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Ph.D. degree in Animal and Comparative Biomedical Sciences from University of Arizona requires a minimal number of formal graduate courses, the passing of traditional comprehensive written and oral exams, and completion of a formal research project and dissertation defense. Our Ph.D. program does not require prior completion of a master’s degree.",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f3e87708e4e169dcc636"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Automotive Systems Design",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, TU/e offers two-year Automotive Systems Design programme from Eindhoven University of Technology (TU/e). Like a doctoral candidate, you will have the status of TU/e employee if you are selected for one of these programs. ",
+  "fee": "0 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f3e97708e4e169dcc637"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Aerospace Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Research in aerospace engineering covers the fields of aeronautics and space technology. The Aerospace Engineering program is offered by University of Arizona.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f3e97708e4e169dcc638"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Built Environment",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Globally, we notice an increasement of built environments, all constructed with different aims. As a PhD in Built Environment from Eindhoven University of Technology (TU/e), you will apply the principle of sustainability and the concept of energy-neutralism to structure built environments. In order to be able to do this, you will also be introduced to information technology and new materials. ",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f3e97708e4e169dcc639"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Neuroscience",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Neuroscience Program at University of Arizona is designed to provide students with the knowledge and tools that they will need to embark on careers as educators and researchers in the field of neuroscience. ",
+  "fee": "16,600 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f3e97708e4e169dcc63a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computational and Data-Enabled Sciences",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The integration of large computing and big data is essential to tackle the research problems in fields ranging from multi-scale modeling and design of materials to natural disasters, smart electric grids, and medical technologies. The Computational and Data-Enabled Sciences programme is offered by the University at Buffalo SUNY - School of Engineering and Applied Sciences.",
+  "fee": "19,053 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f3e97708e4e169dcc63b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical Engineering",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Electrical Engineering program at South Dakota State University offers a variety of courses that encompass a broad range of Electrical Engineering areas including: alternative energy and power systems; computer engineering, communications; electronic materials, devices and sensors; nano technology, photovoltaic devices and systems; and signal and image processing. ",
+  "fee": "534 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f3e97708e4e169dcc63c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering and Information Technology",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The PhD in Engineering and Information Technology from University of Technology Sydney is a university-wide degree which involves an intense period of supervised study and research, culminating in the submission of a thesis. ",
+  "fee": "23,622 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f3e97708e4e169dcc63d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Systems",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The PhD in Computer Systems from University of Technology Sydney is a university-wide degree which involves an intense period of supervised study and research, culminating in the submission of a thesis.  ",
+  "fee": "23,622 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f402f5e9313391eacb23"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Engineering",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The Environmental Engineering (ENEN) Program at University of Maryland Baltimore County emphasizes research in environmental engineering and water resources.",
+  "fee": "934 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f402f5e9313391eacb24"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Materials Science and Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Materials Science and Engineering program from University of Arizona designed to provide advanced study in the fields of materials properties, materials structures, and materials processing. ",
+  "fee": "16,600 EUR / year",
+  "duration": "4½ years"
+},{
+  "_id": {
+    "$oid": "6014f402f5e9313391eacb25"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Health Sciences",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The PhD in Environmental Health Sciences is offered by the Division of Community, Environment, and Policy and University of Arizona. Using an interdisciplinary approach, Environmental Health Sciences examines the critical link between environmental and occupational exposures and human health.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f402f5e9313391eacb26"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Engineering",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The PhD degree in Biomedical Engineering from the University at Buffalo SUNY - School of Engineering and Applied Sciences provides an opportunity for you to pursue a program of research in a specialized area and to develop a dissertation that embodies the results of original research and gives evidence of high level independent scholarship.",
+  "fee": "19,053 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014f403f5e9313391eacb27"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Materials Design and Innovation",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The Materials Design and Innovation department from the University at Buffalo SUNY - School of Engineering and Applied Sciences emphasizes a data driven perspective of materials discovery and design.",
+  "fee": "19,053 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f403f5e9313391eacb28"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biosystems Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The department was established in 1891. In 2018 the Department name, along with the graduate program names, changed to Biosystems Engineering. The Biosystems Engineering degree is offered by the University of Arizona.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f403f5e9313391eacb29"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering and Engineering Mechanics",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Civil Engineering and Engineering Mechanics program University of Arizona is designed to prepare a professional engineer for senior responsibility in industry, research, or teaching. ",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f403f5e9313391eacb2a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering and Surveying",
+  "university": "Faculty of Creative and Cultural Industries",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "If you're ready to take your existing knowledge and qualifications in Civil Engineering into a postgraduate research degree in Civil Engineering and Surveying, University of Portsmouth is the place to do it.",
+  "fee": "18,003 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f403f5e9313391eacb2b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Oil, Gas and Energy Engineering",
+  "university": "University of Nicosia",
+  "location": "Nicosia, Cyprus",
+  "description": "The Oil, Gas and Energy Engineering programme offered at the University of Nicosia is intended for students who have excelled during their undergraduate and/or graduate studies, have a strong motivation and enthusiasm toward technological research and innovation, and are inclined to remain in an academic or research environment working on emerging technologies and challenging engineering projects.",
+  "fee": "4,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f603939e340963f99b6b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Advanced Materials and Processing",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The Doctoral Program in Advanced Materials and Processing (AdvaMTech) is a joint doctoral program of the Instituto Superior Técnico (Universidade de Lisboa),  FCT da Universidade Nova de Lisboa, FCT da Universidade de Coimbra, Universidade de Aveiro, FE da Universidade do Porto, Universidade da Beira Interior, and Universidade do Minho. ",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f603939e340963f99b6c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/772/logos/1547652569_logo_UA.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Engineering",
+  "university": "Universidade de Aveiro",
+  "location": "Aveiro, Portugal",
+  "description": "The Computer Engineering programme offered by the Universidade de Aveiro aims to create higher level professionals.",
+  "fee": "2,750 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f604939e340963f99b6d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Animal and Comparative Biomedical Sciences",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Ph.D. degree in Animal and Comparative Biomedical Sciences from University of Arizona requires a minimal number of formal graduate courses, the passing of traditional comprehensive written and oral exams, and completion of a formal research project and dissertation defense. Our Ph.D. program does not require prior completion of a master’s degree.",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f604939e340963f99b6e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Automotive Systems Design",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, TU/e offers two-year Automotive Systems Design programme from Eindhoven University of Technology (TU/e). Like a doctoral candidate, you will have the status of TU/e employee if you are selected for one of these programs. ",
+  "fee": "0 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f604939e340963f99b6f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Aerospace Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Research in aerospace engineering covers the fields of aeronautics and space technology. The Aerospace Engineering program is offered by University of Arizona.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f604939e340963f99b70"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Built Environment",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Globally, we notice an increasement of built environments, all constructed with different aims. As a PhD in Built Environment from Eindhoven University of Technology (TU/e), you will apply the principle of sustainability and the concept of energy-neutralism to structure built environments. In order to be able to do this, you will also be introduced to information technology and new materials. ",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f604939e340963f99b71"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering and Management",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The Doctoral Program in Engineering and Management from Instituto Superior Técnico embodies a strategic option of IST. Students should be able to master knowledge in a variety of methods within the field of Management Science across a broad range of themes. ",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f605939e340963f99b72"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Neuroscience",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Neuroscience Program at University of Arizona is designed to provide students with the knowledge and tools that they will need to embark on careers as educators and researchers in the field of neuroscience. ",
+  "fee": "16,600 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f605939e340963f99b73"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computational and Data-Enabled Sciences",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The integration of large computing and big data is essential to tackle the research problems in fields ranging from multi-scale modeling and design of materials to natural disasters, smart electric grids, and medical technologies. The Computational and Data-Enabled Sciences programme is offered by the University at Buffalo SUNY - School of Engineering and Applied Sciences.",
+  "fee": "19,053 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f605939e340963f99b74"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical Engineering",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Electrical Engineering program at South Dakota State University offers a variety of courses that encompass a broad range of Electrical Engineering areas including: alternative energy and power systems; computer engineering, communications; electronic materials, devices and sensors; nano technology, photovoltaic devices and systems; and signal and image processing. ",
+  "fee": "534 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f61a30c193147c9f2019"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering and Information Technology",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The PhD in Engineering and Information Technology from University of Technology Sydney is a university-wide degree which involves an intense period of supervised study and research, culminating in the submission of a thesis. ",
+  "fee": "23,622 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f61a30c193147c9f201a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Systems",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The PhD in Computer Systems from University of Technology Sydney is a university-wide degree which involves an intense period of supervised study and research, culminating in the submission of a thesis.  ",
+  "fee": "23,622 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f61a30c193147c9f201b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Engineering",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The Environmental Engineering (ENEN) Program at University of Maryland Baltimore County emphasizes research in environmental engineering and water resources.",
+  "fee": "934 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f61a30c193147c9f201c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Naval Architecture and Ocean Engineering",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The Doctoral Program in Naval Architecture and Ocean Engineering from Instituto Superior Técnico is integrated in the 3rd cycle of studies following the Bologna Agreement as a complement of the first and second cycles in Naval Architecture and Ocean Engineering.",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f61a30c193147c9f201d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/245/logos/1499083809_Capture.JPG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sustainable Development",
+  "university": "School of Engineering and Sustainable Development",
+  "location": "Leicester, England, United Kingdom",
+  "description": "There are a number of taught modules of the Sustainable Development course at De Montfort University which will follow a matrix structure with four contextual modules that have specific relevance to the research groups, and students. There are also four generic modules that will provide the cross cutting and core skills for engaging in ‘real world’ research.",
+  "fee": "14,380 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f61b30c193147c9f201e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Materials Science and Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Materials Science and Engineering program from University of Arizona designed to provide advanced study in the fields of materials properties, materials structures, and materials processing. ",
+  "fee": "16,600 EUR / year",
+  "duration": "4½ years"
+},{
+  "_id": {
+    "$oid": "6014f61b30c193147c9f201f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Health Sciences",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The PhD in Environmental Health Sciences is offered by the Division of Community, Environment, and Policy and University of Arizona. Using an interdisciplinary approach, Environmental Health Sciences examines the critical link between environmental and occupational exposures and human health.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f61b30c193147c9f2020"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mechanical Engineering",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The main objective of this program is to provide the holders of a Doctoral Degree in Mechanical Engineering from Instituto Superior Técnico with high quality education and research standards, enabling them to develop independent research work at both academic and enterprise level.",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f61b30c193147c9f2021"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Engineering",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The PhD degree in Biomedical Engineering from the University at Buffalo SUNY - School of Engineering and Applied Sciences provides an opportunity for you to pursue a program of research in a specialized area and to develop a dissertation that embodies the results of original research and gives evidence of high level independent scholarship.",
+  "fee": "19,053 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014f61b30c193147c9f2022"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical and Computer Engineering",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "Students in the Electrical and Computer Engineering programme from Instituto Superior Técnico are introduced to an intensive research of the fundamentals of electrical or computer engineering. Students will create and disseminate knowledge of electrical and computer systems during the course of obtaining the Doctoral degree. ",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f62fd9af597066a84feb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Biomedical Engineering is a program offered by University of Arizona, that integrates the engineering sciences with biology and medicine. ",
+  "fee": "16,600 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f62fd9af597066a84fec"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/51903/logos/1507115532_KTU%20logo_EN.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Measurement Engineering",
+  "university": "Kaunas University of Technology",
+  "location": "Kaunas, Lithuania",
+  "description": "The main objective of the Measurement Engineering programme at Kaunas University of Technology is to educate talented researchers and leading specialists, who may contribute to recent research in a field of measurement engineering, create new knowledge with added value and apply it in practice.",
+  "fee": "8,787 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f62fd9af597066a84fed"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Hydrometeorology",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Department of Hydrology and Atmospheric Sciences at the University of Arizona now offers the nation’s first graduate degree programs (MS, PhD) with a Major in Hydrometeorology. ",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f62fd9af597066a84fee"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/862/logos/1523886269_Maynooth%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electronic Engineering",
+  "university": "Maynooth University",
+  "location": "Maynooth, Ireland",
+  "description": "The objective of this Electronic Engineering programme at Maynooth University is to produce high quality PhD graduates with the skills and advanced engineering knowledge to operate as independent researchers and take on leadership roles in research and development both in academia and in industry.",
+  "fee": "15,000 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f62fd9af597066a84fef"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Engineering",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "As a PhD in Biomedical Engineering from Eindhoven University of Technology (TU/e), you are really interested in everything that is related to diseases. You will investigate and develop engineering principles and tools with the aim to unravel the pathophysiology of diseases. You will also add to the enhancement of diagnostics, intervention and treatment. ",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f62fd9af597066a84ff0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1231/logos/1579513267_uhk3lineen.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Systems Engineering and Informatics",
+  "university": "University of Hradec Králové",
+  "location": "Hradec Králové, Czech Republic",
+  "description": "This Systems Engineering and Informatics programme at the University of Hradec Králové focuses on research topics such as information systems design methodologies, advanced techniques in information and knowledge processing, and ambient intelligence.",
+  "fee": "4,000 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f630d9af597066a84ff1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mechanical Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Mechanical Engineering program is offered by University of Arizona. Research in mechanical engineering includes the areas of fluid mechanics, solid mechanics, dynamic/computational mechanics, control systems and thermosciences.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f630d9af597066a84ff2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Geospatial Science and Engineering - Geography Specialization",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Geospatial Science and Engineering - Geography Specialization at South Dakota State University is an interdisciplinary program that combines advanced coursework with cutting-edge research to advance the field of geospatial sciences. ",
+  "fee": "534 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f630d9af597066a84ff3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/292679/logos/1581325563_181212_heika_graduateschoolonfunctionalmaterials_whitebackground.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "HEiKA Graduate School on Functional Materials",
+  "university": "3D Matter Made to Order",
+  "location": "Karlsruhe, Germany",
+  "description": "The HEiKA Graduate School on Functional Materials at Karlsruhe Institute of Technology (KIT)  coordinates the entire process before, during and after the application. Aside supporting the Young Scientists in their scientific research leading up to their doctorate, the Graduate School offers a module program preparing them for a highly interdisciplinary research field.",
+  "fee": "",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f630d9af597066a84ff4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mechanical Engineering",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "Mechanical Engineering from the University at Buffalo SUNY - School of Engineering and Applied Sciences gives students the ability to pursue research and complete a dissertation of original research.",
+  "fee": "19,053 EUR / year",
+  "duration": "4 years"
+}]

@@ -1,0 +1,727 @@
+[{
+  "_id": {
+    "$oid": "6014f6510a77c7d0ebf6807f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/160/logos/1571383619_logo_pysty_fi_eng-2019.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Social Sciences",
+  "university": "University of Vaasa",
+  "location": "Vaasa, Finland",
+  "description": "The Social Sciences programme at University of Vaasa is interdisciplinary and its aim is to train doctoral-level experts and independent researchers to positions especially in the public sector, but also in the private sector and for other actors of society.",
+  "fee": "0 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f6510a77c7d0ebf68080"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management - Finance",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The doctoral program in Management - Finance at the University of Arizona prepares its graduates primarily for careers as university professors, with research agendas in corporate finance, investments and financial institutions.  ",
+  "fee": "16,600 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f6510a77c7d0ebf68081"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/146/logos/1601562898_hanken_logo_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Marketing",
+  "university": "Hanken School of Economics",
+  "location": "Multiple locations",
+  "description": "As a doctoral student/candidate, you strengthen your competence and become an expert in the area you have chosen within marketing. A Doctor's degree gives you a possibility to have a career in the university world, at business schools, or as a specialist or manager in companies. The Marketing programme is delivered by Hanken School of Economics.",
+  "fee": "0 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f6510a77c7d0ebf68082"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17041/logos/1579806004_logo2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Business Administration",
+  "university": "Texas A&M International University",
+  "location": "Laredo, Texas, United States",
+  "description": "The International Business Administration program at Texas A&M International University   is designed to produce scholars who can make significant contributions through research, teaching, and service to International Business and associated fields. ",
+  "fee": "",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f6520a77c7d0ebf68083"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/02745a0a.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business and Management",
+  "university": "Ben-Gurion University of the Negev",
+  "location": "Beersheba, Israel",
+  "description": "At Ben-Gurion University of the Negev one can study and do research towards a Ph.D. degree in the Faculties of Engineering Sciences, Natural Sciences, Business and Management, Health Sciences, Humanities &amp; Social Sciences, Management and in the Jacob Blaustein Institutes of Desert Research or in interdisciplinary study programs.",
+  "fee": "4,124 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f6520a77c7d0ebf68084"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Juris Doctor - Taxation",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "This Juris Doctor - Taxation concentration at Liberty University explores the areas of federal taxation typically encountered in law practice, including individual income tax, business taxation (including S corporation, C corporation, and partnership tax), and estate and gift taxation.",
+  "fee": "30,338 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f6520a77c7d0ebf68085"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business",
+  "university": "University of Auckland",
+  "location": "Multiple locations",
+  "description": "Business at University of Auckland is a globally recognised postgraduate research degree and the highest level of degree you can achieve. PhD students are critical, curious, creative thinkers who undertake original research over at least 3 years.",
+  "fee": "4,027 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f6520a77c7d0ebf68086"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20209/logos/1605771513_logo_1500-500.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Administration",
+  "university": "Swiss School of Business Research",
+  "location": "Online",
+  "description": "The Business Administration programme from Swiss School of Business Research is a research-based program, with a practical approach, designed for professionals who have already completed an MBA or an equivalent qualification and are looking to expand their knowledge in the field.",
+  "fee": "5,900 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f6520a77c7d0ebf68087"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/160/logos/1571383619_logo_pysty_fi_eng-2019.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business and Management",
+  "university": "Faculty of Business and Law",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "As a postgraduate researcher in this Business and Management programme from University of Portsmouth, you could research the issues facing organisations and governments such as strategy, enterprise, innovation, leadership, ethics, organisation studies, human resource management and development, employment relations, sales management, advertising, operations research, and corporate branding.",
+  "fee": "17,098 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f662baa9437aaede135f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Juris Doctor - Taxation",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "This Juris Doctor - Taxation concentration at Liberty University explores the areas of federal taxation typically encountered in law practice, including individual income tax, business taxation (including S corporation, C corporation, and partnership tax), and estate and gift taxation.",
+  "fee": "30,338 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f663baa9437aaede1360"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/772/logos/1547652569_logo_UA.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Marketing and Strategy",
+  "university": "Universidade de Aveiro",
+  "location": "Aveiro, Portugal",
+  "description": "The Marketing and Strategy programme is offered by Universidade de Aveiro.",
+  "fee": "2,750 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f663baa9437aaede1361"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business",
+  "university": "University of Auckland",
+  "location": "Multiple locations",
+  "description": "Business at University of Auckland is a globally recognised postgraduate research degree and the highest level of degree you can achieve. PhD students are critical, curious, creative thinkers who undertake original research over at least 3 years.",
+  "fee": "4,027 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f663baa9437aaede1362"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20209/logos/1605771513_logo_1500-500.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Administration",
+  "university": "Swiss School of Business Research",
+  "location": "Online",
+  "description": "The Business Administration programme from Swiss School of Business Research is a research-based program, with a practical approach, designed for professionals who have already completed an MBA or an equivalent qualification and are looking to expand their knowledge in the field.",
+  "fee": "5,900 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f663baa9437aaede1363"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10396/logos/1597235067_capturelogo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminal Justice - Emergency Management",
+  "university": "Walden University",
+  "location": "Online",
+  "description": "Whether you aspire to be a leader or a teacher in the criminal justice arena, this Ph.D. in Criminal Justice - Emergency Management program from Walden University can prepare you with the skills you need for career advancement.",
+  "fee": "",
+  "duration": "2½ years"
+},{
+  "_id": {
+    "$oid": "6014f663baa9437aaede1364"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/160/logos/1571383619_logo_pysty_fi_eng-2019.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business and Management",
+  "university": "Faculty of Business and Law",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "As a postgraduate researcher in this Business and Management programme from University of Portsmouth, you could research the issues facing organisations and governments such as strategy, enterprise, innovation, leadership, ethics, organisation studies, human resource management and development, employment relations, sales management, advertising, operations research, and corporate branding.",
+  "fee": "17,098 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f664baa9437aaede1365"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Studies",
+  "university": "University of Vaasa",
+  "location": "Vaasa, Finland",
+  "description": "The Doctoral Programme in Business Studies from University of Vaasa produces Doctors of Science in Business Administration or Economics for demanding expert and management roles.",
+  "fee": "0 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f664baa9437aaede1366"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Finance and Accounting",
+  "university": "Erasmus University Rotterdam",
+  "location": "Rotterdam, Netherlands",
+  "description": "The Finance and Accounting programme at Erasmus University Rotterdam aims to enhance understanding of the financial decision-making of firms, managers and market participants, as well as the functioning of financial markets and intermediaries.",
+  "fee": "0 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014f681a6d88a15a0583555"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/862/logos/1523886269_Maynooth%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mathematics",
+  "university": "Maynooth University",
+  "location": "Maynooth, Ireland",
+  "description": "Mathematics at Maynooth University is a research degree which usually takes four years to complete. A student must write a thesis under the direction of a member of staff containing a significant new result or an original insight.",
+  "fee": "15,000 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f681a6d88a15a0583556"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/302906/logos/1600246597_faculty-of-economics.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics and Management",
+  "university": "University of South Bohemia in Ceské Budejovice (USB)",
+  "location": "Ceské Budejovice, Czech Republic",
+  "description": "Faculty of Economics of the University of South Bohemia in Ceske Budejovice (USB) offers the doctoral programme Economics and Management. ",
+  "fee": "3,300 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f681a6d88a15a0583557"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11027/logos/1595342999_1-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Educational Leadership",
+  "university": "The University of Arizona Global",
+  "location": "Online",
+  "description": "The University of Arizona Global  will help international students like you stay on track toward an U.S. degree, wherever you are in the world. Join the Educational Leadership program and prepare to work with vulnerable students, families and communities through an innovative, social justice educational leadership program.",
+  "fee": "12,372 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f681a6d88a15a0583558"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/861/logos/1603199647_uplogo_liliomos_en_feher_foltban.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Administration",
+  "university": "University of Pécs",
+  "location": "Pécs, Hungary",
+  "description": "Developed on the basis of the Hungarian PhD programme of the Doctoral School of Business Administration, this PhD in Business Administration from University of Pécs is as such nationally accredited.",
+  "fee": "6,250 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f681a6d88a15a0583559"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11027/logos/1595342999_1-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing - Executive Health Systems Leadership",
+  "university": "The University of Arizona Global",
+  "location": "Online",
+  "description": "The University of Arizona Global will help international students like you stay on track toward an U.S. degree, wherever you are in the world. This Nursing - Executive Health Systems Leadership program is pioneering healthcare leadership innovation and theory application to develop and implement strategies supporting quality outcomes and organizational goals in complex health systems.",
+  "fee": "12,372 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f682a6d88a15a058355a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management - Marketing",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The goal of the Management - Marketing (Ph.D.) program from University of Arizona is to provide students with world-class training in research and teaching and prepare them for faculty positions at major research universities world-wide.",
+  "fee": "16,600 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f682a6d88a15a058355b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Juris Doctor - Business",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "Are you seeking a Juris Doctor - Business dual degree program? While earning your law degree at Liberty University, you can complete a 36-hour general Master of Business Administration. ",
+  "fee": "30,338 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f682a6d88a15a058355c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Applied Mathematics",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Applied Mathematics is an independent interdisciplinary graduate program from University of Arizona with courses of study and research leading to Doctor of Philosophy degree.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f682a6d88a15a058355d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Family and Consumer Sciences - Family Studies and Human Development",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Family and Consumer Sciences - Family Studies and Human Development program from University of Arizona includes basic and applied courses, which provide broad exposure to relevant theories and research methods with in-depth specialization in FSHD,  emphasis area, and encourages ongoing student involvement in research, including but not limited to the thesis and dissertation.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f682a6d88a15a058355e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/146/logos/1601562898_hanken_logo_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management and Organisation",
+  "university": "Hanken School of Economics",
+  "location": "Multiple locations",
+  "description": "The Department of Management and Organisation has an ambitious doctoral studies program that aims to provide students with in-depth knowledge of their own research area, the ability to apply research methods, and the ability to create new scholarly knowledge. The Management and Organisation programme is delivered by Hanken School of Economics.",
+  "fee": "0 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f691d2b49afd9b5b2cbf"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Accounting and Finance",
+  "university": "University of Bristol",
+  "location": "Bristol, England, United Kingdom",
+  "description": "Research is central to the Department of Accounting and Finance at the University of Bristol. The  Accounting and Finance programme is offered by the University of Bristol.",
+  "fee": "21,400 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f692d2b49afd9b5b2cc0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/15924/logos/1485943124_BI-logo-eng-cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management - Management and Organizations",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The University of Arizona offers a graduate program leading to the Doctor of Philosophy degree with a major in Management - Management and Organizations. ",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f692d2b49afd9b5b2cc1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Leadership and Organisation",
+  "university": "BI Norwegian Business School",
+  "location": "Oslo, Norway",
+  "description": "This Phd Leadership and Organisation specialisation offered at BI Norwegian Business School is an international programme designed to provide candidates with the knowledge and skills necessary to the advancement of research and practice within the field of leadership and organisation.",
+  "fee": "0 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f692d2b49afd9b5b2cc2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11465/logos/1517487970_RRU%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Administration",
+  "university": "",
+  "location": "Nicosia, Cyprus",
+  "description": "The Business School of the University of Nicosia offers two Business Administration doctoral programs, the PhD and the DBA. Both degrees have the same status – but they differ in their focus and orientation.",
+  "fee": "4,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f692d2b49afd9b5b2cc3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19120/logos/1540205306_logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Doctor of Business Administration (Blended)",
+  "university": "Royal Roads University",
+  "location": "Victoria, Canada",
+  "description": "The Doctor of Business Administration (Blended) program at the Royal Roads University is a research-based doctoral program oriented to applied business management research designed primarily for working professionals who aspire to be leaders in their field or sector.",
+  "fee": "14,101 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f692d2b49afd9b5b2cc4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/862/logos/1523886269_Maynooth%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Probability and Mathematical Statistics",
+  "university": "Science and Technology",
+  "location": "Zhuhai, China",
+  "description": "The Probability and Mathematical Statistics programme at Beijing Normal University - Hong Kong Baptist University United International College aims to develop student's deep understanding, insight and creativity. ",
+  "fee": "11,356 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f693d2b49afd9b5b2cc5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10396/logos/1597235067_capturelogo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mathematics",
+  "university": "Maynooth University",
+  "location": "Maynooth, Ireland",
+  "description": "Mathematics at Maynooth University is a research degree which usually takes four years to complete. A student must write a thesis under the direction of a member of staff containing a significant new result or an original insight.",
+  "fee": "15,000 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f693d2b49afd9b5b2cc6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/772/logos/1547652569_logo_UA.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Doctor of Business Administration - Leadership",
+  "university": "Walden University",
+  "location": "Online",
+  "description": "Are you prepared to influence and advance the future of business practice? The ACBSP-accredited Doctor of Business Administration - Leadership program from Walden University examines some of the challenges and prospects that currently exist in the dynamic world of business, such as globalization, ethics, and stakeholder relationships.",
+  "fee": "",
+  "duration": "3 years, 4 months"
+},{
+  "_id": {
+    "$oid": "6014f693d2b49afd9b5b2cc7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10396/logos/1597235067_capturelogo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "E-Planning",
+  "university": "Universidade de Aveiro",
+  "location": "Aveiro, Portugal",
+  "description": "The E-Planning programme is offered by the Universidade de Aveiro.",
+  "fee": "2,750 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f6a722aac5bd238419e5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Applied Developmental Psychology",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The Applied Developmental Psychology program at University of Maryland Baltimore County reflects the intersection of developmental psychology and applied science by considering questions of developmental import within the social context of children’s everyday lives.",
+  "fee": "934 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f6a722aac5bd238419e6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Media and Communications",
+  "university": "School of Humanities and Social Sciences",
+  "location": "Nicosia, Cyprus",
+  "description": "With strengths across the fields of Media and Communications the Department of Communications from University of Nicosia offers aspirant researchers and accomplished professionals a strong platform to develop both their academic interests and their career.",
+  "fee": "4,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f6a722aac5bd238419e7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19897/logos/1574758219_au_secondary-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Administration",
+  "university": "Ajman University",
+  "location": "Sharjah, United Arab Emirates",
+  "description": "The Business Administration program from Ajman University  represents an exciting new opportunity for those with the talent and determination to succeed, wish to advance their management or consulting careers, or transition to teaching in an academic setting. ",
+  "fee": "1,112 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f6a722aac5bd238419e8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/fb3bffe5.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business and IT",
+  "university": "University of Twente (UT)",
+  "location": "Enschede, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the Professional Doctorate in Engineering in Business and IT (PDEng BIT) from University of Twente (UT) aims to raise the level of competence of professionals in IT to deal with the opportunities and challenges that IT-based innovations pose. ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f6a722aac5bd238419e9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Policy",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The Ph.D curriculum of the Public Policy program at University of Maryland Baltimore County for a student without a relevant master’s degree requires 48 hours of coursework and 18 hours of dissertation research.",
+  "fee": "934 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f6a822aac5bd238419ea"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19559/logos/1588686317_web-ace.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Leadership",
+  "university": "American College of Education",
+  "location": "Online",
+  "description": "This customizable Leadership degree at the American College of Education is designed to help you advance your leadership and research skills within your chosen discipline, whatever that may be. ",
+  "fee": "5,635 EUR / year",
+  "duration": "3½ years"
+},{
+  "_id": {
+    "$oid": "6014f6a822aac5bd238419eb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/41750/logos/1610532713_gem-logo_512x512.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Doctorate in Business Administration",
+  "university": "Grenoble Ecole de Management",
+  "location": "Online",
+  "description": "Grenoble Ecole de Management offers a Doctorate of Business Administration is the oldest DBA in Europe. It offers senior managers, independent consultants, and academics the opportunity to leverage their careers and/or to make a transition into academia. ",
+  "fee": "17,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f6a822aac5bd238419ec"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Educational Leadership and Policy",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "This Educational Leadership and Policy program from University of Arizona is designed for practicing and aspiring administrators who wish to expand their skills as scholar practitioners.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f6a822aac5bd238419ed"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Communication",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Communication PhD doctoral program from University of Arizona is grounded in theory and research concerning human communication and provides excellent preparation for careers in academia.",
+  "fee": "16,600 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f6a822aac5bd238419ee"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Science - Information Management Concentration",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "Computer Science - Information Management Concentration at Texas State University is the first in Texas to combine the application of computer science practice and theory with entrepreneurial and commercialization skills. ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f6b65803af466bc22ab1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10396/logos/1597235067_capturelogo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Doctor of Business Administration - International Business",
+  "university": "Walden University",
+  "location": "Online",
+  "description": "Are you prepared to influence and advance the future of business practice? The ACBSP-accredited Doctor of Business Administration - International Business program from Walden University examines some of the challenges and prospects that currently exist in the dynamic world of business, such as globalization, ethics, and stakeholder relationships.",
+  "fee": "",
+  "duration": "3 years, 4 months"
+},{
+  "_id": {
+    "$oid": "6014f6b65803af466bc22ab2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/302906/logos/1600246597_faculty-of-economics.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics and Management",
+  "university": "University of South Bohemia in Ceské Budejovice (USB)",
+  "location": "Ceské Budejovice, Czech Republic",
+  "description": "Faculty of Economics of the University of South Bohemia in Ceske Budejovice (USB) offers the doctoral programme Economics and Management. ",
+  "fee": "3,300 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f6b65803af466bc22ab3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11027/logos/1595342999_1-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Educational Leadership",
+  "university": "The University of Arizona Global",
+  "location": "Online",
+  "description": "The University of Arizona Global  will help international students like you stay on track toward an U.S. degree, wherever you are in the world. Join the Educational Leadership program and prepare to work with vulnerable students, families and communities through an innovative, social justice educational leadership program.",
+  "fee": "12,372 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f6b65803af466bc22ab4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/861/logos/1603199647_uplogo_liliomos_en_feher_foltban.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Administration",
+  "university": "University of Pécs",
+  "location": "Pécs, Hungary",
+  "description": "Developed on the basis of the Hungarian PhD programme of the Doctoral School of Business Administration, this PhD in Business Administration from University of Pécs is as such nationally accredited.",
+  "fee": "6,250 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f6b65803af466bc22ab5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11027/logos/1595342999_1-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing - Executive Health Systems Leadership",
+  "university": "The University of Arizona Global",
+  "location": "Online",
+  "description": "The University of Arizona Global will help international students like you stay on track toward an U.S. degree, wherever you are in the world. This Nursing - Executive Health Systems Leadership program is pioneering healthcare leadership innovation and theory application to develop and implement strategies supporting quality outcomes and organizational goals in complex health systems.",
+  "fee": "12,372 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f6b65803af466bc22ab6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10396/logos/1597235067_capturelogo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management - Self-Designed",
+  "university": "Walden University",
+  "location": "Online",
+  "description": "Whether you seek to share your expertise as an educator, a consultant, or a business leader, the ACBSP-accredited Ph.D. in Management - Self-Designed program from Walden University can help you gain the skills you need to reach your professional goals.",
+  "fee": "",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f6b75803af466bc22ab7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10396/logos/1597235067_capturelogo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Doctor of Business Administration - Technology Entrepreneurship",
+  "university": "Walden University",
+  "location": "Online",
+  "description": "Are you prepared to influence and advance the future of business practice? The ACBSP-accredited Doctor of Business Administration - Technology Entrepreneurship program from Walden University examines some of the challenges and prospects that currently exist in the dynamic world of business, such as globalization, ethics, and stakeholder relationships.",
+  "fee": "",
+  "duration": "3 years, 4 months"
+},{
+  "_id": {
+    "$oid": "6014f6b75803af466bc22ab8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10396/logos/1597235067_capturelogo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Doctor of Business Administration - Homeland Security",
+  "university": "Walden University",
+  "location": "Online",
+  "description": "Are you prepared to influence and advance the future of business practice? The ACBSP-accredited Doctor of Business Administration - Homeland Security program from Walden University examines some of the challenges and prospects that currently exist in the dynamic world of business, such as globalization, ethics, and stakeholder relationships.",
+  "fee": "",
+  "duration": "3 years, 4 months"
+},{
+  "_id": {
+    "$oid": "6014f6b75803af466bc22ab9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management - Marketing",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The goal of the Management - Marketing (Ph.D.) program from University of Arizona is to provide students with world-class training in research and teaching and prepare them for faculty positions at major research universities world-wide.",
+  "fee": "16,600 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f6b75803af466bc22aba"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Juris Doctor - Business",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "Are you seeking a Juris Doctor - Business dual degree program? While earning your law degree at Liberty University, you can complete a 36-hour general Master of Business Administration. ",
+  "fee": "30,338 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f6d1109a0fedc917102c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Administration",
+  "university": "",
+  "location": "Nicosia, Cyprus",
+  "description": "The Business School of the University of Nicosia offers two doctoral programs, the Business Administration and the DBA. Both degrees have the same status – but they differ in their focus and orientation.",
+  "fee": "4,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f6d1109a0fedc917102d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/270665/logos/1560946707_ism-full-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Doctor of Philosophy",
+  "university": "ISM - International School of Management",
+  "location": "Paris, France",
+  "description": "Deepen your understanding of how management is practiced and interpreted in different organizations, sectors and cultures with the Doctor of Philosophy programme at ISM - International School of Management. Refine your teaching and research skills to inspire new thinking in your area of expertise. Learn from faculty members who’ve earned worldwide acclaim for their applied research.",
+  "fee": "15,131 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014f6d1109a0fedc917102e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/146/logos/1601562898_hanken_logo_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Entrepreneurship, Management and Organisation",
+  "university": "Hanken School of Economics",
+  "location": "Helsinki, Finland",
+  "description": "The Department of Management and Organisation has an ambitious doctoral studies program that aims to provide students with in-depth knowledge of their own research area, the ability to apply research methods, and the ability to create new scholarly knowledge. The Entrepreneurship, Management and Organisation programme is delivered by Hanken School of Economics.",
+  "fee": "0 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f6d1109a0fedc917102f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16681/logos/1568822792_umsl_type_red_152r_30g_50b.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Education Administration",
+  "university": "University of Missouri–St. Louis",
+  "location": "Saint Louis, Michigan, United States",
+  "description": "The Education Administration program from University of Missouri–St. Louis is theory based, research driven and practitioner oriented in an effort to ensure program participants are well prepared for the expanding role of school administrators at various levels of the school and/or school district. ",
+  "fee": "",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f6d2109a0fedc9171030"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Learning Analytics",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This PhD in Learning Analytics from University of Technology Sydney is a research degree requiring an original and significant contribution to knowledge in the field of learning analytics. It is the traditional path for those wishing to pursue a career in research or academic life.  ",
+  "fee": "23,338 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f6d2109a0fedc9171031"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Family and Consumer Sciences - Retailing and Consumer Sciences",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Family and Consumer Sciences - Retailing and Consumer Sciences program from University of Arizona designed to provide broad exposure to developmental and interpersonal and family theories, to develop research skills and expertise, and to build in-depth knowledge in a content area chosen by the student.",
+  "fee": "16,600 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f6d2109a0fedc9171032"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/614/logos/1597927686_6aaa73abb24ecd33785d8e69c7f68202.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Innovation and Entrepreneurship",
+  "university": "BI Norwegian Business School",
+  "location": "Oslo, Norway",
+  "description": "This Innovation and Entrepreneurship PhD specialisation at BI Norwegian Business School educates candidates to become researchers capable of exploring challenges faced in entrepreneurial business and innovation policies. They will be able to contribute new insights to the frontiers of international research.",
+  "fee": "0 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f6d2109a0fedc9171033"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19795/logos/1566999746_ssbm-logo-final-01.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Research Track (Online)",
+  "university": "Swiss School Of Business and Management",
+  "location": "Online",
+  "description": "The objective of the Research Track (Online) program at Swiss School Of Business and Management is to provide participants with the opportunity to make significant contribution to both theory and practice in the field and to develop professional practice at the highest level. ",
+  "fee": "6,500 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f6d2109a0fedc9171034"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/146/logos/1601562898_hanken_logo_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics",
+  "university": "Hanken School of Economics",
+  "location": "Helsinki, Finland",
+  "description": "The Economics doctoral programme in Hanken School of Economics is composed of common scientific doctoral studies, major and research-related studies, and a dissertation. Hanken's School of Research coordinates all doctoral programmes at the Aalto School of Business.",
+  "fee": "0 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f6d2109a0fedc9171035"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19795/logos/1566999746_ssbm-logo-final-01.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "DBA - Research Track",
+  "university": "Swiss School Of Business and Management",
+  "location": "Genève, Switzerland",
+  "description": "The objective of this DBA - Research Track programme from Swiss School Of Business and Management is to provide participants with the opportunity to make significant contribution to both theory and practice in the field and to develop professional practice at the highest level. ",
+  "fee": "6,500 EUR / year",
+  "duration": "2 years"
+}]

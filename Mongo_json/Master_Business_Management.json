@@ -1,0 +1,771 @@
+[{
+  "_id": {
+    "$oid": "6014ef0f98fb8992e0d30005"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Informatics",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "If you are interested in learning the science of business informatics within an organisation, combined with an in-depth understanding of the capabilities and limitations of information technology - then the Graduate Diploma of Business Informatics from University of Canberra is the course for you. ",
+  "fee": "20,951 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef0f98fb8992e0d30006"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11751/logos/1606783848_nus-logo-full-color.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Maritime Technology and Management",
+  "university": "National University of Singapore",
+  "location": "Singapore, Singapore",
+  "description": "The Master of Science (Maritime Technology and Management) or MSC (MTM) seeks to train and equip graduates with key skillsets to enable next-generation port capabilities in Singapore, such as industrial systems development and emerging port technologies (e.g., digitalization to train workers). The Maritime Technology and Management programme is offered by the National University of Singapore.",
+  "fee": "22,944 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef0f98fb8992e0d30007"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Master of Business Administration",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "The Master of Business Administration from University of Canberra will provide you with the chance to develop high-level competencies relevant to a variety of different types of enterprises. You will study the subtle nuances of business in all its forms, with the view to securing future employment in an executive role, in senior management or as an entrepreneur. ",
+  "fee": "22,787 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ef1098fb8992e0d30008"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "This degree in Public Health from University of Canberra delivers a model of postgraduate public health training which aims to draw participants from a range of disciplines and offer a flexible program to meet the needs and interests of students. ",
+  "fee": "19,306 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ef1098fb8992e0d30009"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10831/logos/1568845722_uon.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Administration (Global)",
+  "university": "University of Newcastle",
+  "location": "Newcastle, New South Wales, Australia",
+  "description": "The Master of Business Administration (Global) program from University of Newcastle develops these critical capabilities through an innovative and rigorous curriculum, expert and highly engaged staff, and an active, problem-based approach to learning that develops confidence and work-readiness.",
+  "fee": "19,783 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ef1098fb8992e0d3000a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/159037/logos/1569330584_the-university-of-law.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Corporate Financial Management",
+  "university": "GISMA Business School - The University of Law",
+  "location": "Berlin, Germany",
+  "description": "The MSc Corporate Financial Management from GISMA Business School is designed for those pursuing a career in the world of finance such as banking, corporate finance, personal finance and accountancy. ",
+  "fee": "15,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef1098fb8992e0d3000b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/159128/logos/1569331082_the-university-of-law.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Leadership and Human Resource Management",
+  "university": "GISMA Business School - The University of Law",
+  "location": "Berlin, Germany",
+  "description": "The Leadership and Human Resource Management from GISMA Business School is designed and awarded by The University of Law and delivered at GISMA’s campus in Berlin.",
+  "fee": "15,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef1098fb8992e0d3000c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17057/logos/1499857234_Essex-Logo-Black.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business and Management (Business Analytics)",
+  "university": "University of Essex Online",
+  "location": "Online",
+  "description": "Increase your confidence working with data and develop your managerial skills for the fast-paced business world with the Business and Management (Business Analytics) programme at the University of Essex Online.",
+  "fee": "6,353 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ef1098fb8992e0d3000d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Development",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "Throughout this Graduate Certificate in International Development from University of Canberra you will explore the theory and practice of development on a global level, while considering an ethical approach that reflects social, cultural and environmental factors.  ",
+  "fee": "13,609 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ef1198fb8992e0d3000e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11072/logos/1592356197_csu_logo_centred_rgb_ao.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health Management and Leadership",
+  "university": "Charles Sturt Online",
+  "location": "Online",
+  "description": "If you're a practising healthcare professional working in any area of practice and you want to step into management, the revitalised Health Management and Leadership program from Charles Sturt University is for you. Study online, and develop the in-depth knowledge, skills and attitudes required for effective management and leadership practice in a health services context.",
+  "fee": "",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ef21866f822f3803ef4d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18643/logos/1574817616_sol_primarylogo_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Cybersecurity Management",
+  "university": "Swinburne Online",
+  "location": "Online",
+  "description": "The Cybersecurity Management program at Swinburne Online focuses on cybersecurity in an operational context, the Master of Cybersecurity Management produces graduates who stand out from the crowd. ",
+  "fee": "15,951 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ef21866f822f3803ef4e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20019/logos/1601474125_university-of-liverpool.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sports Business and Management",
+  "university": "University of Liverpool Online Programmes",
+  "location": "Online",
+  "description": "Designed by leading academics at the University of Liverpool’s AMBA, AACSB and EQUIS accredited Management School, this MSc Sports Business and Management programme from University of Liverpool Online Programmes helps you to cultivate the attributes needed to progress your management career, build your own sports business or thrive within an existing one.",
+  "fee": "8,153 EUR / year",
+  "duration": "2½ years"
+},{
+  "_id": {
+    "$oid": "6014ef21866f822f3803ef4f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Evening Master in Business Administration",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "Students in this Evening Master in Business Administration offered by Colorado State University challenge themselves to do more and to be more. Multi-dimensional professionals from all fields meet on campus in Fort Collins – two evenings each week for 21 months – to immerse themselves in leadership studies with a focus on real-world application.",
+  "fee": "27,954 EUR / year",
+  "duration": "1 year, 9 months"
+},{
+  "_id": {
+    "$oid": "6014ef21866f822f3803ef50"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16783/logos/1608199378_edx-logo-elm.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Global Business Leadership and Management MicroMaster Program",
+  "university": "edX - online learning platform",
+  "location": "Online",
+  "description": "EdX is an online learning platform trusted by over 12 million users offering the Global Business Leadership and Management MicroMaster Program in collaboration with Thunderbird School of Global Management and Thunderbird School of Global Management - ThunderbirdX. ",
+  "fee": "740 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ef22866f822f3803ef51"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Academic Foundations",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "The Graduate Certificate in Academic Foundations from University of Canberra offers international students a pathway to further learning in coursework master's degrees initially in the Faculty of Business, Government and Law and the Faculty of Science and Technology (other Faculties may decide to use this pathway later). ",
+  "fee": "16,559 EUR / year",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ef22866f822f3803ef52"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19983/logos/1581602076_futurelearn.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Practical Project Management Microcredential",
+  "university": "FutureLearn",
+  "location": "Online",
+  "description": "Get a professional, accredited introduction to project management from a top UK university with this Practical Project Management Microcredential at University of Glasgow by FutureLearn.",
+  "fee": "935 EUR / full",
+  "duration": "2 months"
+},{
+  "_id": {
+    "$oid": "6014ef22866f822f3803ef53"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/dac7ca9e.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics",
+  "university": "University of Helsinki",
+  "location": "Helsinki, Finland",
+  "description": "The Economics programme offered by the University of Helsinki prepares you for a career as an economist in business, financial markets and the public sector.",
+  "fee": "18,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ef22866f822f3803ef54"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Business",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "Discover the theories and practices that are shaping international business today and build the skills and knowledge required to lead a business and affect sustainable organisational change with this innovative Master of International Business from University of Canberra. ",
+  "fee": "22,154 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ef22866f822f3803ef55"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Master of Business Administration (Innovation and Leadership)",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "With a focus on innovation and leadership, the Master of Business Administration (Innovation and Leadership) from University of Canberra will provide the leaders of tomorrow with an understanding of core business concepts and a diverse set of industry-focused skills through the application of holistic, real-world analysis and an exploration of current business theories. ",
+  "fee": "22,787 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ef22866f822f3803ef56"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18643/logos/1574817616_sol_primarylogo_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Project Management",
+  "university": "Swinburne Online",
+  "location": "Online",
+  "description": "If you are looking to upskill your project management abilities to take on large-scale or more challenging projects, consider the Graduate Certificate of Project Management at Swinburne Online.",
+  "fee": "8,082 EUR / full",
+  "duration": "8 months"
+},{
+  "_id": {
+    "$oid": "6014ef44b51ac34393f9e671"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13040/logos/1515428209_XJTLU%20Square.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Multimedia Telecommunications",
+  "university": "Xi'an Jiaotong-Liverpool University",
+  "location": "Suzhou, China",
+  "description": "The MSc Multimedia Telecommunications programme at Xi'an Jiaotong-Liverpool University equips you to become a leader in this dynamic, technology-driven era by giving you specialised knowledge of AI technologies including deep learning, computer vision, and image and video processing.",
+  "fee": "7,288 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ef44b51ac34393f9e672"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/2427/logos/1608809691_business-school.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management",
+  "university": "Durham University Business School",
+  "location": "Durham, England, United Kingdom",
+  "description": "The MSc Management from Durham University is ranked 5th in the UK by the Financial Times Masters in Management rankings 2019. It is designed to provide you with the tools, techniques and knowledge to succeed in business.",
+  "fee": "28,874 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef44b51ac34393f9e673"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13040/logos/1515428209_XJTLU%20Square.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Professional Accounting",
+  "university": "Xi'an Jiaotong-Liverpool University",
+  "location": "Suzhou, China",
+  "description": "The MSc Professional Accounting programme at Xi'an Jiaotong-Liverpool University has a strong focus on professional training, equipping you with the skills and knowledge to succeed in an international business career.",
+  "fee": "11,337 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ef45b51ac34393f9e674"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16783/logos/1608199378_edx-logo-elm.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Writing for Performance and the Entertainment Industries MicroMaster",
+  "university": "University of Cambridge - CambridgeX",
+  "location": "Online",
+  "description": "EdX is an online learning platform trusted by over 12 million users offering the Writing for Performance and the Entertainment Industries MicroMaster in collaboration with University of Cambridge - CambridgeX.",
+  "fee": "1,181 EUR / full",
+  "duration": "8 months"
+},{
+  "_id": {
+    "$oid": "6014ef45b51ac34393f9e675"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/474/logos/1559810831_logo-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Global Banking and Finance",
+  "university": "EU Business School",
+  "location": "Genève, Switzerland",
+  "description": "The MBA in Global Banking and Finance from EU Business School in Geneva covers a diverse range of areas in the finance industry, from the organization, operation and challenges of the economy at large, to issues of fiscal management in firms and financial institutions.",
+  "fee": "34,408 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef45b51ac34393f9e676"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/272795/logos/1608809879_business-school.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Economics",
+  "university": "Durham University Business School",
+  "location": "Durham, England, United Kingdom",
+  "description": "The Public Economics programme at Durham University will give you the opportunity to equip yourself with the necessary skills and knowledge to pursue a career in economics and related disciplines.",
+  "fee": "24,910 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef45b51ac34393f9e677"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11751/logos/1606783848_nus-logo-full-color.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Venture Creation",
+  "university": "National University of Singapore",
+  "location": "Singapore, Singapore",
+  "description": "The Venture Creation is the most immersive graduate degree programme at the National University of Singapore that combines experiential learning with the academic rigour of Asia's top university. ",
+  "fee": "38,299 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014ef45b51ac34393f9e678"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13040/logos/1515428209_XJTLU%20Square.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Master of Business Administration",
+  "university": "Xi'an Jiaotong-Liverpool University",
+  "location": "Suzhou, China",
+  "description": "The International Master of Business Administration from Xi'an Jiaotong-Liverpool University combines rigorous academic modules with a wide range of professional development activities to foster your managerial and leadership capabilities.",
+  "fee": "15,791 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ef46b51ac34393f9e679"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/360/logos/1585725953_deusto-business-school-cuadrado.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Innovation",
+  "university": "Deusto Business School",
+  "location": "Multiple locations",
+  "description": "Innovation is a discipline that can be learned and developed with practice. Deusto Business School, one of Spain's most reputed business schools, has specifically designed the Master in Business Innovation (MBI) at the University of Deusto to prepare you to spark and manage Business Innovation successfully. ",
+  "fee": "28,750 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef46b51ac34393f9e67a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/727/logos/1538062644_ALBA%20LOGO_new_final.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Shipping and Finance",
+  "university": "Alba Graduate Business School",
+  "location": "Multiple locations",
+  "description": "The International Shipping and Finance programme taught at Alba Graduate Business School seeks to address the needs of the rapidly evolving, highly competitive and capital-intensive shipping industry by bringing the gap between academic theory and business practice.",
+  "fee": "26,326 EUR / full",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014ef60c31058140fcd565d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16783/logos/1608199378_edx-logo-elm.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Principles of Manufacturing MicroMasters Program",
+  "university": "Massachusetts Institute of Technology - MITx",
+  "location": "Online",
+  "description": "EdX is an online learning platform trusted by over 12 million users offering the Principles of Manufacturing MicroMasters Program in collaboration with Massachusetts Institute of Technology - MITx. Learn the principles of manufacturing: process control, production flow, supply chain and basic finance, from the world’s #1 ranked Mechanical Engineering department.",
+  "fee": "1,039 EUR / full",
+  "duration": "8 months"
+},{
+  "_id": {
+    "$oid": "6014ef60c31058140fcd565e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/169162/logos/1569330281_arden_fullcollogo_dkbluename_rgb.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Project Management",
+  "university": "Arden University, Study Center Berlin",
+  "location": "Berlin, Germany",
+  "description": "Taking this Project Management programme at Arden University, Study Center Berlin will enable you to manage and deliver international projects. You will also gain skills in effectively analysing data and using it for improved planning.",
+  "fee": "15,500 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef60c31058140fcd565f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/169074/logos/1569329640_arden_fullcollogo_dkbluename_rgb.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Data Analytics and Marketing",
+  "university": "Arden University, Study Center Berlin",
+  "location": "Berlin, Germany",
+  "description": "Learn a range of essential marketing skills, including analysing statistics and interpreting large sets of data, with this Data Analytics and Marketing programme delivered and awarded by Arden University, Study Center Berlin.",
+  "fee": "15,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef60c31058140fcd5660"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1803/logos/1545209754_TSM_Logo_P485.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Marketing of Innovation",
+  "university": "Toulouse School of Management (TSM)",
+  "location": "Toulouse, France",
+  "description": "The Master in International Marketing of Innovation at Toulouse School of Management (TSM) is a full-time double degree over two years, entirely taught in English and designed for International and French university graduates.",
+  "fee": "1,250 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ef60c31058140fcd5661"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Online Master in Business Administration",
+  "university": "Colorado State University",
+  "location": "Online",
+  "description": "With an Online Master in Business Administration from Colorado State University, you can confidently commit to earning your MBA without compromising the life you have or quality of your degree.",
+  "fee": "20,010 EUR / year",
+  "duration": "1 year, 9 months"
+},{
+  "_id": {
+    "$oid": "6014ef61c31058140fcd5662"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/503/logos/1580207762_logo370x111.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Management",
+  "university": "International University of Monaco (IUM)",
+  "location": "Monte-Carlo, Monaco",
+  "description": "Be ready to start a career at home and abroad across all sectors by joining our Msc in International Management. To be active players in this deep transformation, you will need to combine agile management skills with an entrepreneurial and creative mindset to operate in the fast changing global business ecosystem. You will learn from hands on experience with an entrepreneurial spirit through Capstone Projects, Corporate Projects, Business Plan Competition.",
+  "fee": "16,781 EUR / year",
+  "duration": "1 year, 4 months"
+},{
+  "_id": {
+    "$oid": "6014ef61c31058140fcd5663"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/159754/logos/1492770443_LogoContratto2015.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Strategic Communication – Dual Degree",
+  "university": "Università IULM - Milan",
+  "location": "Milano, Italy",
+  "description": "The Master's Degree in Strategic Communication – Dual Degree at Università IULM - Milan is designed to train graduates who, in addition to having a solid knowledge of specialized techniques of business communication, have a strategic vision of the role that communication can play in different organizational contexts",
+  "fee": "9,800 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ef61c31058140fcd5664"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/5dbedcfc.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Global MBA (Project Management)",
+  "university": "London School of Business and Finance",
+  "location": "Online",
+  "description": "You will attain premier leadership and management skills through a selection of 10 specialisations, giving you the opportunity to tailor the Global MBA (Project Management) from London School of Business and Finance to suit your professional goals. ",
+  "fee": "6,794 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ef61c31058140fcd5665"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19983/logos/1581602076_futurelearn.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Data Analytics for Decision Making Microcredential",
+  "university": "FutureLearn",
+  "location": "Online",
+  "description": "Data Analytics for Decision Making Microcredential at FutureLearn will help you discover the fundamentals of data analytics, and start your journey to becoming a top data scientist.",
+  "fee": "820 EUR / full",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014ef61c31058140fcd5666"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14017/logos/1515402484_1598_ULAW_BUSINESS_SCHOOL_LOGO_STACKED_RGB.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Intelligence and Analytics",
+  "university": "The University of Law Business School",
+  "location": "London, England, United Kingdom",
+  "description": "The University of Law Business School offers the Postgraduate Diploma (PG Dip) in Business Intelligence and Analytics for those who are looking to complete a postgraduate qualification, in less than one year. The PG Dip is designed to be undertaken in two terms (6 months).  ",
+  "fee": "12,852 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ef745218b39d861b78e4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18643/logos/1574817616_sol_primarylogo_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Cybersecurity Management",
+  "university": "Swinburne Online",
+  "location": "Online",
+  "description": "Studying a Graduate Certificate of Cybersecurity Management at Swinburne Online is an ideal first step towards developing expert knowledge in the field of cybersecurity, from a management perspective. ",
+  "fee": "7,975 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ef755218b39d861b78e5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14017/logos/1515402484_1598_ULAW_BUSINESS_SCHOOL_LOGO_STACKED_RGB.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Global Accounting Online",
+  "university": "The University of Law Business School",
+  "location": "Online",
+  "description": "The Global Accounting Online programme from The University of Law Business School provides the intellectual underpinnings required for a career in a rapidly changing work environment, a rigorous approach to self-awareness and personal development and a significant exposure to the world of work and its current demands.  ",
+  "fee": "6,794 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ef755218b39d861b78e6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/15783/logos/1607088098_ntu-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Online Master of Business Administration - Data Analytics",
+  "university": "Nottingham Trent University Online",
+  "location": "Online",
+  "description": "Did you know that 1 in 3 business leaders don’t have the skills to transform data into meaningful intelligence? With our Online Master of Business Administration - Data Analytics at Nottingham Trent University Online, you will stand out among other managers by knowing everything there is to know about data analytics and management and how data insights can take a company to the next level.",
+  "fee": "",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ef755218b39d861b78e7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16783/logos/1608199378_edx-logo-elm.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics and Policies for a Circular Bio-Economy MicroMaster Program",
+  "university": "Wageningen University and Research - WageningenX",
+  "location": "Online",
+  "description": "EdX is an online learning platform trusted by over 12 million users offering the Economics and Policies for a Circular Bio-Economy MicroMaster Program in collaboration with Wageningen University and Research - WageningenX. Learn more about the business and economic aspects of a circular economy, and gain the skills to make the switch to biobased resources and build a sustainable business.",
+  "fee": "553 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ef755218b39d861b78e8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14017/logos/1515402484_1598_ULAW_BUSINESS_SCHOOL_LOGO_STACKED_RGB.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Strategic Business Management Online",
+  "university": "The University of Law Business School",
+  "location": "Online",
+  "description": "This Strategic Business Management Online degree from The University of Law Business School is ideal for those interested in a future career in business and management, including roles such as manager, consultant, analyst or entrepreneur. ",
+  "fee": "3,397 EUR / full",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014ef765218b39d861b78e9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11406/logos/1591086885_les-roches-logo-cobranded-black.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Hospitality Strategy and Digital Transformation",
+  "university": "Les Roches Global Hospitality Education",
+  "location": "Sion, Switzerland",
+  "description": "The new Master’s in Hospitality Strategy and Digital Transformation at Les Roches International School of Hotel Management Switzerland is the first of its kind in the world – is designed to make you ready to seize these opportunities to shape the hospitality industry of tomorrow.",
+  "fee": "38,408 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ef765218b39d861b78ea"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20128/logos/1601282792_vert-1000-white.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Data Science for Business Leaders",
+  "university": "School of Business",
+  "location": "Online",
+  "description": "Master the strategic decision-making skills for the people, platforms, and processes required to leverage the power of Data Science in your business with this Data Science for Business Leaders course at Udacity.",
+  "fee": "659 EUR / full",
+  "duration": "2 months"
+},{
+  "_id": {
+    "$oid": "6014ef765218b39d861b78eb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16783/logos/1608199378_edx-logo-elm.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Integrated Digital Media MicroMaster Program",
+  "university": "edX - online learning platform",
+  "location": "Online",
+  "description": "EdX is an online learning platform trusted by over 12 million users offering the Integrated Digital Media MicroMasters Program in collaboration with New York University - NYUx. With the evolution of media entities like Time Warner, NBC Universal and Condé Nast, it’s increasingly clear that the world is not just consuming media -- we’re experiencing it.",
+  "fee": "682 EUR / year",
+  "duration": "1 year, 1 month"
+},{
+  "_id": {
+    "$oid": "6014ef765218b39d861b78ec"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/78144/logos/1572970287_oncampus-amsterdam-logo_colour_stacked.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Master's Qualifying Programme",
+  "university": "ONCAMPUS Amsterdam",
+  "location": "Amsterdam, Netherlands",
+  "description": "The Master's Qualifying Programme from ONCAMPUS Amsterdam prepares you for postgraduate study at the University of Amsterdam. You will study your Foundation programme at the heart of the University of Amsterdam campus, and attend classes with students from the university.",
+  "fee": "18,285 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014ef765218b39d861b78ed"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/29155afb.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Data Driven Marketing - Marketing Intelligence",
+  "university": "NOVA IMS",
+  "location": "Lisbon, Portugal",
+  "description": "The Master Program in Data Driven Marketing  - Marketing Intelligence from NOVA IMS, aims to train experts and managers able to lead and guide the collection, compilation, analysis and dissemination of marketing information in organizations.",
+  "fee": "3,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ef8cf8fe829b51d18dad"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19392/logos/1551092926_ddddd.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Wine, Spirits and ''Art de Vivre'' Management",
+  "university": "Institut Superieur De Marketing Du Luxe",
+  "location": "Courbevoie, France",
+  "description": "The Institut Superieur De Marketing Du Luxe MSc Wine, Spirits and ''Art de Vivre'' Management’s objective is to train and prepare specialized managers, strengthening their sensitivity and competences in the Wine, Spirits & Art de Vivre industries.",
+  "fee": "19,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef8cf8fe829b51d18dae"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/285650/logos/1582728988_capture.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Urban Housing, Equity and Social Justice",
+  "university": "Erasmus University Rotterdam",
+  "location": "Rotterdam, Netherlands",
+  "description": "The Urban Housing, Equity and Social Justice programme at Erasmus University Rotterdam  is a specialisation track within the MSc in Urban Management and Development, which offers students the opportunity to assess the provision of housing in relation to equity and socio-spatial justice. ",
+  "fee": "14,200 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef8cf8fe829b51d18daf"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/14790/logos/1567605280_hult_ibs_logo_outline_black-01.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Masters in Business Analytics",
+  "university": "Hult International Business School",
+  "location": "San Francisco, California, United States",
+  "description": "The one-year Master’s in Business Analytics from Hult International Business School helps students forge a STEM career by learning how to translate data statistics and analysis into impactful business decisions in the golden age of big data.",
+  "fee": "40,828 EUR / full",
+  "duration": "11 months"
+},{
+  "_id": {
+    "$oid": "6014ef8df8fe829b51d18db0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19983/logos/1581602076_futurelearn.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Change Management Microcredential",
+  "university": "FutureLearn",
+  "location": "Online",
+  "description": "FutureLearn provides this Change Management Microcredential course from University of Glasgow which will help you get professional and accredited training in change management strategy and advance your career towards senior managerial roles.",
+  "fee": "935 EUR / full",
+  "duration": "2 months"
+},{
+  "_id": {
+    "$oid": "6014ef8df8fe829b51d18db1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/10951/logos/1585055099_sda_logo_blue_500px.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "MAFED - Fashion, Experience and Design Management",
+  "university": "SDA Bocconi School of Management",
+  "location": "Milano, Italy",
+  "description": "The Master in Fashion, Experience & Design Management is a 1-year full-time experience that provides you with the most solid management skills to work in highly creative industries. MAFED prepares you to combine unlimited imagination with enhanced methodologies and analytical capabilities, consistent strategies and carefully targeted marketing initiatives, new managerial tools and rigorous KPIs.",
+  "fee": "34,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef8df8fe829b51d18db2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19361/logos/1606224829_iubh_online_vertical.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Master of Business Administration",
+  "university": "IUBH University of Applied Sciences - Online",
+  "location": "Online",
+  "description": "The Master of Business Administration at IUBH University of Applied Sciences - Online offers a variety of career opportunities after graduation. The international orientation of the programme makes it possible to prove one's skills in the global working world and to assign with international companies. ",
+  "fee": "10,990 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef8df8fe829b51d18db3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Logistics and Supply Chain Management",
+  "university": "University of Hull Online",
+  "location": "Online",
+  "description": "This Logistics and Supply Chain Management course from The University of Hull Online will give you in-depth knowledge of the best practices, tools and techniques you need to master the complexities of global supply chains.",
+  "fee": "5,661 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ef8df8fe829b51d18db4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19983/logos/1581602076_futurelearn.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Data Analytics for Business with Tableau Training Microcredential",
+  "university": "FutureLearn",
+  "location": "Online",
+  "description": "Get professional quantitative data analytics training and fast track your career in a leading industry with high job growth with this Data Analytics for Business with Tableau Training Microcredential at FutureLearn in collaboration with Tableau.",
+  "fee": "585 EUR / full",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014ef8ef8fe829b51d18db5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13040/logos/1515428209_XJTLU%20Square.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Financial Computing",
+  "university": "Xi'an Jiaotong-Liverpool University",
+  "location": "Suzhou, China",
+  "description": "The MSc Financial Computing programme at Xi'an Jiaotong-Liverpool University addresses market demand and will train you for advanced technical or managerial roles in new and emerging interdisciplinary areas that combine computer science and finance.",
+  "fee": "7,288 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ef8ef8fe829b51d18db6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/159119/logos/1569331141_the-university-of-law.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Strategic Business Management",
+  "university": "GISMA Business School - The University of Law",
+  "location": "Berlin, Germany",
+  "description": "The Strategic Business Management from GISMA Business School covers fundamental concepts in business strategy and performance management. ",
+  "fee": "15,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef9f123673604da8efb0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/be8405b3.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics",
+  "university": "Collegio Carlo Alberto",
+  "location": "Torino, Italy",
+  "description": "The Master in Economics offered at Collegio Carlo Alberto aims to endow its students with advanced training in modern economic theory and methods. The courses are taught in English by our faculty recruited from top schools on the international academic job market.",
+  "fee": "8,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ef9f123673604da8efb1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19000/logos/1537179478_rkc-logo-rev.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Online Leading Innovation and Change",
+  "university": "York St John University",
+  "location": "Online",
+  "description": "The Online Leading Innovation and Change at Robert Kennedy College will be of interest to you if you are a career professional who wishes to develop your skills in leading innovation and change, or you are currently supporting innovation and change in the work place or in the community.",
+  "fee": "13,950 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014efa0123673604da8efb2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/474/logos/1559810831_logo-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Communication and Public Relations",
+  "university": "EU Business School",
+  "location": "Barcelona, Spain",
+  "description": "The MBA in Communication and Public Relations program from EU Business School in Barcelona will provide students with the skill-set to stay ahead of current trends and apply the latest technologies and communication strategies.",
+  "fee": "20,850 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014efa0123673604da8efb3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/257362/logos/1569330381_arden_fullcollogo_dkbluename_rgb.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Data Analytics and Information Systems Management",
+  "university": "Arden University, Study Center Berlin",
+  "location": "Berlin, Germany",
+  "description": "This Data Analytics and Information Systems Management course at Arden University, Study Center Berlin will give you the skills you need to benefit from the opportunities big data offers. Gaining this essential knowledge will allow you to apply data handling methods to inform your business decisions and ensure your firm’s information systems are aligned with business goals and strategies.",
+  "fee": "15,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014efa0123673604da8efb4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/45593/logos/1608809906_business-school.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics",
+  "university": "Durham University Business School",
+  "location": "Durham, England, United Kingdom",
+  "description": "The MSc programme in Economics at Durham University will give you the opportunity to equip yourself with the necessary skills and knowledge to pursue a career in economics and related disciplines.",
+  "fee": "24,910 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014efa0123673604da8efb5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/45602/logos/1608809761_business-school.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Finance (International Banking and Finance)",
+  "university": "Durham University Business School",
+  "location": "Durham, England, United Kingdom",
+  "description": "The Finance (International Banking and Finance) programme at Durham University  is designed to provide you with rigorous training at the frontier of research, as well as the advanced analytical and technical skills that are highly sought after by global employers and, if you wish to continue your studies, by world-leading PhD programmes. ",
+  "fee": "32,270 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014efa0123673604da8efb6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/216661/logos/1586441553_fba_logo01_rgb_colors.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Professional Master in Football Business",
+  "university": "Football Business Academy",
+  "location": "Lisbon, Portugal",
+  "description": "Thanks to this Professional Master in Football Business from Football Business Academy, students will be prepared to start their provided internship (Module 3) where they will be able to use their acquired skills and contacts, get a foot in the industry and learn first-hand how it works.",
+  "fee": "28,283 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014efa1123673604da8efb7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16783/logos/1608199378_edx-logo-elm.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Leading Educational Innovation and Improvement MicroMasters Program",
+  "university": "University of Michigan - MichiganX",
+  "location": "Online",
+  "description": "EdX is an online learning platform trusted by over 12 million users offering the Leading Educational Innovation and Improvement MicroMasters Program in collaboration with University of Michigan - MichiganX . Become an innovative leader with new R&D strategies for improving classrooms, schools and educational systems.",
+  "fee": "775 EUR / full",
+  "duration": "1 month"
+},{
+  "_id": {
+    "$oid": "6014efa1123673604da8efb8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/15864/logos/1600680372_arden_2020_tiffany_720x720.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Data Analytics and Finance",
+  "university": "Arden University Online",
+  "location": "Online",
+  "description": "The future is data and the better you are equipped to deal with a world of information, the greater your chances for success. In this Data Analytics and Finance programme from Arden University Online you will learn to make the best use of big data in the competitive field of finance.",
+  "fee": "2,337 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014efa1123673604da8efb9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/29155afb.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Statistics and Information Management - Information Analysis and Management",
+  "university": "NOVA IMS",
+  "location": "Lisbon, Portugal",
+  "description": "The Master Program in Statistics and Information Management - Information Analysis and Management from NOVA IMS, aims to train experts and managers qualified to lead and guide information collection, compilation, analysis and management inside organizations.",
+  "fee": "4,000 EUR / year",
+  "duration": "1½ years"
+}]

@@ -1,0 +1,760 @@
+[{
+  "_id": {
+    "$oid": "6014eccee4bc0524b5a20cd9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/312/logos/1484571783_JU_A_sv.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Interventions in Childhood",
+  "university": "Jönköping University",
+  "location": "Jönköping, Sweden",
+  "description": "The Master’s programme Interventions in Childhood offered by Jönköping University offers an interdisciplinary education to provide effective interventions for children in need of support in their development, learning and functioning in everyday life, beyond what is provided to all children.",
+  "fee": "11,281 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eccee4bc0524b5a20cda"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/862/logos/1523886269_Maynooth%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Immunology and Global Health",
+  "university": "Maynooth University",
+  "location": "Maynooth, Ireland",
+  "description": "This Immunology and Global Health programme at Maynooth University represents an innovative development in higher degree options in the biological sciences.",
+  "fee": "17,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eccee4bc0524b5a20cdb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Engineering",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "The Biomedical Engineering programme from Eindhoven University of Technology (TU/e) is a relatively new programme that is up-and-coming. Modern technology has become an inextricable part of medicine and healthcare. That means there is a growing need on both the technological and the healthcare side for people with a grasp of increasingly complex biomedical problems.",
+  "fee": "16,400 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eccee4bc0524b5a20cdc"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Crowded Places and Public Safety Management",
+  "university": "Coventry University",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This Crowded Places and Public Safety Management course aims at Coventry University to provide you with the academic underpinning to analyse the features that make for best-practice planning, policy and process, so that you can go on to devise effective crowded places arrangements of your own.",
+  "fee": "16,645 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eccfe4bc0524b5a20cdd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18986/logos/1550005523_10.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health (Advanced)",
+  "university": "Torrens University Australia",
+  "location": "Multiple locations",
+  "description": "This Public Health (Advanced) degree from Torrens University Australia is designed specifically for international students or those who wish to complete a 2-year program studied full-time. With sixteen subjects instead of twelve, students will gain a more advanced body of knowledge.",
+  "fee": "15,065 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eccfe4bc0524b5a20cde"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18986/logos/1550005523_10.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Administration and Public Health",
+  "university": "Torrens University Australia",
+  "location": "Multiple locations",
+  "description": "This Business Administration and Public Health dual degree from Torrens University Australia combines leadership and management training with a range of public health skills. It is designed for health professionals with an undergraduate degree or recognised professional qualification in a relevant discipline.",
+  "fee": "14,210 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014eccfe4bc0524b5a20cdf"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health - Family and Child Health Global",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Public Health - Family and Child Health Global degree offered by the University of Arizona is designed to be an interdisciplinary, professional degree in public health. The MPH Program provides opportunities for students to obtain broad knowledge and basic skills in the core areas of public health.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eccfe4bc0524b5a20ce0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Social Dimensions of Health",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The Social Dimensions of Health certificate program is offered by the University of Maryland Baltimore County.",
+  "fee": "934 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014eccfe4bc0524b5a20ce1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Global Health Care Management",
+  "university": "Coventry University",
+  "location": "Coventry, England, United Kingdom",
+  "description": "The impetus for the MSc Global Health Care Management programme at Coventry University stems from recognition, nationally and internationally, of the need to build leadership and management capabilities for those wishing to pursue careers within health care, social care and third sector organisations",
+  "fee": "16,645 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ecd0e4bc0524b5a20ce2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Rural and Remote Medicine",
+  "university": "The University of Western Australia",
+  "location": "Perth, Western Australia, Australia",
+  "description": "Tackle the questions important to those who live in the bush – questions that may only be explored in a local context with this Master of Rural and Remote Medicine from The University of Western Australia. Indigenous health is a special focus.",
+  "fee": "49,846 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ecf39d466e6cb311214f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physiotherapy",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Master of Physiotherapy at the University of Technology Sydney is a two-year, graduate-entry degree leading to eligibility for registration as a physiotherapist in Australia. Innovative and practice-based in approach, the course's core areas of study include musculoskeletal, sport rehabilitation, neurological, orthopaedic and cardiorespiratory physiotherapy across the lifespan. ",
+  "fee": "758 EUR / credit",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ecf39d466e6cb3112150"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Occupational Psychology - Master's Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Occupational Psychology - Master's Foundation Programme from ONCAMPUS London is designed to prepare international students for postgraduate study in the UK. ",
+  "fee": "19,804 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ecf39d466e6cb3112151"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17679/logos/1512477111_KBSAustraliaLogoStudyPortals.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Master of Business Administration (Health Services Management)",
+  "university": "Kaplan Business School",
+  "location": "Multiple locations",
+  "description": "The Master of Business Administration (Health Services Management) from Kaplan Business School is widely regarded as the preferred qualification for professionals wanting to pursue a career in strategic management.",
+  "fee": "14,432 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ecf39d466e6cb3112152"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health Administration (Certificate NDP)",
+  "university": "University of Arizona",
+  "location": "Multiple locations",
+  "description": "The Health Administration (Certificate NDP) from University of Arizona is designed for working health professionals and graduate students an opportunity to advance their health administration training.",
+  "fee": "16,600 EUR / year",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ecf49d466e6cb3112153"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Food Policy",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "Discover how to change the food system for the better on this unique MSc in Food Policy at City, University of London.",
+  "fee": "19,826 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ecf49d466e6cb3112154"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medical Law and Ethics",
+  "university": "The University of Edinburgh",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "description": "As a student on this Medical Law and Ethics programme offered by The University of Edinburgh you will examine topics that reflect some of the main contemporary legal and ethical challenges faced by those working in healthcare and health research, and place them in their social and historical context. ",
+  "fee": "25,873 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ecf49d466e6cb3112155"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health - Environmental and Occupational Health",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Public Health - Environmental and Occupational Health degree offered by the University of Arizona is designed to be an interdisciplinary, professional degree in public health. The MPH Program provides opportunities for students to obtain broad knowledge and basic skills in the core areas of public health.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ecf49d466e6cb3112156"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Practice Teacher",
+  "university": "University of Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "This PGCert Practice Teacher programme offered at The University of Hull is designed to prepare you for a career as a practice teacher in accordance with the standards published by the Nursing and Midwifery Council (NMC).",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ecf49d466e6cb3112157"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Community Specialist Practitioner - District Nursing",
+  "university": "",
+  "location": "Leeds, England, United Kingdom",
+  "description": "If you are a qualified adult nurse, this Community Specialist Practitioner - District Nursing course from Leeds Beckett University will enable you to specialise as a district nurse and register as a specialist practitioner in district nursing and community practitioner nurse prescribing with the Nursing & Midwifery Council (NMC).",
+  "fee": "14,720 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ecf49d466e6cb3112158"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Dental Surgery",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "The aim of the Dental Surgery programme at the University of Malta is to produce Dental Surgeons with a broad academic dental education who will be able to function in all areas of clinical dentistry practising evidence-based comprehensive dentistry based on a problem solving approach, using basic theoretical and practical skills. ",
+  "fee": "26,000 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014ed0c3868d03785b4aef2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health Care Informatics (Certificate NDP)",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Health Care Informatics (Certificate NDP) program from University of Arizona prepares graduates as leaders with advanced competencies essential to informatics within healthcare organizations. As the demand for informatics expertise continues to grow, the graduate with these skills will be meeting national health care needs.",
+  "fee": "16,600 EUR / year",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ed0d3868d03785b4aef3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Applied Medical Image Analysis (Online Learning)",
+  "university": "The University of Edinburgh",
+  "location": "Online",
+  "description": "This Applied Medical Image Analysis (Online Learning) programme at The University of Edinburgh aims to disseminate medical image analysis knowledge, skills, and understanding, enabling effective and efficient medical image analysis which can be used both clinically and commercially.",
+  "fee": "1,036 EUR / module",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ed0d3868d03785b4aef4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/196/logos/1525334562_UoD_Logo_land_RGB_Blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Clinical Supervision (Online)",
+  "university": "University of Derby",
+  "location": "Online",
+  "description": "Do you want to help others advance their professional practice? The Clinical Supervision (Online) offered by University of Derby trains you to become a clinical supervisor of counsellors, psychotherapists, nurses, psychologists or occupational therapists. It's the only online qualification of its kind in the UK.",
+  "fee": "3,210 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed0d3868d03785b4aef5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10831/logos/1568845722_uon.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Clinical Epidemiology",
+  "university": "University of Newcastle",
+  "location": "Newcastle, New South Wales, Australia",
+  "description": "The Master of Clinical Epidemiology at the University of Newcastle focuses on health care research. ",
+  "fee": "23,353 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed0d3868d03785b4aef6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Human Anatomy",
+  "university": "The University of Edinburgh",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "description": "The University of Edinburgh's Human Anatomy programme aims to improve your theoretical and practical knowledge of human anatomy through an intensive on-campus dissection course, as well as the development and learning of theoretical and practical aspects of teaching anatomy at undergraduate and postgraduate levels.",
+  "fee": "33,516 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed0e3868d03785b4aef7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/33/logos/1493803036_logoresized.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Social Policy and Public Health",
+  "university": "Utrecht University",
+  "location": "Utrecht, Netherlands",
+  "description": "As a graduate of the Social Policy and Public Health programme at Utrecht University, you will be able to study social problems from an interdisciplinary and comparative perspective. You will also have acquired the professional and academic skills necessary to design, implement, and evaluate social policies and interventions.",
+  "fee": "17,280 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed0e3868d03785b4aef8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Child and Adolescent Mental Health (CAMH)",
+  "university": "",
+  "location": "Newport, Wales, United Kingdom",
+  "description": "The Child and Adolescent Mental Health (CAMH) programme offered by the University of South Wales is for people who work with, or intend to work with children or young people whose social and emotional development and functioning is affected adversely, or who risk being affected by mental health difficulties. ",
+  "fee": "16,192 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed0e3868d03785b4aef9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/77/logos/1482245683_WUR_RGB_standard.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nutrition and Health",
+  "university": "Wageningen University and Research",
+  "location": "Wageningen, Netherlands",
+  "description": "Are you interested in nutrition and health? Then this is the right place for you. Learn more about the MSc Nutrition and Health at Wageningen University and Research.",
+  "fee": "18,700 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ed0e3868d03785b4aefa"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Cosmetic Medicine (Online Delivery)",
+  "university": "School of Health, Sport and Professional Practice",
+  "location": "Online",
+  "description": "The Cosmetic Medicine (Online Delivery) programme offered by the University of South Wales run in partnership with Diploma MSc, is aimed at doctors, dentists and nurses with independent prescriber status who require a postgraduate qualification to support their professional learning and clinical development to become an aesthetic practitioner.",
+  "fee": "9,511 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed0e3868d03785b4aefb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/fb444a98.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Human Performance",
+  "university": "Postgraduate Research courses",
+  "location": "Dundee, Scotland, United Kingdom",
+  "description": "Much of this Human Performance course from Abertay University focuses on work involving populations with protected characteristics (e.g. age, gender, disability) and aims to contribute to the duty of care agenda, which has growing salience as an issue in contemporary sport. ",
+  "fee": "17,834 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed218846e424e3094499"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10831/logos/1568845722_uon.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health",
+  "university": "University of Newcastle",
+  "location": "Newcastle, New South Wales, Australia",
+  "description": "The Master of Public Health from University of Newcastle is designed to give you a broad introduction to public health and to provide the skills and knowledge to define, critically assess and resolve public health issues within a community, whilst catering for your individual career goals.",
+  "fee": "22,553 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed218846e424e309449a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Clinical and Translational Research (Certificate NDP)",
+  "university": "University of Arizona",
+  "location": "Online",
+  "description": "The Clinical and Translational Research (Certificate NDP) degree offered by the University of Arizona graduate certificate program prepares interprofessional scientists for the complexities of clinical & translational research through high-quality didactic instruction, and mentored collaborative research experiences.",
+  "fee": "16,600 EUR / year",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ed228846e424e309449b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Genomic Medicine and Healthcare (Online Delivery)",
+  "university": "",
+  "location": "Online",
+  "description": "The Genomic Medicine and Healthcare (Online Delivery) programme offered by the University of South Wales will provide an integrated approach to this interesting subject, and will focus on applying scientific principles to direct patient care.",
+  "fee": "4,416 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed228846e424e309449c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Clinical Mental Health Counseling",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "You’re passionate about counseling because it offers restoration and healing to hurting people. The Master of Arts in Clinical Mental Health Counseling degree at Liberty University will help you become a counselor who makes a difference.",
+  "fee": "450 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ed228846e424e309449d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9431/logos/1573141437_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health Systems Administration and Global Health Leadership",
+  "university": "University of Haifa",
+  "location": "Haifa, Israel",
+  "description": "The Health Systems Administration and Global Health Leadership programme is offered by the University of Haifa. The program will provide students with a strong foundation from which to critically address current global health challenges, instilling in them the skills to effectively operate in a global health environment.",
+  "fee": "9,910 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed228846e424e309449e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/23157/logos/1500474324_studyportals-solo-logo%20400px.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Communication, Management and Health",
+  "university": "Università della Svizzera Italiana (USI)",
+  "location": "Lugano, Switzerland",
+  "description": "The MSc in Communication, Management and Health from Università della Svizzera Italiana (USI) offers a unique opportunity to have a focused and in depth programme in the health sector while at the same time gain a broad understanding of how business and marketing functions operate. ",
+  "fee": "7,420 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ed238846e424e309449f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Animal Health (Online Learning)",
+  "university": "The University of Edinburgh",
+  "location": "Online",
+  "description": "Building on a solid foundation of biological, immunological, pathological and epidemiological principles, this International Animal Health (Online Learning) programme from The University of Edinburgh will equip you with the skills needed to identify, control and manage animal diseases and the expertise to tackle the international animal health challenges of the 21st Century.",
+  "fee": "6,494 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ed238846e424e30944a0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physiotherapy (Research)",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This Master of Physiotherapy (Research) at the University of Technology Sydney provides students with the opportunity to work with leading national and international researchers in their area of interest, and to develop and complete an original research project which contributes to knowledge.  ",
+  "fee": "21,768 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ed238846e424e30944a1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/520/logos/1596101423_tu-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Chiropractic (with Foundation Year) (Hons)",
+  "university": "Teesside University",
+  "location": "Middlesbrough, England, United Kingdom",
+  "description": "This Chiropractic (with Foundation Year) (Hons) course at Teesside University will develop your knowledge, skills and behaviours which will enable you to deliver high levels of patient care in a safe and competent manor.",
+  "fee": "14,720 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014ed238846e424e30944a2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Leading Integrated Care",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "This Leading Integrated Care programme from City, University of London provides the knowledge and skills you need to lead the planning, implementation and evaluation of integrated health and social care initiatives.",
+  "fee": "19,634 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed3532b4d557dd7f7c41"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health Psychology - Master's Qualifying Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "The Health Psychology - Master's Qualifying Programme from ONCAMPUS Coventry is available as a one, two or three-term programme, with progression opportunity to a wide range of Master’s degrees at Coventry University. You will study your Master's programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014ed3532b4d557dd7f7c42"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Psychology - Master's Qualifying Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "The Psychology - Master's Qualifying Programme from ONCAMPUS Coventry is available as a one, two or three-term programme, with progression opportunity to a wide range of Master’s degrees at Coventry University. You will study your Master's programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014ed3632b4d557dd7f7c43"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health",
+  "university": "University of San Francisco - School of Nursing and Health Professions",
+  "location": "Multiple locations",
+  "description": "The Master of Public Health from University of San Francisco creates graduates who lead-in and are passionate advocates for community engagement, interprofessional collaboration, evidence-based practice, and public health advocacy.",
+  "fee": "1,221 EUR / credit",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ed3632b4d557dd7f7c44"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health - Epidemiology",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Master of Public Health (MPH) degree is designed to be an interdisciplinary, professional degree in public health. The Public Health - Epidemiology course at University of Arizona provides opportunities for students to obtain broad knowledge and basic skills in the core areas of public health. ",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ed3632b4d557dd7f7c45"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19822/logos/1602054558_logos_diploma_msc-01.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Professional Practice",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "The PGCert and MSc in Professional Practice programmes from City, University of London enable practitioners, from a wide range of health and social care backgrounds, to work together to become competent practitioners and leaders in professional practice. ",
+  "fee": "19,249 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed3632b4d557dd7f7c46"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Dermatology in Clinical Practice (Online)",
+  "university": "Diploma MSc",
+  "location": "Online",
+  "description": "The Dermatology in Clinical Practice (Online) course from Diploma MSc provides a progression route for graduates of the Postgraduate Diploma.",
+  "fee": "10,055 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed3632b4d557dd7f7c47"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/309/logos/1587972469_logo-single-line-370x111.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Gerodontology (Dental Surgery)",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "The Gerodontology (Dental Surgery) programme from University of Malta is structured over a three-year academic period, inclusive of 2 semesters per year and two summer periods of eight weeks each. ",
+  "fee": "4,466 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ed3632b4d557dd7f7c48"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/64fb5ab8.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical and Molecular Sciences",
+  "university": "University of Dundee",
+  "location": "Dundee, Scotland, United Kingdom",
+  "description": "This Biomedical and Molecular Sciences course from the University of Dundee focuses on key areas in the biotech and pharmaceutical sectors, and will help prepare you for a future in these industries.",
+  "fee": "25,986 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed3732b4d557dd7f7c49"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health Science",
+  "university": "Linnaeus University",
+  "location": "Kalmar, Sweden",
+  "description": "The Health Science master program from Linnaeus University provides you with tools to improve the health of both humans and non-humans, and prepares you for future commitment within health-related activities. Together with students from different parts of the world, with a diverse educational background, you become part of an exciting transdisciplinary and international learning environment.",
+  "fee": "15,767 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ed4bf1f6aba4a4b7127f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Advancing Physiotherapy Practice",
+  "university": "Coventry University",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This clinically focused Advancing Physiotherapy Practice course at Coventry University is offered to qualified physiotherapists who wish to develop their practice to a higher level.",
+  "fee": "16,645 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed4bf1f6aba4a4b71280"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Psychodynamic Counselling and Psychotherapy",
+  "university": "Postgraduate courses",
+  "location": "London, England, United Kingdom",
+  "description": "This part-time, daytime Psychodynamic Counselling and Psychotherapy course at Birkbeck, University of London establishes an understanding of psychoanalytic-based theory and covers the technical processes of counselling, while developing the personal and professional awareness required for effective practice as defined by the British Association for Counselling and Psychotherapy.",
+  "fee": "10,106 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ed4bf1f6aba4a4b71281"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Safety, Health and Environmental Management",
+  "university": "",
+  "location": "Pontypridd, Wales, United Kingdom",
+  "description": "With safety, health and environmental issues becoming increasingly important, there is a growing demand for professionals with the right skills. The MSc Safety, Health and Environmental Management degree is offered at University of South Wales.",
+  "fee": "16,192 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed4cf1f6aba4a4b71282"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Gerontology and Geriatrics",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "The Gerontology and Geriatrics programme from University of Malta was set up in 1989 by a group of international experts convened by the United Nations International Institute on Ageing, based in Malta.",
+  "fee": "7,200 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014ed4cf1f6aba4a4b71283"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health",
+  "university": "School of Health, Sport and Professional Practice",
+  "location": "Pontypridd, Wales, United Kingdom",
+  "description": "The MSc Public Health, offered by University of South Wales, creates professionals who can lead and implement change in public health across the world stage. ",
+  "fee": "16,192 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed4cf1f6aba4a4b71284"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10396/logos/1597235067_capturelogo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Human and Social Services - Mental Health Facilitation",
+  "university": "Walden University",
+  "location": "Online",
+  "description": "Further your commitment to social change with an MS in Human and Social Services - Mental Health Facilitation from Walden University. Through professionally-focused curriculum, interactive case studies and simulations, and an interprofessional approach, you prepare to address the needs of individuals, communities, and organizations within a global context.",
+  "fee": "",
+  "duration": "1 year, 8 months"
+},{
+  "_id": {
+    "$oid": "6014ed4cf1f6aba4a4b71285"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10396/logos/1597235067_capturelogo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Healthcare Administration - Population Health",
+  "university": "Walden University",
+  "location": "Online",
+  "description": "Gain insight into the laws, regulations, court decisions, and health policies that impact service providers through the Master of Healthcare Administration - Population Health program from Walden University. ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ed4cf1f6aba4a4b71286"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "The MSc Public Health programme at University of the West of England (UWE Bristol) is structured around an interdisciplinary curriculum that draws upon social, human, behavioural, environmental and natural science disciplines.",
+  "fee": "16,418 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed4cf1f6aba4a4b71287"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/249/logos/1576587683_logo-study-portals.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Clinical Health Psychology",
+  "university": "Faculty of Humanities and Social Sciences",
+  "location": "Glasgow, Scotland, United Kingdom",
+  "description": "With this Clinical Health Psychology at University of Strathclyde you can study full-time over one year or part-time over two years. Single modules can be taken as part of Continuing Professional Development.",
+  "fee": "21,457 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed4df1f6aba4a4b71288"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/43/logos/1506343688_UoE_Horizontal%20Logo_original.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Sciences (Life Sciences)",
+  "university": "The University of Edinburgh",
+  "location": "Edinburgh, Scotland, United Kingdom",
+  "description": "This one-year, full time programme in Biomedical Sciences (Life Sciences) at The University of Edinburgh provides an excellent grounding for PhD or other academic study in the Biomedical Sciences. ",
+  "fee": "33,516 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed5dd1b16ca399446e94"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Science",
+  "university": "University of Auckland",
+  "location": "Auckland, New Zealand",
+  "description": "Ideal for high-achieving graduates from science qualifications and some clinical programmes (eg MBChB). Examine processes underpinning human disease processes, and design and conduct medical science research addressing key health issues with this Postgraduate Diploma in Biomedical Science from University of Auckland.",
+  "fee": "24,350 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed5dd1b16ca399446e95"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12502/logos/1565617059_pace-logo-rgb-isolated.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nutrition and Dietetics",
+  "university": "Pace University",
+  "location": "Pleasantville, New York, United States",
+  "description": "The MS in Nutrition and Dietetics at Pace University which was built with the major nutritional challenges of today’s world in mind, offers students two unique concentrations—culinary nutrition and food justice/food policy—themes that are woven into our classroom learning and supervised practice experiences. ",
+  "fee": "1,109 EUR / credit",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ed5dd1b16ca399446e96"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Cognition and Cognitive Neuroscience",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "Studying the MSc in Cognition and Cognitive Neuroscience from Keele University will expose you to advanced topics in the study of cognition and behaviour including attention, perception, memory, decision-making, and emotion.",
+  "fee": "18,683 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed5ed1b16ca399446e97"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health Professions Education",
+  "university": "The University of Western Australia",
+  "location": "Perth, Western Australia, Australia",
+  "description": "This Graduate Diploma in Health Professions Education from The University of Western Australia is designed to suit a range of health professionals who seek to develop their knowledge and skills as educators within the health professions.",
+  "fee": "25,762 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed5ed1b16ca399446e98"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Specialist Community Nursing - Health Visting Pathway",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "The Specialist Community Nursing - Health Visting Pathway from Keele University  reflects the current standards and initiatives for Health Visiting Practice, underpinned by the Health Visiting Implementation Plan: A Call To Action",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed5ed1b16ca399446e99"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/dac7ca9e.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Neuroscience",
+  "university": "University of Helsinki",
+  "location": "Helsinki, Finland",
+  "description": "Study Neuroscience or Cell and Systems Physiology in the interdisciplinary programme of the University of Helsinki.",
+  "fee": "18,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ed5ed1b16ca399446e9a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19822/logos/1602054558_logos_diploma_msc-01.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sexual and Reproductive Medicine (Online)",
+  "university": "Diploma MSc",
+  "location": "Online",
+  "description": "The Sexual and Reproductive Medicine (Online) Postgraduate Diploma from Diploma MSc aims to equip graduates with a critical knowledge and understanding of sexual and reproductive medicine.",
+  "fee": "5,095 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed5ed1b16ca399446e9b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health",
+  "university": "University of Auckland",
+  "location": "Auckland, New Zealand",
+  "description": "Prepare for a career in the public health sector with this internationally recognised qualification with this Master of Public Health from University of Auckland.",
+  "fee": "24,350 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ed5fd1b16ca399446e9c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/148240/logos/1500985903_Centrale_Lille_h130.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "BioMedical Engineering",
+  "university": "Centrale Lille",
+  "location": "Lille, France",
+  "description": "Centrale Lille is offering a BioMedical Engineering (BME) Master’s program to respond to the needs of the industries developing those techniques, probes and equipment for HTMD which are increasingly required by medical doctors in their daily work.",
+  "fee": "7,500 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ed5fd1b16ca399446e9d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Science - Biochemistry and Molecular Biology",
+  "university": "The University of Western Australia",
+  "location": "Perth, Western Australia, Australia",
+  "description": "This Biomedical Science - Biochemistry and Molecular Biology from The University of Western Australia emphasises on cutting-edge research and its translation to healthy living and to clinical diagnosis and treatment of disease. You are able to focus on advancing your knowledge through coursework or research. ",
+  "fee": "25,762 EUR / year",
+  "duration": "2 years"
+}]

@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "6014f79fd3e34e9c6f781b63"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Musical Arts",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Doctoral Musical Arts degree at University of Arizona are awarded to candidates who display deep understanding of the subject matter of their disciplines as well as the ability to make original contributions to knowledge in their fields. ",
+  "fee": "16,600 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f79fd3e34e9c6f781b64"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1758/logos/1552294633_1500x1500-ingilizce-logo-23052018.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architecture",
+  "university": "Istanbul Okan University",
+  "location": "Istanbul, Turkey",
+  "description": "The Architecture program form Okan University aims to provide students with the current debates, basic theoretical approaches and current knowledge in the fields of architecture history and theories, construction management, design methods and building technologies.",
+  "fee": "2,474 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f79fd3e34e9c6f781b65"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Musical Arts - Composition",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Musical Arts - Composition degree at University of Arizona can be earned with emphases in music education, music theory, or musicology.  According to the National Association of Schools of Music, graduate education in music should foster and develop  those talents, interests, and philosophies that preserve and extend our cultural heritage",
+  "fee": "16,600 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f79fd3e34e9c6f781b66"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Materials Design and Innovation",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The Materials Design and Innovation department from the University at Buffalo SUNY - School of Engineering and Applied Sciences emphasizes a data driven perspective of materials discovery and design.",
+  "fee": "19,053 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f79fd3e34e9c6f781b67"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fine Arts",
+  "university": "University of Auckland",
+  "location": "Auckland, New Zealand",
+  "description": "The Doctor of Fine Arts from University of Auckland  is an advanced studio-based research degree, encompassing research and practice. DocFA study is an opportunity to make a significant contribution to the field of contemporary art and/or design.",
+  "fee": "24,434 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f79fd3e34e9c6f781b68"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/51906/logos/1507185913_KTU%20logo_EN.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "History and Theory of Arts",
+  "university": "Kaunas University of Technology",
+  "location": "Kaunas, Lithuania",
+  "description": "The History and Theory of Arts study program at Kaunas University of Technology in theory and critics of arts is realized within interdisciplinary context with focus on three areas: theory and history of architecture, musicology.",
+  "fee": "10,646 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f7a0d3e34e9c6f781b69"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/861/logos/1603199647_uplogo_liliomos_en_feher_foltban.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architecture - Architectural Engineering",
+  "university": "University of Pécs",
+  "location": "Pécs, Hungary",
+  "description": "In accordance with the original mission of the Pécs Doctoral School, heritage protection has been and will be one of the main focus areas of its activities in this Architecture - Architectural Engineering from University of Pécs.",
+  "fee": "6,268 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f7a0d3e34e9c6f781b6a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music - Theory",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Students of Music - Theory degree at University of Arizona work individually with faculty members in small seminars and tutorials, in informal studio and coaching sessions, and in intensive consultations relating to the preparation of theses, dissertations, and performance projects. ",
+  "fee": "16,600 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f7a0d3e34e9c6f781b6b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art History and Education - Art History",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Art History and Education - Art History program from University of Arizona provides an interdisciplinary, theoretically informed, methodologically diverse two track PhD program: with one track in Art History and one in Art and Visual Culture Education.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f7b2a57995d2d137427d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Process and Product Design",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, like a doctoral candidate, at the Process and Product Design programme at Eindhoven University of Technology (TU/e) you will have the status of TU/e employee if you are selected for one of these programs. The programs start with a year of advanced education, followed by a major design project of eight to twelve months in a company.",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f7b2a57995d2d137427e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/51654/logos/1507112647_KTU%20logo_EN.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Civil Engineering",
+  "university": "Kaunas University of Technology",
+  "location": "Kaunas, Lithuania",
+  "description": "The Civil Engineering programme aims to educate the best qualified scientists and educators of civil engineering for Kaunas University of Technology and other institutions of higher education; to prepare researchers, who are able to carry out actual problem-solving oriented research in the construction area, for the companies and administrations of construction sector.",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f7b2a57995d2d137427f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/ce4cbdaa.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Designer in Bioprocess Engineering",
+  "university": "Delft University of Technology (TU Delft)",
+  "location": "Delft, Netherlands",
+  "description": "Designer in Bioprocess Engineering programme from Delft University of Technology (TU Delft) develops MSc graduates from (bio-)chemical engineering, or related academic backgrounds, into multidisciplinary specialists, in preparation for a career in the industry.",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f7b2a57995d2d1374280"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Industrial Design",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "PhD’s in Industrial Design from Eindhoven University of Technology (TU/e) are looking for and interested in design research challenges. The main objective of these challenges is to create value and opportunities in systems with emerging technologies and materials. ",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f7b2a57995d2d1374281"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Musical Arts - Performance",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Musical Arts - Performance degree at University of Arizona has emphases in composition, conducting, and performance. In the performance emphasis concentrations are available in bassoon, cello, clarinet, double bass, euphonium, flute, guitar, horn, harp, harpsichord, oboe, organ, percussion, piano, saxophone, trombone, trumpet, tuba, viola, violin, and voice. ",
+  "fee": "16,600 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f7b3a57995d2d1374282"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/862/logos/1523886269_Maynooth%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music",
+  "university": "Maynooth University",
+  "location": "Maynooth, Ireland",
+  "description": "This programme offers a doctoral-level programme in Music for students who wish to engage in high-quality research in selected areas of the discipline. In addition, the PhD/MLitt in Music includes a number of generic and specific skills modules that will complement its research-oriented elements as part of a structured research programme at Maynooth University.",
+  "fee": "14,000 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f7b3a57995d2d1374283"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Musical Arts - Conducting",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": " The Musical Arts - Conducting degree at University of Arizona can be earned with emphases in music education, music theory, or musicology.  According to the National Association of Schools of Music, graduate education in music should foster and develop those talents, interests, and philosophies that preserve and extend our cultural heritage.",
+  "fee": "16,600 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f7b3a57995d2d1374284"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Human-Centered Computing",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "Human-Centered Computing at University of Maryland Baltimore County is the discipline that explores human interaction with information technologies and the use of these technologies to improve lives.",
+  "fee": "934 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f7b3a57995d2d1374285"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Design, Architecture and Building",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The PhD in Design, Architecture and Building from University of Technology Sydney is a University-wide degree which involves an intense period of supervised study and research, culminating in the submission of a thesis.  ",
+  "fee": "20,097 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f7b3a57995d2d1374286"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20119/logos/1596619021_logoup_pl.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fine Arts and Art Conservation",
+  "university": "Pedagogical University of Krakow",
+  "location": "Kraków, Poland",
+  "description": "The Fine Arts and Art Conservation programme is offered by the Pedagogical University of Krakow - the oldest and highest-ranking pedagogical university in Poland.",
+  "fee": "",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f7d79ee93d409389ab33"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/20cc301f.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architecture",
+  "university": "Yasar University",
+  "location": "Izmir, Turkey",
+  "description": "The Architecture program from Yasar University aims to cultivate scholars who formulate and conduct original scientific research in the field of Architecture and sub-research areas such as History of Architecture, Theory and Criticism, Cultural Studies, Environmental Control and Building Technology, Building Information, Urban Design. ",
+  "fee": "0 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f7d79ee93d409389ab34"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Naval Architecture and Ocean Engineering",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The Doctoral Program in Naval Architecture and Ocean Engineering from Instituto Superior Técnico is integrated in the 3rd cycle of studies following the Bologna Agreement as a complement of the first and second cycles in Naval Architecture and Ocean Engineering.",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f7d79ee93d409389ab35"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architecture",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The Architecture programme from Instituto Superior Técnico is structured in the framework of a wide-ranging understanding about the processes of production and use of the built space at both the urban and the building scale. ",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f7d79ee93d409389ab36"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/71/logos/1483101796_Politenico%20di%20Torino_logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Urban and Regional Development",
+  "university": "PhD Programmes",
+  "location": "Torino, Italy",
+  "description": "The Urban and Regional Development Phd programme jointly activated by Politecnico di Torino and Università degli Studi di Torino. ",
+  "fee": "",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f7d79ee93d409389ab37"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/71/logos/1483101796_Politenico%20di%20Torino_logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architectural and Landscape Heritage",
+  "university": "PhD Programmes",
+  "location": "Torino, Italy",
+  "description": "This Architectural and Landscape Heritage programme from Politecnico di Torin focuses on heritage, with a view to promoting both knowledge, management and conservation of building environment, and qualification and innovation/transformation processes, compatible with existing environment in order to qualify it, keeping in mind the role assumed by communications. ",
+  "fee": "",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f7d89ee93d409389ab38"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/71/logos/1483101796_Politenico%20di%20Torino_logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management, Production and Design",
+  "university": "PhD Programmes",
+  "location": "Torino, Italy",
+  "description": "This Management, Production and Design PhD programme from Politecnico di Torino focuses on several research areas, corresponding to several specific production activities.",
+  "fee": "",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f7d89ee93d409389ab39"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/71/logos/1483101796_Politenico%20di%20Torino_logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architecture - History and Project",
+  "university": "PhD Programmes",
+  "location": "Torino, Italy",
+  "description": "The architectural composition and technology favour the interpretation of projects as a means to explore the interplay between different theories, technical innovations and changes in urban environment. The Architecture - History and Project programme is offered by Politecnico di Torino.",
+  "fee": "",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f82464aeab2f4c9aca27"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/ce4cbdaa.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Process and Equipment Design",
+  "university": "Delft University of Technology (TU Delft)",
+  "location": "Delft, Netherlands",
+  "description": " Process and Equipment Design programme from Delft University of Technology (TU Delft) is a dream come true for aspiring engineers. But also for technological companies. They need people with more than just a MSc degree.",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f82464aeab2f4c9aca28"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": " The Music degree at University of Arizona can be earned with emphases in music education, music theory, or musicology.  ",
+  "fee": "16,600 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f82464aeab2f4c9aca29"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Arts",
+  "university": "University of Auckland",
+  "location": "Multiple locations",
+  "description": "Arts at University of Auckland is a globally recognised postgraduate research degree and the highest level of degree you can achieve. PhD students are critical, curious, creative thinkers who undertake original research over at least 3 years.",
+  "fee": "4,027 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f82464aeab2f4c9aca2a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art, Design and Performance",
+  "university": "University of Portsmouth",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "If you're looking to take your skills in art and design into postgraduate research, the Art, Design and Performance degree programme from University of Portsmouth can help you achieve your ambitions.",
+  "fee": "16,192 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f82464aeab2f4c9aca2b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Smart Buildings and Cities",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the Smart Buildings and Cities programme from Eindhoven University of Technology (TU/e) is a two-year post-master technological designer program. The SB&C program wants to contribute to the transition towards smart, intelligent and sustainable cities where quality of life is high. ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f82564aeab2f4c9aca2c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film, Media and Communication",
+  "university": "University of Portsmouth",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "If you're ready to take your expertise in Film, Media and Communication into a postgraduate research qualification, look no further than University of Portsmouth.",
+  "fee": "16,192 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f82564aeab2f4c9aca2d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/ce4cbdaa.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art History and Education",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Art History and Education PhD from University of Arizona offers comprehensive studies of the history of art and architecture through critical engagement with existing scholarship and art historical theories and methods. ",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f82564aeab2f4c9aca2e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music - Music Education",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Music - Music Education degree at University of Arizona can be earned with emphases in music education, music theory, or musicology.",
+  "fee": "16,600 EUR / year",
+  "duration": "3 years"
+}]

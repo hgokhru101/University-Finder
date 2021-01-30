@@ -21,8 +21,7 @@
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" 
-        crossorigin="anonymous">
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <!--./Bootstap Plug-In-->
     <!--Angular Plug-In-->
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
@@ -45,10 +44,7 @@
                     <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="bachelor.html">Student</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="#">Student</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">About Us</a>
@@ -68,33 +64,34 @@
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
                 <div class="view">
-                    <img class="d-block w-100" src="/img/11.jpg" alt="First slide">
+                    <img class="d-block w-100" src="6.jpg" alt="First slide">
                     <div class="mask rgba-black-light"></div>
                 </div>
                 <div class="carousel-caption">
-                    <h1 class="display-1">Discover the perfect university for you</h1>
-                    <h1>We make it simple to find universities abroad</h1>
+                    <h3 class="h3-responsive"></h3>
+                    <p></p>
                 </div>
             </div>
-            <!-- <div class="carousel-item">
+            <div class="carousel-item">
+                <!--Mask color-->
                 <div class="view">
-                    <img class="d-block w-100" src="11.jpg" alt="Second slide">
+                    <img class="d-block w-100" src="3.jpg" alt="Second slide">
                     <div class="mask rgba-black-strong"></div>
                 </div>
                 <div class="carousel-caption">
                     <h3 class="h3-responsive"></h3>
                     <p></p>
                 </div>
-            </div> -->
+            </div>
             <div class="carousel-item">
                 <!--Mask color-->
                 <div class="view">
-                    <img class="d-block w-100" src="/img/5.jpg" alt="Third slide">
+                    <img class="d-block w-100" src="7.jpg" alt="Third slide">
                     <div class="mask rgba-black-slight"></div>
                 </div>
                 <div class="carousel-caption">
-                    <h1 class="display-1">NEVER STOP LEARNING</h1>
-                    <h1>Discover Thousands of Courses Worldwide</h1>
+                    <h3 class="h3-responsive"></h3>
+                    <p></p>
                 </div>
             </div>
         </div>
@@ -114,90 +111,71 @@
     <br>
     <div class="container">
         <div class="row">
-            <div class="card">
-                <div class="card-body">
-                    <form class="form-inline">
-                        <div class="form-group">
-                            <label for="exampleInput1">University Name :&nbsp;&nbsp;&nbsp;</label>
-                            <input type="text" class="form-control" id="university_name" aria-describedby="nameHelp"
-                                placeholder="Enter University's Name" ng-model="uni" ng-change="get_maps()">
-                        </div>
-
-                        <div class="form-group">
-                            <label for="exampleInput2">&nbsp;&nbsp;Country Code :&nbsp;&nbsp;&nbsp;</label>
-                            <input type="text" class="form-control" id="exampleInput2" placeholder="IN">
-                        </div>
-                        &nbsp;&nbsp;
-                        <button type="submit" class="btn btn-outline-primary">Search</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div id="map">
-            </div>
-        </div>
-    </div>
-
-    <div class="p-5 text-center">
-        <h3 mb-3>What course are you looking for?</h3>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-4">
+            <div class="col-xl-3 col-sm-6 col-12">
                 <div class="card">
-                    <div class="text-center card-box">
-                        <div class="member-card pt-2 pb-2">
-                            <div class="thumb-lg member-thumb mx-auto">
-                                <span class="material-icons" style="font-size:60px;">
-                                    account_balance
-                                </span>
-                            </div>
-                            <div class="">
-                                <h4>Bachelor's programmes</h4>
-                                <p class="mb-0 mt-2">Choose from more than 100,000 Bachelor’s programmes at
-                                    universities, colleges and schools worldwide.</p>
+                    <div class="card-content">
+                        <div class="card-body">
+                            <div class="media d-flex">
+                                <div class="align-self-center">
+                                    <i class="icon-pencil primary font-large-2 float-left"></i>
+                                </div>
+                                <div class="media-body text-right">
+                                    <h3>278</h3>
+                                    <span>New Posts</span>
+                                </div>
                             </div>
                         </div>
-                        <button type="button" class="btn btn-outline-dark">Search Bachelors</button>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-xl-3 col-sm-6 col-12">
                 <div class="card">
-                    <div class="text-center card-box">
-                        <div class="member-card pt-2 pb-2">
-                            <div class="thumb-lg member-thumb mx-auto">
-                                <span class="material-icons" style="font-size:60px;">
-                                    account_balance
-                                </span>
-                            </div>
-                            <div class="">
-                                <h4>Master's programmes</h4>
-                                <p class="mb-0 mt-2">Find and compare more than 75,000 Master’s degrees from top
-                                    universities worldwide.</p>
+                    <div class="card-content">
+                        <div class="card-body">
+                            <div class="media d-flex">
+                                <div class="align-self-center">
+                                    <i class="icon-speech warning font-large-2 float-left"></i>
+                                </div>
+                                <div class="media-body text-right">
+                                    <h3>156</h3>
+                                    <span>New Comments</span>
+                                </div>
                             </div>
                         </div>
-                        <button type="button" class="btn btn-outline-dark">Search Masters</button>
                     </div>
                 </div>
             </div>
-            <div class="col-sm-4">
+            <div class="col-xl-3 col-sm-6 col-12">
                 <div class="card">
-                    <div class="text-center card-box">
-                        <div class="member-card pt-2 pb-2">
-                            <div class="thumb-lg member-thumb mx-auto">
-                                <span class="material-icons" style="font-size:60px;">
-                                    account_balance
-                                </span>
-                            </div>
-                            <div class="">
-                                <h4>PhD & Doctorate studies</h4>
-                                <p class="mb-0 mt-2">PhD, professional doctorates and other Doctoral degrees at graduate
-                                    schools, universities and research institutes.</p>
+                    <div class="card-content">
+                        <div class="card-body">
+                            <div class="media d-flex">
+                                <div class="align-self-center">
+                                    <i class="icon-graph success font-large-2 float-left"></i>
+                                </div>
+                                <div class="media-body text-right">
+                                    <h3>64.89 %</h3>
+                                    <span>Bounce Rate</span>
+                                </div>
                             </div>
                         </div>
-                        <button type="button" class="btn btn-outline-dark">Search PhD</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-sm-6 col-12">
+                <div class="card">
+                    <div class="card-content">
+                        <div class="card-body">
+                            <div class="media d-flex">
+                                <div class="align-self-center">
+                                    <i class="icon-pointer danger font-large-2 float-left"></i>
+                                </div>
+                                <div class="media-body text-right">
+                                    <h3>423</h3>
+                                    <span>Total Visits</span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

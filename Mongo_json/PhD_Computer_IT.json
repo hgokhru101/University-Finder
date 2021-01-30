@@ -1,0 +1,595 @@
+[{
+  "_id": {
+    "$oid": "6014f8ff237007f6ba44eee6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management - Management Information Systems",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Doctor of Philosophy in Management - Management Information Systems from University of Arizona is the highest academic honor an institution can bestow to its students.",
+  "fee": "16,600 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f8ff237007f6ba44eee7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19934/logos/1579510187_mbzuofai_fullname_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Vision",
+  "university": "Mohamed bin Zayed University of Artificial Intelligence",
+  "location": "Abu Dhabi, United Arab Emirates",
+  "description": "This scientific field studies how computers can be used to automatically understand and interpret visual imagery. The Computer Vision program at Mohamed bin Zayed University of Artificial Intelligence aims to mimic the astounding capabilities of human visual cortex using machine vision algorithms. ",
+  "fee": "0 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f8ff237007f6ba44eee8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Science",
+  "university": "University of Nicosia",
+  "location": "Nicosia, Cyprus",
+  "description": "The Computer Science programme from University of Nicosia aims to provide the student with the most advanced knowledge of Computer Science and Information Technologies and Communications.",
+  "fee": "4,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f8ff237007f6ba44eee9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mathematics and Computer Science",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "You might not expect it, or not even think about it, but Mathematics and Computer Science are constantly present in our daily lives. At Eindhoven University of Technology (TU/e) will learn not only through complex formulas, but also in even the smallest objects and constructions.",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f900237007f6ba44eeea"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/862/logos/1523886269_Maynooth%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Geocomputation",
+  "university": "Maynooth University",
+  "location": "Maynooth, Ireland",
+  "description": "This Geocomputation PhD programme at the Maynooth University offers postgraduate researchers the opportunity to select from modules taught on the MSc in Geocomputation and professional skills training modules offered by different faculties or modules offered by other Departments which are of particular interest, for example research commercialisation.",
+  "fee": "14,000 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f900237007f6ba44eeeb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Information Systems",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The Graduate School at UMBC is located in the heart of the Baltimore-Washington metropolitan area, a premier location known for its flourishing tech industry. The Information Systems program is offered at the University of Maryland Baltimore County.",
+  "fee": "934 EUR / credit",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f900237007f6ba44eeec"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computational and Data-Enabled Sciences",
+  "university": "University at Buffalo SUNY - School of Engineering and Applied Sciences",
+  "location": "Buffalo, New York, United States",
+  "description": "The integration of large computing and big data is essential to tackle the research problems in fields ranging from multi-scale modeling and design of materials to natural disasters, smart electric grids, and medical technologies. The Computational and Data-Enabled Sciences programme is offered by the University at Buffalo SUNY - School of Engineering and Applied Sciences.",
+  "fee": "19,053 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f900237007f6ba44eeed"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering and Information Technology",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The PhD in Engineering and Information Technology from University of Technology Sydney is a university-wide degree which involves an intense period of supervised study and research, culminating in the submission of a thesis. ",
+  "fee": "23,622 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f900237007f6ba44eeee"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computational Science and Statistics - Data Science Specialization",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Computational Science and Statistics - Data Science Specialization at South Dakota State University is designed to train students to integrate computational and statistical methodologies to formulate, model, analyze, and solve research problems of interest in a wide variety of applied and theoretical contexts.  ",
+  "fee": "534 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f9136ab09f7fa5d2e174"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Geographic Information Science",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "The course curriculum for Geographic Information Science at Texas State University is designed to provide depth and breadth of knowledge in geographic theory and research methods. To be admitted to the Geography Doctoral program, a student must have completed a Master’s Degree in Geography or in a related discipline.",
+  "fee": "",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014f9136ab09f7fa5d2e175"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Systems",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The PhD in Computer Systems from University of Technology Sydney is a university-wide degree which involves an intense period of supervised study and research, culminating in the submission of a thesis.  ",
+  "fee": "23,622 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f9136ab09f7fa5d2e176"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Statistics - Statistical Informatics",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Our mission at the Statistics - Statistical Informatics course at University of Arizona is to develop the next generation of data scientists, trained to meet the challenges of modern interdisciplinary data extraction, analysis, and interpretation.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f9136ab09f7fa5d2e177"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/51853/logos/1507114381_KTU%20logo_EN.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Informatics Engineering",
+  "university": "Kaunas University of Technology",
+  "location": "Kaunas, Lithuania",
+  "description": "This Informatics Engineering programme at Kaunas University of Technology of doctoral studies prepares future scientific leaders in the scientific field of Informatics Engineering.",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f9136ab09f7fa5d2e178"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Data Science",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the PDEng Data Science programme at Eindhoven University of Technology (TU/e)  is a joint initiative of Eindhoven University of Technology, Tilburg University, and the Data Science Centre Eindhoven. Together they founded The Jheronimus Academy of Data Science (JADS). ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f9136ab09f7fa5d2e179"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Science",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The graduate program in Computer Science at University of Maryland Baltimore County provides advanced instruction and training and research opportunities to prepare students for careers in business, industry, academia and government agencies. ",
+  "fee": "934 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f9146ab09f7fa5d2e17a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Geography",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "This Geography program from University of Arizona consists of a minimum of 12 units of graduate coursework in geography, including a maximum of 3 units of independent study.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f9146ab09f7fa5d2e17b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Statistics and Data Science",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "A Ph.D. Statistics and Data Science at University of Arizona  is also available for students already registered into a Ph.D. program other than Statistics here at the UA. Our mission is to develop the next generation of data scientists, trained to meet the challenges of modern interdisciplinary data extraction, analysis, and interpretation.",
+  "fee": "16,600 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f9146ab09f7fa5d2e17c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Geospatial Science and Engineering - Remote Sensing Specialization",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Geospatial Science and Engineering - Remote Sensing Specialization programme at South Dakota State University is an interdisciplinary program that combines advanced coursework with cutting-edge research to advance the field of geospatial sciences.",
+  "fee": "534 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f9146ab09f7fa5d2e17d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/288235/logos/1600944221_1200px-institute_of_science_and_technology_austria_logo.svg.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fully-Funded PhD Positions in Biology, Computer Science, Data Science, Mathematics, Neuroscience, and Physics",
+  "university": "Institute of Science and Technology Austria (IST Austria)",
+  "location": "Klosterneuburg, Austria",
+  "description": "The Fully-Funded PhD Positions in Biology, Computer Science, Data Science, Mathematics, Neuroscience, and Physics at the Institute of Science and Technology Austria (IST Austria) are characterized by modern comprehensive training with a special focus on interdisciplinarity, close mentoring by outstanding faculty within small research groups, and access to first-rate facilities.",
+  "fee": "0 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014f928bd9d09bedb219bc8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Geographic Information Science",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "The course curriculum for Geographic Information Science at Texas State University is designed to provide depth and breadth of knowledge in geographic theory and research methods. To be admitted to the Geography Doctoral program, a student must have completed a Master’s Degree in Geography or in a related discipline.",
+  "fee": "",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014f929bd9d09bedb219bc9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Systems",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The PhD in Computer Systems from University of Technology Sydney is a university-wide degree which involves an intense period of supervised study and research, culminating in the submission of a thesis.  ",
+  "fee": "23,622 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f929bd9d09bedb219bca"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical and Computer Engineering",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "Students in the Electrical and Computer Engineering programme from Instituto Superior Técnico are introduced to an intensive research of the fundamentals of electrical or computer engineering. Students will create and disseminate knowledge of electrical and computer systems during the course of obtaining the Doctoral degree. ",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f929bd9d09bedb219bcb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Statistics - Statistical Informatics",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Our mission at the Statistics - Statistical Informatics course at University of Arizona is to develop the next generation of data scientists, trained to meet the challenges of modern interdisciplinary data extraction, analysis, and interpretation.",
+  "fee": "16,600 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f929bd9d09bedb219bcc"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/51853/logos/1507114381_KTU%20logo_EN.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Informatics Engineering",
+  "university": "Kaunas University of Technology",
+  "location": "Kaunas, Lithuania",
+  "description": "This Informatics Engineering programme at Kaunas University of Technology of doctoral studies prepares future scientific leaders in the scientific field of Informatics Engineering.",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f929bd9d09bedb219bcd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Data Science",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the PDEng Data Science programme at Eindhoven University of Technology (TU/e)  is a joint initiative of Eindhoven University of Technology, Tilburg University, and the Data Science Centre Eindhoven. Together they founded The Jheronimus Academy of Data Science (JADS). ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f92abd9d09bedb219bce"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Science",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "The graduate program in Computer Science at University of Maryland Baltimore County provides advanced instruction and training and research opportunities to prepare students for careers in business, industry, academia and government agencies. ",
+  "fee": "934 EUR / credit",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f92abd9d09bedb219bcf"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Geography",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "This Geography program from University of Arizona consists of a minimum of 12 units of graduate coursework in geography, including a maximum of 3 units of independent study.",
+  "fee": "16,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f92abd9d09bedb219bd0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Statistics and Data Science",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "A Ph.D. Statistics and Data Science at University of Arizona  is also available for students already registered into a Ph.D. program other than Statistics here at the UA. Our mission is to develop the next generation of data scientists, trained to meet the challenges of modern interdisciplinary data extraction, analysis, and interpretation.",
+  "fee": "16,600 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f92abd9d09bedb219bd1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Information Security",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The Information Security program from Instituto Superior Técnico aims at training experts capable of carrying out autonomous research activities in the broad area of information security, mastering relevant subjects in Mathematics, Computer Science and Electrical Engineering, including computational complexity, cryptography, systems security and information theory.",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f94260fa6331380308f6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Geographical Sciences (Physical Geography)",
+  "university": "University of Bristol",
+  "location": "Bristol, England, United Kingdom",
+  "description": "The Geographical Sciences (Physical Geography) programme offered by the University of Bristol encompass a wide range of subjects at the leading edge of geographical research.",
+  "fee": "27,062 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f94360fa6331380308f7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/288235/logos/1600944221_1200px-institute_of_science_and_technology_austria_logo.svg.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Geospatial Science and Engineering - Remote Sensing Specialization",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Geospatial Science and Engineering - Remote Sensing Specialization programme at South Dakota State University is an interdisciplinary program that combines advanced coursework with cutting-edge research to advance the field of geospatial sciences.",
+  "fee": "534 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f94360fa6331380308f8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/fb3bffe5.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fully-Funded PhD Positions in Biology, Computer Science, Data Science, Mathematics, Neuroscience, and Physics",
+  "university": "Institute of Science and Technology Austria (IST Austria)",
+  "location": "Klosterneuburg, Austria",
+  "description": "The Fully-Funded PhD Positions in Biology, Computer Science, Data Science, Mathematics, Neuroscience, and Physics at the Institute of Science and Technology Austria (IST Austria) are characterized by modern comprehensive training with a special focus on interdisciplinarity, close mentoring by outstanding faculty within small research groups, and access to first-rate facilities.",
+  "fee": "0 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014f94360fa6331380308f9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business and IT",
+  "university": "University of Twente (UT)",
+  "location": "Enschede, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the Professional Doctorate in Engineering in Business and IT (PDEng BIT) from University of Twente (UT) aims to raise the level of competence of professionals in IT to deal with the opportunities and challenges that IT-based innovations pose. ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f94360fa6331380308fa"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Statistics and Data Science - Statistical Informatics",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Statistics & Data Science Graduate Interdisciplinary Program offers interdisciplinary courses of study leading to the Master of Science (M.S.) and Doctor of Philosophy (Ph.D.) degrees in Statistics and Data Science - Statistical Informatics at University of Arizona along with a 12-unit Graduate Certificate. ",
+  "fee": "16,600 EUR / year",
+  "duration": "2½ years"
+},{
+  "_id": {
+    "$oid": "6014f94360fa6331380308fb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Healthcare Systems Design",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, it is the goal of the Healthcare Systems Design programme from Eindhoven University of Technology (TU/e) to educate the high level designers and thereby create the innovation potential at the interface between technology and the health and wellbeing area.",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f94360fa6331380308fc"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/63ca1733.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Geographical Sciences (Human Geography)",
+  "university": "University of Bristol",
+  "location": "Bristol, England, United Kingdom",
+  "description": "We have a large and vibrant graduate community, focusing both on PhDs by research and on taught programmes. The Geographical Sciences (Human Geography) program is offered by University of Bristol. ",
+  "fee": "21,400 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f94460fa6331380308fd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Science - Information Management Concentration",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "Computer Science - Information Management Concentration at Texas State University is the first in Texas to combine the application of computer science practice and theory with entrepreneurial and commercialization skills. ",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f9551d0da70b82992552"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12317/logos/1605899688_umbc-vertical-logo-rgb-195x300.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Human-Centered Computing",
+  "university": "University of Maryland Baltimore County (UMBC)",
+  "location": "Baltimore Highlands, Maryland, United States",
+  "description": "Human-Centered Computing at University of Maryland Baltimore County is the discipline that explores human interaction with information technologies and the use of these technologies to improve lives.",
+  "fee": "934 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f9551d0da70b82992553"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1/logos/1539847178_TUe-logo-descriptor-line-scarlet-L.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Software Technology",
+  "university": "Eindhoven University of Technology (TU/e)",
+  "location": "Eindhoven, Netherlands",
+  "description": "Part of 4TU Stan Ackermans Institute, the Software Technology  programme from Eindhoven University of Technology (TU/e) offers a salaried two-year technological designer program on a doctorate level for MSc graduates with a degree in the field of Computer Science or a related field.",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f9551d0da70b82992554"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1493/logos/1516272095_euc-logo-en.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computing - Computer Science",
+  "university": "European University Cyprus (EUC)",
+  "location": "Nicosia, Cyprus",
+  "description": "The doctorate degree in Computing - Computer Science taught at the European University Cyprus (EUC) provides the future PhD holders with the necessary skills and abilities to become successful academics demonstrating an excellence in research and making a significant contribution to the local and international research community in the field of Computing/Computer Science.",
+  "fee": "13,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f9551d0da70b82992555"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/862/logos/1523886269_Maynooth%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Science",
+  "university": "Maynooth University",
+  "location": "Maynooth, Ireland",
+  "description": "The aim of the Structured PhD in Computer Science at the Maynooth University is to provide the student with an opportunity to carry out a significant body of research work with support from the teaching component of the programme. The programme will offer both academic modules to enhance the student's specialist knowledge, and transferable and generic skills modules.",
+  "fee": "15,000 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014f9551d0da70b82992556"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computational Science and Statistics - Mathematics Specialization",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Computational Science and Statistics - Mathematics Specialization program at South Dakota State University is designed to train students to integrate computational and statistical methodologies to formulate, model, analyze, and solve research problems of interest in a wide variety of applied and theoretical contexts.  ",
+  "fee": "534 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f9551d0da70b82992557"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20119/logos/1596619021_logoup_pl.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Security Sciences",
+  "university": "Pedagogical University of Krakow",
+  "location": "Kraków, Poland",
+  "description": "The Security Sciences programme is offered by the Pedagogical University of Krakow - the oldest and highest-ranking pedagogical university in Poland.",
+  "fee": "",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f9561d0da70b82992558"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computational Engineering",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The PhD program in Computational Engineering is part of a joint initiative of the University of Texas at Austin and the Instituto Superior Técnico (IST) at Lisbon, named Advanced Computing/Computational Sciences and Applications . ",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f9561d0da70b82992559"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/772/logos/1547652569_logo_UA.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Science",
+  "university": "Universidade de Aveiro",
+  "location": "Aveiro, Portugal",
+  "description": "The Computer Science programme offered by the Universidade de Aveiro aims to create higher level professionals.",
+  "fee": "2,750 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f9561d0da70b8299255a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/772/logos/1547652569_logo_UA.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Geosciences",
+  "university": "Universidade de Aveiro",
+  "location": "Aveiro, Portugal",
+  "description": "The Doctoral Program in Geosciences (UAveiro/UPorto) at Universidade de Aveiro aims to give students a comprehensive scientific training in fundamental and applied geology, including contributions to areas of social and economic importance, such as health, energy and environment. ",
+  "fee": "2,750 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f9561d0da70b8299255b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/772/logos/1547652569_logo_UA.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Engineering",
+  "university": "Universidade de Aveiro",
+  "location": "Aveiro, Portugal",
+  "description": "The Computer Engineering programme offered by the Universidade de Aveiro aims to create higher level professionals.",
+  "fee": "2,750 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f968af12d23138e160ee"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Statistics and Stochastic Processes",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The Statistics and Stochastic Processes programme offered by Instituto Superior Técnico allows for a smooth integration of courses in Probability and Statistics, related areas of Mathematics, and applications in other fields, with emphasis on Engineering, making effective use of the existing competencies at IST.",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f968af12d23138e160ef"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Electrical and Computer Engineering",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "Students in the Electrical and Computer Engineering programme from Instituto Superior Técnico are introduced to an intensive research of the fundamentals of electrical or computer engineering. Students will create and disseminate knowledge of electrical and computer systems during the course of obtaining the Doctoral degree. ",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f968af12d23138e160f0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Information Security",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The Information Security program from Instituto Superior Técnico aims at training experts capable of carrying out autonomous research activities in the broad area of information security, mastering relevant subjects in Mathematics, Computer Science and Electrical Engineering, including computational complexity, cryptography, systems security and information theory.",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f968af12d23138e160f1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/772/logos/1547652569_logo_UA.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Multimedia in Education",
+  "university": "Universidade de Aveiro",
+  "location": "Aveiro, Portugal",
+  "description": "The Doctoral Program in Multimedia in Education from Universidade de Aveiro aims to deepen and structure advanced skills in academic and professional fields.",
+  "fee": "2,325 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f969af12d23138e160f2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10407/logos/1567670452_instituto_superior_tecnico_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Information Systems and Computer Engineering",
+  "university": "Instituto Superior Técnico",
+  "location": "Lisbon, Portugal",
+  "description": "The PhD in Information Systems and Computer Engineering is included in the 3rd cycle of Higher Education, according to the Bologna Agreement. The Information Systems and Computer Engineering programme complements the basic training of the 1st and 2nd cycles (Bachelor's and Master's) in Computer Science and Engineering at Instituto Superior Técnico. ",
+  "fee": "7,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f969af12d23138e160f3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20206/logos/1607073356_logo_ipparis_5ecolescarrestudyportalsdef.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "PhDs in Sciences and Engineering",
+  "university": "Institut Polytechnique de Paris",
+  "location": "Palaiseau, France",
+  "description": "The Institut Polytechnique de Paris offers multidisciplinary doctoral programs in a wide variety of disciplines in Sciences and Engineering within the Institut Polytechnique de Paris Doctoral school. The doctoral research conducted draws on 30 laboratories, some of which are co-tutored with CNRS and Inria, offering a top-quality research environment.",
+  "fee": "380 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014f969af12d23138e160f4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/71/logos/1483101796_Politenico%20di%20Torino_logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer and Control Engineering",
+  "university": "PhD Programmes",
+  "location": "Torino, Italy",
+  "description": "The goal of this Computer and Control Engineering programme from Politecnico di Torino is to develop students ability to study, research, develop innovation and manage projects; those skills are meant to be applied in the framework of public research centres or industry operating in the sector of Computer Sciences, or to promote the establishment of new high-tech companies.",
+  "fee": "",
+  "duration": "3 years"
+}]

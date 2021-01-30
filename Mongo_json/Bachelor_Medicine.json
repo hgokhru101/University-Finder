@@ -1,0 +1,749 @@
+[{
+  "_id": {
+    "$oid": "6014cdcebf644a30fcfa6644"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nutritional Sciences - Nutrition Emphasis",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Nutritional science is the study of nutrition and foods in health and disease across the lifespan. Courses within the Nutritional Sciences - Nutrition Emphasis program from University of Arizona include nutritional biology and metabolism, food science and safety, nutrition assessment, and therapeutic diets.",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cdcebf644a30fcfa6645"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Exercise Science (Strength and Conditioning)",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "Are you passionate about health and physical fitness? Do you care deeply about your own health and desire to see others live healthy lifestyles? Exercise Science (Strength and Conditioning) at Liberty University will give you the tools you need to turn your passion into a career.",
+  "fee": "19,630 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cdcebf644a30fcfa6646"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Learning Disabilities Nursing - International Foundation Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This one-year (3 term) Learning Disabilities Nursing - International Foundation Programme from ONCAMPUS Coventry can offer successful students progression to Coventry University. You will study your Foundation programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "18,105 EUR / full",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014cdcebf644a30fcfa6647"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16875/logos/1567547815_bay_path_college_logo.svg.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Laboratory Operations",
+  "university": "Bay Path University",
+  "location": "Online",
+  "description": "Laboratory Operations at Bay Path University is provides students with training in laboratory administration, project management, data interpretation and statistics, as well as, familiarity with common legal and ethical implications in the applied laboratory field",
+  "fee": "",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014cdcfbf644a30fcfa6648"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Counselling and Therapeutic Practice (Hons)",
+  "university": "University of South Wales",
+  "location": "Newport, Wales, United Kingdom",
+  "description": "The Counselling and Therapeutic Practice (Hons) degree at University of South Wales oﬀers the learning and training you need to become a professional integrative counsellor. You'll gain the knowledge, skills and experience to provide counselling across all age ranges, from children and young people to older adults. ",
+  "fee": "15,286 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cdcfbf644a30fcfa6649"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health Sciences",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "Health Sciences degree at Texas State University is critical to meet the increasing demand for health managers.",
+  "fee": "19,647 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cdcfbf644a30fcfa664a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/282814/logos/1564750408_logo_unyp_side_0.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Psychology",
+  "university": "University of New York in Prague",
+  "location": "Prague, Czech Republic",
+  "description": "The Bachelor in Psychology degree at University of New York in Prague runs for a four-year period. Its aim is to provide students with a solid foundation in science – particularly the study of behavior and the mind – through theory and practical experience in all of the major fields of psychology. ",
+  "fee": "7,120 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cdcfbf644a30fcfa664b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Exercise Science (Therapeutic Science)",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "Exercise Science (Therapeutic Science) at Liberty University provides the foundational courses, tools, and experience you need to succeed in a medical profession.",
+  "fee": "19,630 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cdcfbf644a30fcfa664c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/43b16c41.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health Studies - Health Services Administration",
+  "university": "Portland State University",
+  "location": "Portland, Oregon, United States",
+  "description": "The Public Health Studies - Health Services Administration at Portland State University is an innovative structure, in which we bring the best of two universities to you. Our design is a product of our innovative spirit and values: we bring that approach to you, working to chart your path into clinical, educational, policy, and direct-service health care.",
+  "fee": "24,609 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cdd0bf644a30fcfa664d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11506/logos/1540893470_rsz_lsbu_crest_simple_white_text_horizon_blackoutline.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Psychology (Clinical Psychology) - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS London South Bank",
+  "location": "London, England, United Kingdom",
+  "description": "This one-year (3 term) Psychology (Clinical Psychology) - Undergraduate Foundation Programme from ONCAMPUS London South Bank offers successful students guaranteed progression to London South Bank University. You will study your Foundation programme at our Centre located at the heart of the London South Bank University campus.",
+  "fee": "14,997 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014ce1b2b64ebb6aa33882b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Creative and Therapeutic Arts (Hons)",
+  "university": "",
+  "location": "Pontypridd, Wales, United Kingdom",
+  "description": "The Creative and Therapeutic Arts (Hons) degree at University of South Wales has three distinct areas of study - art practice, professional practice placement, and theoretical input. You'll be encouraged to make meaningful connections between each core subject to become a creative arts practitioner.",
+  "fee": "15,286 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ce1c2b64ebb6aa33882c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Occupational Therapist Assistant and Physiotherapist Assistant",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "Humber College’s Occupational Therapist Assistant and Physiotherapist Assistant (OTA/PTA) diploma program was the first in Ontario to provide formal educational preparation for occupational therapist assistants (OTAs) and physiotherapist assistants (PTAs) and continues to provide quality education. ",
+  "fee": "10,209 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ce1c2b64ebb6aa33882d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12294/logos/1576081321_oth.global.ctt.sm.redc.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Kinesiology - Movement Science",
+  "university": "University of Illinois at Chicago",
+  "location": "Chicago, Illinois, United States",
+  "description": "As a B.S. in Kinesiology - Movement Science and UIC Global student at the University of Illinois at Chicago, you get more than academic, language and cultural growth. You also gain valuable professional skills that prepare you for a long, rewarding career.",
+  "fee": "26,394 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ce1c2b64ebb6aa33882e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Pharmacy",
+  "university": "University of Nicosia",
+  "location": "Nicosia, Cyprus",
+  "description": "The overall aim of the Pharmacy programme from University of Nicosia is to prepare students scientifically and professionally to become fully proficient in the science of pharmacy.",
+  "fee": "9,720 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014ce1c2b64ebb6aa33882f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medical Sciences - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS UK North",
+  "location": "Preston, England, United Kingdom",
+  "description": "This one-year (3 term) Medical Sciences - Undergraduate Foundation Programme from ONCAMPUS UK North offers successful students guaranteed progression to UCLan and the opportunity to apply to a number of other top UK universities through the UCAS process. You will study your Foundation programme at our Centre located at the heart of the UCLan campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014ce1c2b64ebb6aa338830"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Dental Nursing",
+  "university": "Faculty of Science and Health",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "Dental nurses support dentists in all aspects of patient treatment and care. On this 1-year CertHE Dental Nursing course, you’ll get the knowledge and practical skills required to achieve safe beginner status, become a vital member of the dental team and register with the General Dental Council (GDC).",
+  "fee": "",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ce1d2b64ebb6aa338831"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12030/logos/1594400099_high-res-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Bachelor's of Science in Nursing (BSN) from University of Arizona is a competitive program designed for students pursuing a career in nursing.",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce1d2b64ebb6aa338832"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sportscasting (Online)",
+  "university": "Full Sail University",
+  "location": "Online",
+  "description": "Developed in collaboration with sportscasting veteran Dan Patrick, the goal of the Sportscasting (Online) program at Full Sail University is to provide students with constant real-world experience both on camera and behind the scenes.  ",
+  "fee": "19,454 EUR / year",
+  "duration": "2 years, 5 months"
+},{
+  "_id": {
+    "$oid": "6014ce1d2b64ebb6aa338833"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17276/logos/1564427347_primary-wordmark-fullcolor.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Healthcare Science - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS UK North",
+  "location": "Preston, England, United Kingdom",
+  "description": "This one-year (3 term) Healthcare Science - Undergraduate Foundation Programme from ONCAMPUS UK North offers successful students guaranteed progression to UCLan and the opportunity to apply to a number of other top UK universities through the UCAS process. You will study your Foundation programme at our Centre located at the heart of the UCLan campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014ce3ac7d873077875aa9d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17276/logos/1564427347_primary-wordmark-fullcolor.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Chemistry - Health Care",
+  "university": "Southern Utah University",
+  "location": "Cedar City, Utah, United States",
+  "description": "The Chemistry - Health Care program from Southern Utah University is an active discipline vital to human existence and essential to the understanding of industrial, economic, medical, biological and environmental issues. ",
+  "fee": "17,174 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce3ac7d873077875aa9e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13777/logos/1567448854_wsu_vertical_color-2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medical Laboratory Sciences",
+  "university": "Wichita State University",
+  "location": "Wichita, Kansas, United States",
+  "description": "The Medical Laboratory Sciences program at Wichita State University combines quality, accredited classroom curriculum with practical, hands-on learning in Kansas' health care hub. ",
+  "fee": "445 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce3bc7d873077875aa9f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Psychology",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "Graduates of the Psychology program at Texas State University hold positions in business, government, health, and education.",
+  "fee": "19,647 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce3bc7d873077875aaa0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Psychological Science",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The BS in Psychological Science from the University of Arizona prepares students for careers that require an in-depth understanding of the research methods used to study the mind, brain, and behavior.",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce3bc7d873077875aaa1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13777/logos/1567448854_wsu_vertical_color-2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health Administration (Online)",
+  "university": "Wichita State University",
+  "location": "Online",
+  "description": "The dual/accelerated online Bachelor of Science (BS) in Health Management to Master of Health Administration (Online) from Wichita State University  is designed to prepare qualified students for graduate work in health administration at WSU, while allowing them to earn dual credit toward their bachelor's degree. ",
+  "fee": "188 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce3bc7d873077875aaa2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16875/logos/1567547815_bay_path_college_logo.svg.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health and Wellness",
+  "university": "The American Women's College Online",
+  "location": "Online",
+  "description": "Help individuals live longer, healthier, happier and more successful lives by focusing your Health Service Administration studies at Bay Path University on Health and Wellness.",
+  "fee": "330 EUR / credit",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014ce3bc7d873077875aaa3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physiotherapy",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "Stand out from the crowd with an Integrated Master’s degree in Physiotherapy from Keele University. Our exciting new 4 year programme will develop your clinical, leadership, management and research skills to better prepare you to treat complex patients and accelerate your progression in your physiotherapy career. ",
+  "fee": "22,646 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce3cc7d873077875aaa4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sexual Health Studies (Hons)",
+  "university": "University of Central Lancashire (UCLan)",
+  "location": "Preston, England, United Kingdom",
+  "description": "This BSc Sexual Health Studies (Hons) programme at University of Central Lancashire (UCLan) provides you with the appropriate knowledge and skills required to undertake a variety of careers within adult and young person’s sexual health related services.",
+  "fee": "14,380 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ce3cc7d873077875aaa5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medicinal Chemistry and Physics (Hons)",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "This Medicinal Chemistry and Physics (Hons) course from Keele University prepares you to help solve problems at the intersection of chemistry, biochemistry, molecular biology and pharmacology. ",
+  "fee": "18,400 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ce3cc7d873077875aaa6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Astrophysics and Medicinal Chemistry (Hons)",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "The Astrophysics and Medicinal Chemistry (Hons) course from Keele University will help you to use astronomical observations, mathematical models and computer simulation to develop theories explaining some of the most complex phenomena.  ",
+  "fee": "18,400 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ce60273ba1ce919e4a95"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Biomedical Physics (Honours)",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Bachelor of Biomedical Physics (Honours) degree at the University of Technology Sydney provides students with the unique opportunity to undertake research, and gain in-depth knowledge and training in the area of biomedical physics. ",
+  "fee": "545 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ce60273ba1ce919e4a96"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Health (Specialist Community Public Health Nursing) (Hons)",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "The Public Health (Specialist Community Public Health Nursing) (Hons) course at University of the West of England (UWE Bristol) has been designed to produce knowledgeable and skilled public health practitioners who are able to work with various client groups across different settings within the Nursing and Midwifery Council (NMC) Professional Code of Conduct.",
+  "fee": "15,286 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ce60273ba1ce919e4a97"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Clinical Practice (Hons)",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "The Clinical Practice (Hons) programme from Keele University offers health and social care professionals the opportunity to study for an undergraduate conversion degree in an area relevant to their professional practice and interests. ",
+  "fee": "18,400 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014ce60273ba1ce919e4a98"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/43b16c41.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Applied Health and Fitness",
+  "university": "Portland State University",
+  "location": "Portland, Oregon, United States",
+  "description": "In the Applied Health and Fitness program at Portland State University you will explore and apply the most current research and science in the field of exercise, physical activity, and health.  ",
+  "fee": "24,609 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce61273ba1ce919e4a99"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17213/logos/1506682151_centennial%20college.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nutrition and Food Service Management",
+  "university": "Centennial College",
+  "location": "Toronto, Canada",
+  "description": "The Nutrition and Food Service Management program at Centennial College is the longest established two-year program of its sort in the Greater Toronto Area. ",
+  "fee": "9,606 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ce61273ba1ce919e4a9a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Athletic Training",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "The Athletic Training program at Texas State University is accredited by the Commission on Accreditation of Athletic Training Education (CAATE).",
+  "fee": "19,647 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce61273ba1ce919e4a9b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1658/logos/1519995092_UMED%20logo__kolor.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Dentistry 5 Years",
+  "university": "Medical University of Lodz",
+  "location": "Lódz, Poland",
+  "description": "The Dentistry Teaching Center is equipped with new generation dental and phantom units placing the Medical University of Lodz center among the top quality medical education centers in Europe.",
+  "fee": "13,000 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014ce61273ba1ce919e4a9c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bachelor of Exercise Physiology and Rehabilitation",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "Explore the complexities of human movement; develop a broad understanding of the human body and learn how to help those who are injured or physically impaired get their lives back on track - with the Bachelor of Exercise Physiology and Rehabilitation from University of Canberra.",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce61273ba1ce919e4a9d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b3bafd7c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "(Hons) Health and Exercise Science",
+  "university": "University of Lincoln",
+  "location": "Lincoln, England, United Kingdom",
+  "description": "This (Hons) Health and Exercise Science degree at University of Lincoln  aims to inspire and empower students to become confident and efficient professionals. It prepares students to work with a broad array of issues in the physical activity and health development sector.",
+  "fee": "18,003 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ce61273ba1ce919e4a9e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12502/logos/1565617059_pace-logo-rgb-isolated.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing",
+  "university": "Pace University",
+  "location": "Pleasantville, New York, United States",
+  "description": "The BS Nursing program at Pace University provides you with a wide range of professional skills and techniques as soon as you start—you’ll take your first nursing course your freshman year and gain hands-on clinical experience as a sophomore, a year earlier than most schools.",
+  "fee": "561 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce8c3f657072f7ac6712"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medical Science - Laws",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "With the combined Bachelor degrees in Medical Science - Laws at the University of Technology Sydney, students can prepare for specialist roles in the field of health care law or opt to pursue two discrete qualifications in medical science and law.  ",
+  "fee": "598 EUR / credit",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014ce8c3f657072f7ac6713"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physiology and Pharmacology - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS UK North",
+  "location": "Preston, England, United Kingdom",
+  "description": "This one-year (3 term) Physiology and Pharmacology - Undergraduate Foundation Programme from ONCAMPUS UK North offers successful students guaranteed progression to UCLan and the opportunity to apply to a number of other top UK universities through the UCAS process. You will study your Foundation programme at our Centre located at the heart of the UCLan campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014ce8c3f657072f7ac6714"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12030/logos/1594400099_high-res-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sportscasting",
+  "university": "Full Sail University",
+  "location": "Winter Park, Florida, United States",
+  "description": "The Sportscasting certificate program at Full Sail University prepares students with a well-rounded industry skill set in the field of sports-content presentation.  ",
+  "fee": "6,186 EUR / full",
+  "duration": "7 months"
+},{
+  "_id": {
+    "$oid": "6014ce8c3f657072f7ac6715"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11878/logos/1572636326_acu-logo_cmyk_full-colour_positive_a3.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing (Enrolled Nurses)",
+  "university": "Australian Catholic University",
+  "location": "Multiple locations",
+  "description": "If you are a diploma-qualified nurse and would like to boost your qualifications, this Bachelor of Nursing (Enrolled Nurses) from Australian Catholic University is for you. ACU graduate nurses are held in high regard for their clinical skills, quick thinking, and compassion. ",
+  "fee": "18,685 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ce8c3f657072f7ac6716"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11996/logos/1584562410_unitas_int_p_pos_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Pharmacy with Honours",
+  "university": "University of Tasmania",
+  "location": "Hobart, Tasmania, Australia",
+  "description": "This on-campus Pharmacy with Honours course at University of Tasmania is offered at Hobart as a separate one-year course.",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce8d3f657072f7ac6717"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Nursing program at South Dakota State University prepares graduates to practice in both hospital and non-hospital settings and have the foundation for advanced study in nursing. ",
+  "fee": "307 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce8d3f657072f7ac6718"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physiotherapy (Hons)",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "The Physiotherapy (Hons) programme from University of Malta provides students with a broad education in the study and treatment of movement disorders and related pathologies, as recommended in the guidelines of the World Confederation for Physical Therapy.",
+  "fee": "10,800 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce8d3f657072f7ac6719"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10831/logos/1568845722_uon.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medical Radiation Science (Honours) (Nuclear Medicine)",
+  "university": "University of Newcastle",
+  "location": "Newcastle, New South Wales, Australia",
+  "description": "The graduates of the Medical Radiation Science (Honours) (Nuclear Medicine) program from University of Newcastle are sought after worldwide. In this rewarding and challenging degree, you will learn to diagnose, treat, and prevent diseases such as cancer using radioactive substances – giving patients the best chance of living a full and healthy life.",
+  "fee": "22,616 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ce8d3f657072f7ac671a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16875/logos/1567547815_bay_path_college_logo.svg.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Diagnostic Radiography and Medical Imaging (Hons)",
+  "university": "Faculty of Science and Health",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "Do you have the ambition to become an essential member of a healthcare team, using the latest technology to diagnose and treat people's illnesses?As a Diagnostic Radiographer, you'll examine patients using the latest imaging techniques – from conventional radiography, CT scanning and fluoroscopy to more specialised modalities such as ultrasound, magnetic resonance and radionuclide imaging.",
+  "fee": "",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ceadd13e714c50940fa1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physiology and Pharmacology - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS UK North",
+  "location": "Preston, England, United Kingdom",
+  "description": "This one-year (3 term) Physiology and Pharmacology - Undergraduate Foundation Programme from ONCAMPUS UK North offers successful students guaranteed progression to UCLan and the opportunity to apply to a number of other top UK universities through the UCAS process. You will study your Foundation programme at our Centre located at the heart of the UCLan campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014ceadd13e714c50940fa2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12030/logos/1594400099_high-res-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sportscasting",
+  "university": "Full Sail University",
+  "location": "Winter Park, Florida, United States",
+  "description": "The Sportscasting certificate program at Full Sail University prepares students with a well-rounded industry skill set in the field of sports-content presentation.  ",
+  "fee": "6,186 EUR / full",
+  "duration": "7 months"
+},{
+  "_id": {
+    "$oid": "6014ceadd13e714c50940fa3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11878/logos/1572636326_acu-logo_cmyk_full-colour_positive_a3.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing (Enrolled Nurses)",
+  "university": "Australian Catholic University",
+  "location": "Multiple locations",
+  "description": "If you are a diploma-qualified nurse and would like to boost your qualifications, this Bachelor of Nursing (Enrolled Nurses) from Australian Catholic University is for you. ACU graduate nurses are held in high regard for their clinical skills, quick thinking, and compassion. ",
+  "fee": "18,685 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014ceadd13e714c50940fa4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/a45d7b53.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physics with Medical School Preparation",
+  "university": "University of Texas Arlington",
+  "location": "Texas City, Texas, United States",
+  "description": "The Bachelor of Science degree programs include one which prepares students for careers in science and technology,  the Physics with Medical School Preparation at University of Texas Arlington  for medical school preparation, and a third for students wanting to minor in an Engineering discipline.",
+  "fee": "23,507 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ceaed13e714c50940fa5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11996/logos/1584562410_unitas_int_p_pos_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Pharmacy with Honours",
+  "university": "University of Tasmania",
+  "location": "Hobart, Tasmania, Australia",
+  "description": "This on-campus Pharmacy with Honours course at University of Tasmania is offered at Hobart as a separate one-year course.",
+  "fee": "",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ceaed13e714c50940fa6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Nursing program at South Dakota State University prepares graduates to practice in both hospital and non-hospital settings and have the foundation for advanced study in nursing. ",
+  "fee": "307 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ceaed13e714c50940fa7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physiotherapy (Hons)",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "The Physiotherapy (Hons) programme from University of Malta provides students with a broad education in the study and treatment of movement disorders and related pathologies, as recommended in the guidelines of the World Confederation for Physical Therapy.",
+  "fee": "10,800 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ceaed13e714c50940fa8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10831/logos/1568845722_uon.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Medical Radiation Science (Honours) (Nuclear Medicine)",
+  "university": "University of Newcastle",
+  "location": "Newcastle, New South Wales, Australia",
+  "description": "The graduates of the Medical Radiation Science (Honours) (Nuclear Medicine) program from University of Newcastle are sought after worldwide. In this rewarding and challenging degree, you will learn to diagnose, treat, and prevent diseases such as cancer using radioactive substances – giving patients the best chance of living a full and healthy life.",
+  "fee": "22,616 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014ceaed13e714c50940fa9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/249/logos/1576587683_logo-study-portals.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Prosthetics and Orthotics (Hons)",
+  "university": "University of Strathclyde",
+  "location": "Glasgow, Scotland, United Kingdom",
+  "description": "Benefit from state-of-the-art technology including our milling machine with robot arm and video gait analysis system. Join the Prosthetics and Orthotics (Hons) course at the University of Strathclyde to learn more.",
+  "fee": "24,741 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014ceafd13e714c50940faa"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/158/logos/1583933373_10719-international-study-portals-bu-logo-v3.0.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health and Nutrition",
+  "university": "Bournemouth University",
+  "location": "Bournemouth, England, United Kingdom",
+  "description": "Delivered at Wiltshire College and University Centre's Salisbury campus, this Health and Nutrition course from Bournemouth University will prepare you for working in a scientific or health environment.",
+  "fee": "16,418 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014cec7b2787b85af58aeb5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health and Social Care Management (Including Foundation Year) (Hons)",
+  "university": "University of South Wales",
+  "location": "Pontypridd, Wales, United Kingdom",
+  "description": "The Health and Social Care Management (Including Foundation Year) (Hons) programme from University of South Wales forms part of an integrated four-year degree programme, and is designed for students who do not currently meet the admissions criteria for direct entry onto a degree course in BSc (Hons) Health and Social Care Management. ",
+  "fee": "15,286 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cec8b2787b85af58aeb6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16875/logos/1567547815_bay_path_college_logo.svg.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health and Human Services - Autism Spectrum Studies",
+  "university": "Bay Path University",
+  "location": "Longmeadow, Massachusetts, United States",
+  "description": "Do you aspire to make a difference in the lives of individuals, families, and entire communities? In the Health and Human Services - Autism Spectrum Studies program at Bay Path University, students take core courses that provide a background in physical and mental health, ethics, communication and social policy.",
+  "fee": "29,512 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cec8b2787b85af58aeb7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11878/logos/1572636326_acu-logo_cmyk_full-colour_positive_a3.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physical Activity and Health Science",
+  "university": "Australian Catholic University",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "If you're interested in exercise, but want to keep your options open, this Bachelor of Physical Activity and Health Science from Australian Catholic University will give you an in-depth understanding of the role that physical activity, exercise and healthy lifestyles play in wellbeing throughout our lives. ",
+  "fee": "15,404 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cec8b2787b85af58aeb8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13777/logos/1567448854_wsu_vertical_color-2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing - RN to BSN",
+  "university": "Wichita State University",
+  "location": "Wichita, Kansas, United States",
+  "description": "The Nursing - RN to BSN program at Wichita State University helps qualified RNs to earn their career-advancing BSN affordably and conveniently.",
+  "fee": "445 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cec8b2787b85af58aeb9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Neuroscience (Hons)",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "Studying in the Neuroscience (Hons) programme from Keele University, you’ll discover how we learn and remember, how the brain controls the body, and how the brain can be targeted by disease but in some instances can repair itself. Within the course are interesting related disciplines such as neuroanatomy, neuropharmacology and neuropathology. ",
+  "fee": "18,400 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cec8b2787b85af58aeba"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Specialist Practice (District Nursing) (Hons)",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "The Specialist Practice (District Nursing) (Hons) from University of the West of England (UWE Bristol) is a professional practice programme for registered adult nurses working in the community and aspiring to move into team leader grade roles.",
+  "fee": "15,286 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014cec9b2787b85af58aebb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Nursing Studies",
+  "university": "University of Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "This Nursing Studies (Hons) course from The University of Hull gives nurses who qualified outside the UK the opportunity to study on our award-winning Health Campus.",
+  "fee": "19,475 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014cec9b2787b85af58aebc"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16875/logos/1567547815_bay_path_college_logo.svg.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Health and Wellness",
+  "university": "The American Women's College Online",
+  "location": "Online",
+  "description": "Help individuals live longer, healthier, happier and more successful lives by focusing your Health Service Administration studies at Bay Path University on Health and Wellness.",
+  "fee": "330 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cec9b2787b85af58aebd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Psychology with Placement Year (Hons)",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "Studying Psychology involves exploring why humans feel, think and act in the ways that they do. In the Psychology with Placement Year (Hons) programme at Keele University you will learn about what the latest psychology research, including studies published by our own friendly and approachable staff, tells us about human behaviour. ",
+  "fee": "18,400 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cec9b2787b85af58aebe"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Physician Associate Studies - Medicine Undergraduate Foundation Programme",
+  "university": "ONCAMPUS UK North",
+  "location": "Preston, England, United Kingdom",
+  "description": "This Physician Associate Studies - Medicine Undergraduate Foundation Programme at ONCAMPUS UK North gives you the opportunity to apply for Year 1 of a number of Medicine or Veterinary Medicine degrees at UCLan, Royal College of Surgeons, Ireland, St George's University, Grenada and the University of Nicosia in Cyprus.",
+  "fee": "23,761 EUR / year",
+  "duration": "9 months"
+}]

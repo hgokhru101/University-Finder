@@ -1,0 +1,749 @@
+[{
+  "_id": {
+    "$oid": "6014efeec122cb2542b4ab8e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Journalism",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "The Journalism from University of the West of England (UWE Bristol) aim to produce graduates with skills and understanding suitable for entry level posts in all aspects of multi-media journalism content production including print, broadcast and web media.",
+  "fee": "15,003 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014efeec122cb2542b4ab8f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management with Creative Industries - Master's Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Management with Creative Industries - Master's Foundation Programme from ONCAMPUS London is designed to prepare international students for postgraduate study in the UK. ",
+  "fee": "19,804 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014efefc122cb2542b4ab90"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Magazine Journalism",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "Learn essential skills, produce print and online magazines, and complete at least seven weeks' work experience with the Magazine Journalism course from City, University of London.",
+  "fee": "24,039 EUR / full",
+  "duration": "10 months"
+},{
+  "_id": {
+    "$oid": "6014efefc122cb2542b4ab91"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Advanced Journalism",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Master of Advanced Journalism at the University of Technology Sydney equips students with the skills, deep knowledge and adaptive capabilities to build a career in today's rapidly changing and often highly disrupted media landscape. ",
+  "fee": "474 EUR / credit",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014efefc122cb2542b4ab92"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11214/logos/1528466140_MetFilm_school_FullLogo_Medium.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Producing",
+  "university": "MetFilm School",
+  "location": "London Borough of Harrow, England, United Kingdom",
+  "description": "Studying MA Producing at MetFilm School London allows you to fast-track your creative career and gain a job in today’s ever changing creative industries.",
+  "fee": "21,514 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014efefc122cb2542b4ab93"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Translation and Terminology Studies",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "The Translation and Terminology Studies course from University of Malta aims at offering a theoretical and practical background based on the current global translation market demands.",
+  "fee": "7,200 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014efefc122cb2542b4ab94"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Global Media and Culture",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "Media and Cultural Studies is an exciting and developing discipline that draws together theories and practices from a range of disciplines such as Media Studies, Film and Television Studies, English and Sociology. To learn more, join this Global Media and Culture programme from Keele University.",
+  "fee": "18,117 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eff0c122cb2542b4ab95"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/312/logos/1484571783_JU_A_sv.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sustainable Communication",
+  "university": "Jönköping University",
+  "location": "Jönköping, Sweden",
+  "description": "The Sustainable Communication programme offered by Jönköping University is a Media and Communication master’s programme designed for students who want to deepen their understanding of the significant role of media and communication for global sustainability.",
+  "fee": "11,281 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eff0c122cb2542b4ab96"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/862/logos/1523886269_Maynooth%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Critical and Creative Media",
+  "university": "Maynooth University",
+  "location": "Maynooth, Ireland",
+  "description": "This one year (full-time) Critical and Creative Media MA at Maynooth University advances practical, research, and writing skills while deepening creative and critical engagement with media of all kinds.",
+  "fee": "14,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014eff0c122cb2542b4ab97"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17276/logos/1564427347_primary-wordmark-fullcolor.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Library - Media K-12 Endorsement",
+  "university": "Southern Utah University",
+  "location": "Cedar City, Utah, United States",
+  "description": "The Library Media Department at Southern Utah University offers all the coursework necessary for the Library Media minor and the Library - Media K-12 Endorsement (both undergraduate and graduate).",
+  "fee": "",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f000b4832d99e0954cf7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/444/logos/1523458736_UoS-LOGO-PMS-349.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Publishing Studies",
+  "university": "University of Stirling",
+  "location": "Stirling, Scotland, United Kingdom",
+  "description": "The Publishing Studies programme at the University of Stirling covers the whole process of planning, editing, production, marketing and publication management in print and digital environments.",
+  "fee": "18,994 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f001b4832d99e0954cf8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Journalism - Master's Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Journalism - Master's Foundation Programme from ONCAMPUS London is designed to prepare international students for postgraduate study in the UK. ",
+  "fee": "19,804 EUR / year",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014f001b4832d99e0954cf9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11214/logos/1528466140_MetFilm_school_FullLogo_Medium.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film and Television Production",
+  "university": "MetFilm School",
+  "location": "London Borough of Harrow, England, United Kingdom",
+  "description": "MA Film and Television Production at MetFilm School London is a one-year postgraduate course for the post-Netflix generation of producers, screenwriters, directors, camera people, editors and preditors. ",
+  "fee": "22,080 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f001b4832d99e0954cfa"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/cbe1d972.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Conference Interpreting",
+  "university": "Macquarie University",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Conference Interpreting program at Macquarie University will enable you to develop the specialised skills required in conference interpreting. ",
+  "fee": "21,268 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f001b4832d99e0954cfb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14453/logos/1545396559_HSF-Logo_RZ_RGB.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Digital Management",
+  "university": "Fresenius University of Applied Sciences",
+  "location": "Multiple locations",
+  "description": "The Digital Management program at Hochschule Fresenius University Of Applied Sciences will provide you with expertise in the digital change processes within companies and organizations. Demand is high in all industry sectors for well-trained specialists who can take on this essential management role.",
+  "fee": "775 EUR / module",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f001b4832d99e0954cfc"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "TESOL",
+  "university": "University of Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "The MA in TESOL (Teaching English to Speakers of Other Languages) offered at The University of Hull is designed for any graduate who has a strong interest in language learning and teaching. ",
+  "fee": "16,418 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f002b4832d99e0954cfd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/cbe1d972.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Translation and Interpreting Studies (Advanced)",
+  "university": "Macquarie University",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Translation and Interpreting Studies (Advanced) program at Macquarie University will prepare you with the knowledge and skills you'll require for a career in this dynamic field.",
+  "fee": "21,268 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f002b4832d99e0954cfe"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Media and Culture",
+  "university": "School of Cultural Studies and Humanities",
+  "location": "Leeds, England, United Kingdom",
+  "description": "This Media and Culture course from Leeds Beckett University will enhance your theoretical knowledge and will provide an opportunity to put theory into practice. Your first semester critically engages with key theories and the second focuses on developing your analytical, investigative and practical skills. During the final part of your course, you will complete a major independent project.",
+  "fee": "14,720 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f002b4832d99e0954cff"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Translation Studies",
+  "university": "University of Auckland",
+  "location": "Auckland, New Zealand",
+  "description": "Prepare for a career as a translator with a programme that combines theory with hands-on translation practice in digital environments with this Postgraduate Diploma in Translation Studies from University of Auckland.",
+  "fee": "19,830 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f002b4832d99e0954d00"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Post-Production",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "The Post-Production certificate at Humber College will develop the technological skills, creative and critical abilities you will need to thrive in the post-production industry. You will gain a firm grounding in industry-standard, non-linear video editing software. ",
+  "fee": "11,185 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014f0172b806802c855612d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/ce31b985.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Graphic Design - Focus on New media - IED Florence",
+  "university": "Istituto Europeo Di Design (IED)",
+  "location": "Florence, Italy",
+  "description": "The Master course in Graphic Design - Focus on New media - IED Florence from Istituto Europeo Di Design (IED) offers a high level of professional preparation which is based on the design method, the mastery of technical and technological skills and the continuous updating about the latest market demands.",
+  "fee": "19,200 EUR / full",
+  "duration": "10 months"
+},{
+  "_id": {
+    "$oid": "6014f0172b806802c855612e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12030/logos/1594400099_high-res-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Translation Studies",
+  "university": "Faculty of Humanities and Social Sciences",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "If you're a language graduate or practising translator, you can take your skills to postgraduate level with this MA Translation Studies degree course at University of Portsmouth, accredited by the European Masters in Translation (EMT) network.",
+  "fee": "16,192 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f0182b806802c855612f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1493/logos/1516272095_euc-logo-en.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Creative Technologies",
+  "university": "Faculty of Creative and Cultural Industries",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "If you’re interested in computer animation, computer games or music technology, then our MSc Creative Technologies course at University of Portsmouth is a great way to take your existing skills and knowledge to postgraduate level.",
+  "fee": "17,098 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f0182b806802c8556130"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Entertainment Business (Online)",
+  "university": "Full Sail University",
+  "location": "Online",
+  "description": "The Entertainment Business (Online) program at Full Sail University is an advanced exploration of the specific business and management skills required to excel and lead in the entertainment world.  ",
+  "fee": "23,094 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f0182b806802c8556131"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19116/logos/1582638612_tampere-university-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Digital Media",
+  "university": "European University Cyprus (EUC)",
+  "location": "Nicosia, Cyprus",
+  "description": "The Digital Media program from European University Cyprus (EUC) provides students with the technical know-how to become informed and active participants and professionals in the digital world.",
+  "fee": "9,120 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014f0182b806802c8556132"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/9951/logos/1561080142_auckland-uni-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Translation",
+  "university": "University of Auckland",
+  "location": "Auckland, New Zealand",
+  "description": "Take your career in translation and intercultural communication to the next level with this Master of Translation from University of Auckland.",
+  "fee": "19,830 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014f0182b806802c8556133"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/80/logos/1490952722_logo1.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Teaching, Learning and Media Education",
+  "university": "Tampere University",
+  "location": "Tampere, Finland",
+  "description": "Teaching, Learning, and Media Education is a two-year Master's Degree Programme at Tampere University that aims to train educational experts for various tasks in the field of education. ",
+  "fee": "10,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f0192b806802c8556134"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/202/logos/1597751480_escp_logo_cmjn-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Translation",
+  "university": "University of Auckland",
+  "location": "Auckland, New Zealand",
+  "description": "Kick start your professional development in community translation or multimedia translation with this Postgraduate Certificate in Translation from University of Auckland.",
+  "fee": "",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014f0296c3c625f9257d973"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/cbe1d972.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Media and Communications",
+  "university": "Macquarie University",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "Whether you’re an aspiring or experienced media professional, the Media and Communications program at Macquarie University will give you the skills you need to expertly respond to the challenges associated with the changing mediascape, in an ethical context. ",
+  "fee": "21,521 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f0296c3c625f9257d974"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0413e8c3.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Translation and Localisation of Technical Texts",
+  "university": "Kaunas University of Technology",
+  "location": "Kaunas, Lithuania",
+  "description": "The Translation and Localisation of Technical Texts programme offered by Kaunas University of Technology will mostly attract those who are willing to get more profound knowledge in translation and localization methodologies and technologies, as well as improve their skills in translation technology and management of translation projects.  ",
+  "fee": "4,300 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f02a6c3c625f9257d975"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/64fb5ab8.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Social Media and Web Technologies",
+  "university": "Linnaeus University",
+  "location": "Växjö, Sweden",
+  "description": "The Social Media and Web Technologies programme from Linnaeus University focuses on the design and development of social media tools and services using the web and mobile technologies.",
+  "fee": "15,434 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f02a6c3c625f9257d976"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Publishing",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "The City, University of London MA in International Publishing equips our graduates to compete for future roles in this stimulating, global and evolving industry.",
+  "fee": "19,226 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f02a6c3c625f9257d977"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Global Journalism and Public Relations",
+  "university": "Coventry University",
+  "location": "Coventry, England, United Kingdom",
+  "description": "In our increasingly connected, digital world, news spreads quickly and without the constraints of national boundaries. Journalists are frequently called upon to report on diverse global issues and this Global Journalism and Public Relations course at Coventry University aims to prepare you for practice and analysis of global journalism and media.",
+  "fee": "16,645 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f02a6c3c625f9257d978"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11214/logos/1528466140_MetFilm_school_FullLogo_Medium.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Screenwriting",
+  "university": "MetFilm School",
+  "location": "Multiple locations",
+  "description": "The MA Screenwriting course at MetFilm School London equips you with professional skills to develop your own voice and produce marketable and commercially successful scripts for film, television and web series.",
+  "fee": "20,381 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f02a6c3c625f9257d979"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/110/logos/1562830844_uog_marque_rgb2-002.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Children's Literature, Media and Culture",
+  "university": "University of Glasgow",
+  "location": "Glasgow, Scotland, United Kingdom",
+  "description": "The Children's Literature, Media and Culture programme at the University of Glasgow is an Erasmus Mundus Joint Masters Degree programme. ",
+  "fee": "15,980 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f02b6c3c625f9257d97a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Relations",
+  "university": "",
+  "location": "Pontypridd, Wales, United Kingdom",
+  "description": "The Public Relations programme offered by the University of South Wales is designed to give practitioners the skills and ability to think creatively and adopt the latest tools in modern PR campaigns. ",
+  "fee": "15,965 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f02b6c3c625f9257d97b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Broadcast Journalism",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "The MA in Broadcast Journalism at City, University of London is highly rated in the industry as evidenced by the range and number of alumni working in broadcasting, the awards won, and the industry placements offered.",
+  "fee": "24,039 EUR / full",
+  "duration": "10 months"
+},{
+  "_id": {
+    "$oid": "6014f02b6c3c625f9257d97c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/862/logos/1523886269_Maynooth%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Media Studies",
+  "university": "Maynooth University",
+  "location": "Maynooth, Ireland",
+  "description": "Students of the Media Studies from Maynooth University are provided with a flexible and tailored structured research programme within the Centre for Media Studies, including the development of transferable research skills, specialist knowledge and professional practices. ",
+  "fee": "14,000 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f0393bf5a98a0efed5af"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17213/logos/1506682151_centennial%20college.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Contemporary Journalism",
+  "university": "Centennial College",
+  "location": "Pickering, Canada",
+  "description": "Contemporary Journalism is a three-semester, Graduate Certificate program at Centennial College that explores new tools, trends and directions in journalism while maintaining an emphasis on sourced, credible and verifiable storytelling.  ",
+  "fee": "14,409 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f03a3bf5a98a0efed5b0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/165/logos/1518708936_crested-logo-370x111.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Translation Studies (Distance Learning)",
+  "university": "University of Birmingham",
+  "location": "Online",
+  "description": "The Translation Studies (Distance Learning) programme offered by University of Birmingham designed to improve your translation skills, introduce you to a range of translation technologies and familiarise you with the professional contexts in which translators work.",
+  "fee": "1,291 EUR / module",
+  "duration": "2½ years"
+},{
+  "_id": {
+    "$oid": "6014f03a3bf5a98a0efed5b1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Digital Media Culture",
+  "university": "Postgraduate courses",
+  "location": "London, England, United Kingdom",
+  "description": "This Digital Media Culture course at Birkbeck, University of London provides the conceptual framework required to analyse and comprehend the digital environments of today and tomorrow.",
+  "fee": "17,211 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f03a3bf5a98a0efed5b2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/145/logos/1530801547_SwanUni-Eng%202017%20[662]%20v2.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Latin American Studies (by Research)",
+  "university": "Swansea University",
+  "location": "Swansea, Wales, United Kingdom",
+  "description": "A Latin American Studies (by Research) programme from Swansea University enables you to undertake a substantial project, led by your own passions and interests. ",
+  "fee": "17,437 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f03a3bf5a98a0efed5b3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Advanced Journalism (Extension)",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Master of Advanced Journalism (Extension) at University of Technology Sydney is designed to meet the needs of mid-career journalists and graduates seeking a career change. It is a highly industry-focused course that equips students with deep knowledge of journalism, technical skills and the adaptive capacities needed in the current digital dominated media environment. ",
+  "fee": "474 EUR / credit",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f03a3bf5a98a0efed5b4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Journalism",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "The Journalism from University of the West of England (UWE Bristol) aim to produce graduates with skills and understanding suitable for entry level posts in all aspects of multi-media journalism content production including print, broadcast and web media.",
+  "fee": "15,003 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f03b3bf5a98a0efed5b5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management with Creative Industries - Master's Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Management with Creative Industries - Master's Foundation Programme from ONCAMPUS London is designed to prepare international students for postgraduate study in the UK. ",
+  "fee": "19,804 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014f03b3bf5a98a0efed5b6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Magazine Journalism",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "Learn essential skills, produce print and online magazines, and complete at least seven weeks' work experience with the Magazine Journalism course from City, University of London.",
+  "fee": "24,039 EUR / full",
+  "duration": "10 months"
+},{
+  "_id": {
+    "$oid": "6014f03b3bf5a98a0efed5b7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Advanced Journalism",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Master of Advanced Journalism at the University of Technology Sydney equips students with the skills, deep knowledge and adaptive capabilities to build a career in today's rapidly changing and often highly disrupted media landscape. ",
+  "fee": "474 EUR / credit",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014f03b3bf5a98a0efed5b8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11214/logos/1528466140_MetFilm_school_FullLogo_Medium.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Producing",
+  "university": "MetFilm School",
+  "location": "London Borough of Harrow, England, United Kingdom",
+  "description": "Studying MA Producing at MetFilm School London allows you to fast-track your creative career and gain a job in today’s ever changing creative industries.",
+  "fee": "21,514 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f04a6f4f02d05ee42682"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Communication and Media Studies",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The Master of Arts in Communication and Media Studies course at South Dakota State University is a broad-based graduate degree for students with an undergraduate degree in communication studies, media studies, or related areas. ",
+  "fee": "534 EUR / credit",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f04b6f4f02d05ee42683"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Journalism",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "The International Journalism MA from City, University of London is a one-year professional practice course in which you will develop skills in journalism and thinking about journalism in a global context.",
+  "fee": "24,039 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f04b6f4f02d05ee42684"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11214/logos/1528466140_MetFilm_school_FullLogo_Medium.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Documentary and Factual",
+  "university": "MetFilm School Berlin",
+  "location": "Berlin, Germany",
+  "description": "The MA in Documentary and Factual at MetFilm School Berlin focuses on the creative, technical and industry skills you need to develop documentaries and factual programming across the contemporary media landscape. ",
+  "fee": "16,500 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f04b6f4f02d05ee42685"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Marketing",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Graduate Certificate in Marketing from University of Technology Sydney introduces some of the key dimensions of marketing and is designed for those requiring a general understanding of marketing principles.  ",
+  "fee": "564 EUR / credit",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014f04b6f4f02d05ee42686"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/595/logos/1544710011_ucd.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Digital Policy",
+  "university": "University College Dublin",
+  "location": "Dublin, Ireland",
+  "description": "With support from Microsoft Ireland, University College Dublin’s School of Information and Communication studies is establishing the Microsoft-UCD Digital Policy Programme with the goal of building digital policy training and capability in Ireland and Europe.",
+  "fee": "18,700 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f04c6f4f02d05ee42687"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "English (English, Culture and the Media)",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "The English (English, Culture and the Media) pathway from University of Malta brings together aspects of Media Studies, Cultural Criticism and the study of digital cultures, offering an interdisciplinary perspective that maintains a balance between theory and practice.",
+  "fee": "7,200 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014f04c6f4f02d05ee42688"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Marketing",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Graduate Diploma in Marketing from University of Technology Sydney provides a thorough understanding of the basic principles of marketing, the motivations of customers and marketing management.  ",
+  "fee": "564 EUR / credit",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f04c6f4f02d05ee42689"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Creative Writing and Publishing",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "As writers now have the ability to produce their own work they need increasingly to know how publishing works. This MA Creative Writing and Publishing degree from City, University of London enables aspiring writers to combine business acumen with creative endeavour, equipping them to work within the publishing industry while fostering their writing skills.",
+  "fee": "18,626 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f04c6f4f02d05ee4268a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/324b1fe7.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Screenwriting and Production",
+  "university": "Università Cattolica del Sacro Cuore",
+  "location": "Milano, Italy",
+  "description": "The Master in International Screenwriting and Production at the Università Cattolica del Sacro Cuore aims at creating professional scriptwriters, story editors and producers, providing them with a thorough understanding of the audiovisual industry and a strong knowledge of the storytelling techniques, which are the heart of every project of feature film and television series.",
+  "fee": "9,600 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f04c6f4f02d05ee4268b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/482/logos/1548156836_lbu-int-purple%20(002).png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Journalism",
+  "university": "Leeds Business School",
+  "location": "Leeds, England, United Kingdom",
+  "description": "Whether you are starting your career in journalism or you are an experienced reporter looking to get to grips with a changing industry, this Journalism from Leeds Beckett University is your opportunity to sharpen the skills now demanded by employers.",
+  "fee": "15,852 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f05b149b5b127b611c11"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17276/logos/1564427347_primary-wordmark-fullcolor.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Library - Media K-12 Endorsement",
+  "university": "Southern Utah University",
+  "location": "Cedar City, Utah, United States",
+  "description": "The Library Media Department at Southern Utah University offers all the coursework necessary for the Library Media minor and the Library - Media K-12 Endorsement (both undergraduate and graduate).",
+  "fee": "",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014f05b149b5b127b611c12"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b3bafd7c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Journalism",
+  "university": "University of Lincoln",
+  "location": "Lincoln, England, United Kingdom",
+  "description": "The MA International Journalism at University of Lincoln  is an innovative new programme delivered in partnership between the Thomson Reuters Foundation and the University of Lincoln, designed to equip new generations of journalists to report impartially on critical global issues facing society today.",
+  "fee": "13,588 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f05c149b5b127b611c13"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11465/logos/1517487970_RRU%20Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Strategic Global Communication (Blended)",
+  "university": "Royal Roads University",
+  "location": "Victoria, Canada",
+  "description": "The Strategic Global Communication (Blended) program at the Royal Roads University will augment the credentials, skills, and knowledge of global communication professionals. ",
+  "fee": "5,363 EUR / full",
+  "duration": "3 months"
+},{
+  "_id": {
+    "$oid": "6014f05c149b5b127b611c14"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Digital Media Culture (Part-Time) (January Start)",
+  "university": "Postgraduate courses",
+  "location": "London, England, United Kingdom",
+  "description": "This Digital Media Culture (Part-Time) (January Start) course at Birkbeck, University of London provides the conceptual framework required to analyse and comprehend the digital environments of today and tomorrow.",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014f05c149b5b127b611c15"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/158/logos/1583933373_10719-international-study-portals-bu-logo-v3.0.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Advertising",
+  "university": "Bournemouth University",
+  "location": "Bournemouth, England, United Kingdom",
+  "description": "Join the Advertising programme at Bournemouth University and apply your knowledge to genuine business solutions through working on live client briefs.",
+  "fee": "16,418 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f05c149b5b127b611c16"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/145/logos/1530801547_SwanUni-Eng%202017%20[662]%20v2.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Media Geographies (by Research)",
+  "university": "Swansea University",
+  "location": "Swansea, Wales, United Kingdom",
+  "description": "The Media Geographies (by Research) programme from Swansea University allows you to undertake a year-long (full time) or two-year-long (part-time) individual programme of personally and professionally enriching research, supervised by our Human Geography academic staff.",
+  "fee": "21,683 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f05c149b5b127b611c17"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17213/logos/1506682151_centennial%20college.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Advertising - Media Management",
+  "university": "Centennial College",
+  "location": "Toronto, Canada",
+  "description": "The Advertising - Media Management program offered by Centennial College prepares you for the role of strategic media planning and buying within the advertising and communications industry. ",
+  "fee": "14,409 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f05d149b5b127b611c18"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b3bafd7c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Journalism",
+  "university": "University of Lincoln",
+  "location": "Lincoln, England, United Kingdom",
+  "description": "The Journalism programme from University of Lincoln enables students to learn how to manage a complex research project of their choice, while demonstrating initiative and self-reliance in pursuing research goals.",
+  "fee": "18,230 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f05d149b5b127b611c19"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/237/logos/1538043114_Logo%20BUas_RGB.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Media Innovation",
+  "university": "Breda University of Applied Sciences (BUAS)",
+  "location": "Breda, Netherlands",
+  "description": "Want to learn about the cutting edge of the media industry and how you can be at the very heart of this exciting domain? Then choose the Master Media Innovation programme at Breda University of Applied Sciences (BUAS) after completing your bachelor’s and learn how to come up with new and groundbreaking concepts.",
+  "fee": "10,385 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014f05d149b5b127b611c1a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b3bafd7c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Photography",
+  "university": "University of Lincoln",
+  "location": "Lincoln, England, United Kingdom",
+  "description": "This Photography programme from University of Lincoln provides the opportunity to experiment with new photographic processes and to explore photography as a tool to engage and stimulate social thinking.",
+  "fee": "18,117 EUR / year",
+  "duration": "1 year"
+}]

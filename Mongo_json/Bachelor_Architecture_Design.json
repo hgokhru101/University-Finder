@@ -1,0 +1,749 @@
+[{
+  "_id": {
+    "$oid": "6014d381e5b246560a70ae94"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18986/logos/1550005523_10.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "3D Design and Animation",
+  "university": "Torrens University Australia",
+  "location": "Multiple locations",
+  "description": "Want to tell fantastic stories and create your own worlds and characters? The Bachelor of 3D Design and Animation from Torrens University Australia will give you the essential knowledge to take on a career in 3D design or animation for film, TV, games, advertising, information, education, and beyond. ",
+  "fee": "18,609 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d381e5b246560a70ae95"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18986/logos/1550005523_10.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business and Design",
+  "university": "Torrens University Australia",
+  "location": "Multiple locations",
+  "description": "The combination of a highly regarded business degree and a cutting-edge degree in design in your preferred field offers you the flexibility to pursue exciting and varied career paths. The Business and Design programme from Torrens University Australia gives you the knowledge and confidence to launch your own creative business or go after leading roles in established agencies. ",
+  "fee": "16,141 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d381e5b246560a70ae96"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The Bachelor of Arts (B.A.) in Music from Colorado State University allows students to study music within a larger context of a liberal education. ",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d381e5b246560a70ae97"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Communication Design",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "The Communication Design program at Texas State University is one of the largest public programs in the country and considered to be one of the best within the Southwest United States.",
+  "fee": "19,647 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d381e5b246560a70ae98"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Musical Theatre",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "The goal of the Musical Theatre program at Texas State University is to provide holistic, customized training in musical theater performance to prepare you for the current professional market and develop professional artists who live with integrity in all aspects of their lives.",
+  "fee": "19,647 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d382e5b246560a70ae99"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11878/logos/1572636326_acu-logo_cmyk_full-colour_positive_a3.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Liberal Arts",
+  "university": "Australian Catholic University",
+  "location": "Multiple locations",
+  "description": "The Diploma in Liberal Arts from Australian Catholic University provides students from diverse backgrounds with a flexible one-year introduction to tertiary studies through the completion of 80 cp of Arts units.",
+  "fee": "15,257 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d382e5b246560a70ae9a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12825/logos/1605732617_nu_logo_654_stacked.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Media and Communication with Foundation Year (Hons)",
+  "university": "University of Portsmouth",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "Do you love making film, TV or digital media? Do you have ambitions for a career in the media, but don’t meet the entry requirements for one of our Bachelor's degree programmes? If so, this BA (Hons) Media and Communication with Foundation Year degree course is ideal.",
+  "fee": "16,192 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014d382e5b246560a70ae9b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Digital Media Design",
+  "university": "National University",
+  "location": "San Diego, California, United States",
+  "description": "Have a hand in shaping the way the modern world works, learns, communicates, and plays with a Bachelor of Arts in Digital Media Design at the National University.",
+  "fee": "10,986 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d382e5b246560a70ae9c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/861/logos/1603199647_uplogo_liliomos_en_feher_foltban.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The Department of Art and Art History offers several options of study: The B.F.A. Art degree at Colorado State University with studio concentrations in Drawing, Electronic Arts, Fibers, Graphic Design, Metalsmithing, Painting,  Photo Image Making, Pottery, Printmaking, and Sculpture; and the B.F.A. degree with a concentration in Art Education.",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d397b09f8feec4bc253a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/474/logos/1559810831_logo-1.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Digital Business, Design and Innovation",
+  "university": "EU Business School",
+  "location": "Genève, Switzerland",
+  "description": " Through this Digital Business, Design and Innovation program from EU Business School the entrepreneurial innovators of tomorrow will develop the skills, adaptability and curiosity to not just keep up with technological advances, but to be innovative in their thinking and drive change as they move forward in their careers.",
+  "fee": "25,124 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d397b09f8feec4bc253b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20116/logos/1595955784_sae_logo_black.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Visual Effects Animation (Hons)",
+  "university": "SAE Institute Vienna",
+  "location": "Vienna, Austria",
+  "description": "If you are a passionate fan of visual effects and moving images, and you want to have a career in the film industry, the gaming field or in adverstising, then this basic and advanced BA/BSc in Visual Effects Animation (Hons) from SAE Institute Vienna provides a basis for launching a career in this part of the creative economy. ",
+  "fee": "7,960 EUR / year",
+  "duration": "3½ years"
+},{
+  "_id": {
+    "$oid": "6014d397b09f8feec4bc253c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music - Creative Studies Emphasis",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Music - Creative Studies Emphasis program is offered by University of Arizona.",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d398b09f8feec4bc253d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12030/logos/1594400099_high-res-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Visual Design",
+  "university": "Full Sail University",
+  "location": "Winter Park, Florida, United States",
+  "description": "Students in the Visual Design certificate program at Full Sail University get an introduction to the language of design and gain experience with industry-standard tools used in creative projects.  ",
+  "fee": "6,186 EUR / full",
+  "duration": "7 months"
+},{
+  "_id": {
+    "$oid": "6014d398b09f8feec4bc253e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/80/logos/1490952722_logo1.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Online Culture - Art, Media and Society",
+  "university": "Tilburg University",
+  "location": "Tilburg, Netherlands",
+  "description": "In the Bachelor’s program Online Culture - Art, Media and Society at Tilburg University you will study  art, media and culture in an increasingly digital, globalized world. In this program, you will learn to understand and interpret how digitalization and globalization influence our everyday lives, the artistic expressions we enjoy, and the ways in which we communicate.",
+  "fee": "8,800 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d398b09f8feec4bc253f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Theatre Arts",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "Develop your craft and sharpen your skills as you prepare for a career in theatre arts during Theatre Arts at Liberty University. ",
+  "fee": "19,630 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d398b09f8feec4bc2540"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Graphic Design",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "The major in Graphic Design course at South Dakota State University prepares students for entry-level design positions. Professional graphic designers plan and execute designs for visual communication according to the needs of audiences and clients in the context for which they are intended.",
+  "fee": "307 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d398b09f8feec4bc2541"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13777/logos/1567448854_wsu_vertical_color-2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music",
+  "university": "Wichita State University",
+  "location": "Wichita, Kansas, United States",
+  "description": "The Music program at Wichita State University combines a well-rounded liberal arts education with quality musical training from professional faculty and opportunities to gain real-world experience, in venues big and small, on-campus and throughout Kansas’ center of arts and culture.",
+  "fee": "445 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d398b09f8feec4bc2542"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17279/logos/1600259633_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Communication Design",
+  "university": "University of Europe for Applied Sciences",
+  "location": "Berlin, Germany",
+  "description": "The Communication Design programme taught at University of Europe for Applied Sciences also include practical projects with top partners from the creative industry and optional field trips which will prepare you perfectly for your dream job.",
+  "fee": "12,110 EUR / year",
+  "duration": "3½ years"
+},{
+  "_id": {
+    "$oid": "6014d398b09f8feec4bc2543"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music - Music Education",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The Music - Music Education major at Colorado State University prepares students for teaching choral, instrumental, and general music in elementary and secondary schools. ",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3aa11c3f45fd4626d44"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Audio and Music Technology (with Foundation Year) (Hons)",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "This Audio and Music Technology (with Foundation Year) (Hons) at University of the West of England (UWE Bristol) is ideal if you're passionate about music and the technology behind it, but don't necessarily have formal musical training or prior technical experience.",
+  "fee": "15,286 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3aa11c3f45fd4626d45"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/64fb5ab8.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Visual Communication and Change",
+  "university": "Linnaeus University",
+  "location": "Kalmar, Sweden",
+  "description": "Do you want to use visual communication to make a difference in the world? Then this is the right degree for you. The Visual Communication and Change programme from Linnaeus University combines creative practices, visual art, and graphic design with knowledge of sustainability to prepare you for a profession as a visual communicator with a diverse set of graphic and conceptual tools.",
+  "fee": "25,889 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d3aa11c3f45fd4626d46"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11214/logos/1528466140_MetFilm_school_FullLogo_Medium.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Practical Filmmaking",
+  "university": "MetFilm School Berlin",
+  "location": "Berlin, Germany",
+  "description": "This practical and intensive Practical Filmmaking course from MetFilm School Berlin is for students interested in exploring a career in film, television or online media before committing to a longer course. ",
+  "fee": "15,500 EUR / full",
+  "duration": "8 months"
+},{
+  "_id": {
+    "$oid": "6014d3ab11c3f45fd4626d47"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Media Production - International Foundation Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This one-year (3 term) Media Production - International Foundation Programme from ONCAMPUS Coventry can offer successful students progression to Coventry University. You will study your Foundation programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "18,105 EUR / full",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d3ab11c3f45fd4626d48"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17024/logos/1553648885_maristlogored.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fine Arts - Art History",
+  "university": "Marist College",
+  "location": "Poughkeepsie, New York, United States",
+  "description": "The Fine Arts - Art History programme from Marist College  is offered on our Poughkeepsie campus with a concentration in either:Art History or Studio Art.",
+  "fee": "34,996 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3ab11c3f45fd4626d49"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art - Photo Image Making",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The Art - Photo Image Making major at Colorado State University enables students to explore artistic, personally-driven aspects of the photographic medium. ",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3ab11c3f45fd4626d4a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18986/logos/1550005523_10.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Interior Design (Residential)",
+  "university": "Torrens University Australia",
+  "location": "Multiple locations",
+  "description": "This Interior Design (Residential) course at Torrens University Australia is for designers who want to develop the skills and creativity to respond and adapt to the challenges of sustainable residential design in the 21st Century. You’ll be designing interiors in housing of all types: houses surrounded by gardens, high-rise living, mobile, multi-purpose and homes in adaptive reuse environments.",
+  "fee": "18,609 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d3ab11c3f45fd4626d4b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Cabinet Making",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "Humber College’s Cabinet Making certificate program, located at the Humber Centre for Trades & Technology, provides you with the knowledge and skills to construct and install basic cabinets, as well as build traditional furniture using recognized trade practices.  ",
+  "fee": "15,178 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014d3ac11c3f45fd4626d4c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Dance",
+  "university": "",
+  "location": "Nicosia, Cyprus",
+  "description": "One of the main educational aims of the Dance programme offered by University of Nicosia is to provide intellectually and creatively challenging courses which fulfill the personal development of students and are founded on scholarship, artistry and research.",
+  "fee": "9,420 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3ac11c3f45fd4626d4d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Performance - Guitar Emphasis",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Performance - Guitar Emphasis program from University of Arizona trains students for careers as professional musicians -- performers in classical or jazz music, and composers. After completing the basic curriculum, the student chooses an area of specialization.",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3c17e43ca988adbb23b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Design Foundation",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "Humber College’s Design Foundation certificate program provides you with the skills to focus your creativity as you begin your education in design.  ",
+  "fee": "10,209 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d3c27e43ca988adbb23c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17024/logos/1553648885_maristlogored.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Media Studies and Production - Film and Television Concentration",
+  "university": "Marist College",
+  "location": "Poughkeepsie, New York, United States",
+  "description": "The Media Studies and Production - Film and Television Concentration from Marist College  provides a balance between the study of film and television and the practice of production for a wide range of media careers, including writing, producing, performance, and media criticism. .",
+  "fee": "34,996 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3c27e43ca988adbb23d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18986/logos/1550005523_10.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Interior Design and Decoration",
+  "university": "Torrens University Australia",
+  "location": "Multiple locations",
+  "description": "This diploma in Interior Design and Decoration from Torrens University Australia will you lead into entry level roles in the industry, or you can continue your interior design and decoration studies at Bachelor level.",
+  "fee": "12,406 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014d3c27e43ca988adbb23e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art - Drawing",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The Art - Drawing major at Colorado State University includes a solid foundation in the basics of drawing, plus a strong emphasis on the advanced development of drawing as an art form in its own right. ",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3c27e43ca988adbb23f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Musical Theatre",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Musical Theatre program is offered by University of Arizona.",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3c27e43ca988adbb240"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11506/logos/1540893470_rsz_lsbu_crest_simple_white_text_horizon_blackoutline.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architectural Technology - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS London South Bank",
+  "location": "London, England, United Kingdom",
+  "description": "This one-year (3 term) Architectural Technology - Undergraduate Foundation Programme from ONCAMPUS London South Bank offers successful students guaranteed progression to London South Bank University. You will study your Foundation programme at our Centre located at the heart of the London South Bank University campus.",
+  "fee": "16,696 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d3c37e43ca988adbb241"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/fb444a98.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Arts (Hons)",
+  "university": "School of Design and Informatics",
+  "location": "Dundee, Scotland, United Kingdom",
+  "description": "Immerse yourself in a world where art, media and games join forces to deliver one of the most distinguished Computer Arts (Hons) degrees in Europe at Abertay University.",
+  "fee": "17,551 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3c37e43ca988adbb242"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music - Performance - Orchestral Instrument",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The goal of this Music - Performance - Orchestral Instrument major at Colorado State University is to prepare students to become highly skilled music educators, music therapists, performers, and composers. ",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3c37e43ca988adbb243"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music - Performance",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The Music - Performance major at Colorado State University prepares students for potential professional careers in the music and creative industries as performers, entrepreneurs, and private music teachers. It also prepares students for continued study at the graduate level. ",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3c37e43ca988adbb244"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Industrial Engineering",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Industrial Engineering students at University of Arizona learn how to design and operate manufacturing and services systems. In addition to basic engineering, courses include mathematical and computer modeling and decision making.",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3d56a3ea9c9c3ec396b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17279/logos/1600259633_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Illustration",
+  "university": "University of Europe for Applied Sciences",
+  "location": "Multiple locations",
+  "description": "In the Illustration bachelor's programme at the University of Applied Sciences Europe, you will learn exclusively from renowned lecturers from the creative industry and you can use the professional equipment of the University of Applied Sciences Europe for analogue and digital techniques for your study projects. ",
+  "fee": "12,110 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d3d66a3ea9c9c3ec396c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Audio and Music Technology (with Foundation Year) (Hons)",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "This Audio and Music Technology (with Foundation Year) (Hons) at University of the West of England (UWE Bristol) is ideal if you're passionate about music and the technology behind it, but don't necessarily have formal musical training or prior technical experience.",
+  "fee": "15,286 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3d66a3ea9c9c3ec396d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/64fb5ab8.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Visual Communication and Change",
+  "university": "Linnaeus University",
+  "location": "Kalmar, Sweden",
+  "description": "Do you want to use visual communication to make a difference in the world? Then this is the right degree for you. The Visual Communication and Change programme from Linnaeus University combines creative practices, visual art, and graphic design with knowledge of sustainability to prepare you for a profession as a visual communicator with a diverse set of graphic and conceptual tools.",
+  "fee": "25,889 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d3d66a3ea9c9c3ec396e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11214/logos/1528466140_MetFilm_school_FullLogo_Medium.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Practical Filmmaking",
+  "university": "MetFilm School Berlin",
+  "location": "Berlin, Germany",
+  "description": "This practical and intensive Practical Filmmaking course from MetFilm School Berlin is for students interested in exploring a career in film, television or online media before committing to a longer course. ",
+  "fee": "15,500 EUR / full",
+  "duration": "8 months"
+},{
+  "_id": {
+    "$oid": "6014d3d66a3ea9c9c3ec396f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Media Production - International Foundation Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This one-year (3 term) Media Production - International Foundation Programme from ONCAMPUS Coventry can offer successful students progression to Coventry University. You will study your Foundation programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "18,105 EUR / full",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d3d66a3ea9c9c3ec3970"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art History",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "The Art History program at Texas State University strives to establish a foundation of knowledge in the history of art and visual culture, its methodologies, and its active relationship to broader social and historical frameworks. ",
+  "fee": "19,647 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3d76a3ea9c9c3ec3971"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17024/logos/1553648885_maristlogored.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fine Arts - Art History",
+  "university": "Marist College",
+  "location": "Poughkeepsie, New York, United States",
+  "description": "The Fine Arts - Art History programme from Marist College  is offered on our Poughkeepsie campus with a concentration in either:Art History or Studio Art.",
+  "fee": "34,996 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3d76a3ea9c9c3ec3972"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art - Photo Image Making",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The Art - Photo Image Making major at Colorado State University enables students to explore artistic, personally-driven aspects of the photographic medium. ",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3d76a3ea9c9c3ec3973"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18986/logos/1550005523_10.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Interior Design (Residential)",
+  "university": "Torrens University Australia",
+  "location": "Multiple locations",
+  "description": "This Interior Design (Residential) course at Torrens University Australia is for designers who want to develop the skills and creativity to respond and adapt to the challenges of sustainable residential design in the 21st Century. You’ll be designing interiors in housing of all types: houses surrounded by gardens, high-rise living, mobile, multi-purpose and homes in adaptive reuse environments.",
+  "fee": "18,609 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d3d76a3ea9c9c3ec3974"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Cabinet Making",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "Humber College’s Cabinet Making certificate program, located at the Humber Centre for Trades & Technology, provides you with the knowledge and skills to construct and install basic cabinets, as well as build traditional furniture using recognized trade practices.  ",
+  "fee": "15,178 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014d3e812300bcbe733d361"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Dance",
+  "university": "",
+  "location": "Nicosia, Cyprus",
+  "description": "One of the main educational aims of the Dance programme offered by University of Nicosia is to provide intellectually and creatively challenging courses which fulfill the personal development of students and are founded on scholarship, artistry and research.",
+  "fee": "9,420 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3e912300bcbe733d362"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Performance - Guitar Emphasis",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The Performance - Guitar Emphasis program from University of Arizona trains students for careers as professional musicians -- performers in classical or jazz music, and composers. After completing the basic curriculum, the student chooses an area of specialization.",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3e912300bcbe733d363"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13040/logos/1515428209_XJTLU%20Square.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Arts, Technology and Entertainment",
+  "university": "Xi'an Jiaotong-Liverpool University",
+  "location": "Suzhou, China",
+  "description": "The Arts, Technology and Entertainment program from  Xi'an Jiaotong-Liverpool University is an equal collaboration between the University and its industry partner, China Culture and Media Group, at the School of Cultural Technology in XJTLU Entrepreneur College (Taicang).",
+  "fee": "9,089 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3e912300bcbe733d364"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/144/logos/1541150817_resized.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film and Theatre - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS Reading",
+  "location": "Reading, England, United Kingdom",
+  "description": "This Film and Theatre - Undergraduate Foundation Programme from ONCAMPUS Reading is designed to prepare international students, who have completed senior secondary education, for entry to undergraduate studies at the University of Reading. ",
+  "fee": "19,006 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d3e912300bcbe733d365"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/43b16c41.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Commercial Music (Hons)",
+  "university": "Bath Spa University",
+  "location": "Bath, England, United Kingdom",
+  "description": "Commercial Music (Hons) at Bath Spa University is a four year course for songwriters, producers and performers who want to turn their passion into a career.",
+  "fee": "16,645 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d3e912300bcbe733d366"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/46571/logos/1516096491_MDA%20logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Musicology - Ethnomusicology",
+  "university": "Portland State University",
+  "location": "Portland, Oregon, United States",
+  "description": "The Musicology - Ethnomusicology program at Portland State University will give you a strong music foundation with an emphasis on musicology. ",
+  "fee": "24,609 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3ea12300bcbe733d367"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Interior Architecture and Design (Hons)",
+  "university": "Marbella Design Academy",
+  "location": "Málaga, Spain",
+  "description": "Study an Interior Architecture and Design (Hons) B.A. validated programme at Marbella Design Academy, with classes held in English in sunny Spain, and be awarded an official Bachelor of Arts with Honours degree in Interior Architecture & Design by our UK partner, the University of Bedfordshire.",
+  "fee": "11,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d3ea12300bcbe733d368"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17279/logos/1600259633_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fine Art",
+  "university": "School of Humanities and Social Sciences",
+  "location": "Nicosia, Cyprus",
+  "description": "One of the main aims of the Fine Art programme from University of Nicosia is to enable students to develop a personalised vision in relation to their practice and to be able to work collaboratively with others, in the current system of contemporary art, which focuses on collaborative and collective practices.",
+  "fee": "9,120 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3ea12300bcbe733d369"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19897/logos/1574758219_au_secondary-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film + Motion Design",
+  "university": "University of Europe for Applied Sciences",
+  "location": "Berlin, Germany",
+  "description": "UE’s practice-oriented Film + Motion Design programme teaches and tests basic methods, concepts and techniques for the design of time-based media. Film + Motion Design is available at University of Europe for Applied Sciences.",
+  "fee": "12,110 EUR / year",
+  "duration": "3½ years"
+},{
+  "_id": {
+    "$oid": "6014d3fb5690dac93fba38a5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/545/logos/1496395210_nicosia%20danai.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Architecture",
+  "university": "School of Humanities and Social Sciences",
+  "location": "Nicosia, Cyprus",
+  "description": "The Architecture programme from University of Nicosia provides students with a comprehensive set of skills to prepare them for a career in Architecture.",
+  "fee": "9,120 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014d3fc5690dac93fba38a6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Computer Games Development - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS UK North",
+  "location": "Preston, England, United Kingdom",
+  "description": "This one-year (3 term) Computer Games Development - Undergraduate Foundation Programme from ONCAMPUS UK North offers successful students guaranteed progression to UCLan and the opportunity to apply to a number of other top UK universities through the UCAS process. You will study your Foundation programme at our Centre located at the heart of the UCLan campus.",
+  "fee": "18,105 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d3fc5690dac93fba38a7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/520/logos/1596101423_tu-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Product Design (Hons)",
+  "university": "MIMA School of Art & Design",
+  "location": "Middlesbrough, England, United Kingdom",
+  "description": "The Product Design (Hons) course at Teesside University  allows you to develop your career in a multitude of directions, either as designer-makers or as designers for large organisations. 21st-century approaches to product design range from designing one-off, bespoke artefacts to mass-produced objects in their millions.",
+  "fee": "14,720 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d3fc5690dac93fba38a8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12502/logos/1565617059_pace-logo-rgb-isolated.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Film and Screen Studies",
+  "university": "Pace University",
+  "location": "New York City, New York, United States",
+  "description": "Achieve success in a wide range of career paths such as public policy, leisure businesses, museums, education, editing, journalism, biomedicine, law, criminology, and forensics with our BA in Film and Screen Studies at Pace University.",
+  "fee": "37,802 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3fc5690dac93fba38a9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Music - Performance - String Pedagogy",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The goal of this Music - Performance - String Pedagogy major at Colorado State University is to prepare students to become highly skilled music educators, music therapists, performers, and composers. ",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3fc5690dac93fba38aa"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Communication (Media Arts and Production) - International Studies",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This combined Bachelor degrees in Communication (Media Arts and Production) - International Studies at the University of Technology Sydney combine a professional degree with immersion in another language and culture, enhancing professional training and career options. ",
+  "fee": "545 EUR / credit",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014d3fc5690dac93fba38ab"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13777/logos/1567448854_wsu_vertical_color-2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Audio Production",
+  "university": "Wichita State University",
+  "location": "Wichita, Kansas, United States",
+  "description": "The Audio Production program at Wichita State University combines your creativity with the skills needed for your dream career in the video game, film or recording industry. ",
+  "fee": "445 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3fd5690dac93fba38ac"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Industrial Design",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "The Industrial Design program from Humber College is project-based. Skills development is emphasized in years 1 and 2 and include visual presentation (manual and digital techniques), model making and computer-aided design (CAD).  ",
+  "fee": "12,738 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3fd5690dac93fba38ad"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/f835e630.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Art",
+  "university": "Kansas State University",
+  "location": "Manhattan, Kansas, United States",
+  "description": "The Art degree from Kansas State University is a professionally oriented undergraduate degree in art. It is designed primarily for those planning to become professional artists, artist-teachers, or art therapists. Greater emphasis is placed on actual practice in the creative art disciplines. ",
+  "fee": "20,827 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d3fd5690dac93fba38ae"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14186/logos/1566837637_studyportals-txstate_h_1a_primary_3color_rgb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Performance - Guitar Concentration",
+  "university": "Texas State University",
+  "location": "San Marcos, Texas, United States",
+  "description": "The School of Music is committed to excellence in music teaching and learning for all students at Texas State. As a unit within Texas State, we provide a liberal education with emphasis on cultural values by offering special course work in the arts and humanities. Enroll now in the Performance - Guitar Concentration at Texas State University!",
+  "fee": "19,647 EUR / year",
+  "duration": "4 years"
+}]

@@ -1,0 +1,705 @@
+[{
+  "_id": {
+    "$oid": "6014d14678a885714cf5dd0c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18643/logos/1574817616_sol_primarylogo_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business: Accounting and Financial Planning Major",
+  "university": "Swinburne Online",
+  "location": "Online",
+  "description": "Master the core skills and knowledge for business, management and operations with a Bachelor of Business: Accounting and Financial Planning Major from Swinburne Online.",
+  "fee": "13,895 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d14678a885714cf5dd0d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bachelor of Applied Economics",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "Gain a qualification in applied economics and open up your career options to a wide variety of positions with this Bachelor of Applied Economics from University of Canberra.",
+  "fee": "20,445 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d14778a885714cf5dd0e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bachelor of Accounting",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "The aim of the Bachelor of Accounting from University of Canberra is to produce highly competent, work-ready graduates with an in-depth discipline knowledge, and the technical skills needed to work as socially responsible accounting professionals across the private and public sectors.",
+  "fee": "20,445 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d14778a885714cf5dd0f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Diploma of Business (Extended)",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "The Diploma of Business (Extended) from University of Canberra is an entry level qualification, and will develop the student's knowledge and skills in a broad range of business-related tasks within a variety of organisational situations and environments.",
+  "fee": "11,309 EUR / year",
+  "duration": "1½ years"
+},{
+  "_id": {
+    "$oid": "6014d14778a885714cf5dd10"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bachelor of Business - International Business",
+  "university": "University of Canberra",
+  "location": "Multiple locations",
+  "description": "This Bachelor of Business (International Business) from University of Canberra offers a multidisciplinary approach to analysing the main issues and considerations in the growth and functioning of international businesses. ",
+  "fee": "20,445 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d14778a885714cf5dd11"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/220/logos/1580977406_aru_logo_descriptor_cmyk_blue_aw.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Management (Hons)",
+  "university": "Anglia Ruskin University",
+  "location": "Multiple locations",
+  "description": "You want a solid foundation in business, a place to launch your career from when the time is right. Our full-time Business Management (Hons) degree course at Anglia Ruskin University is made for you. ",
+  "fee": "15,739 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d14778a885714cf5dd12"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/18643/logos/1574817616_sol_primarylogo_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business: Marketing Major",
+  "university": "Swinburne Online",
+  "location": "Online",
+  "description": "Learn how to build a brand customers love by studying a marketing degree online through Swinburne. Taught by experienced industry professionals, the Bachelor of Business: Marketing Major at Swinburne Online gives you an understanding of contemporary marketing principles, and equips you with the skills needed to market products and services in today’s economy. ",
+  "fee": "13,895 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d14778a885714cf5dd13"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bachelor of Business (Management)",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "Whether you’re currently a manager, or wish to become one, the Bachelor of Business (Management) from University of Canberra will help you gain a broad theoretical and technical knowledge in a range of core areas of business, plus the skills necessary to be effective in the changing context of work, organisations and business. ",
+  "fee": "20,445 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d14878a885714cf5dd14"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19983/logos/1581602076_futurelearn.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Marketing - Intercultural Communication Management Microcredential",
+  "university": "FutureLearn",
+  "location": "Online",
+  "description": "The International Marketing - Intercultural Communication Management Microcredential from Anglia Ruskin University by FutureLearn will help you learn how to manage the international marketing for global brands and services and navigate cultural sensitivity in business.",
+  "fee": "878 EUR / full",
+  "duration": "2 months"
+},{
+  "_id": {
+    "$oid": "6014d14878a885714cf5dd15"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13040/logos/1515428209_XJTLU%20Square.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Accounting",
+  "university": "Xi'an Jiaotong-Liverpool University",
+  "location": "Suzhou, China",
+  "description": "The BA Accounting programme at Xi'an Jiaotong-Liverpool University involves studying accounting, business, finance, and management. You will learn about accounting and finance within an organisational context to understand how financial decisions are made. You will also learn to prepare and interpret accounts, and develop an appreciation of accounting practices in both the UK and China.",
+  "fee": "9,089 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d15d7e2d5428583371ff"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12030/logos/1594400099_high-res-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Entertainment Business (Online)",
+  "university": "Full Sail University",
+  "location": "Online",
+  "description": "Students in the Entertainment Business (Online) program at Full Sail University explore a variety of business models and cover topics such as marketing, global media management, event management, and professional selling. ",
+  "fee": "19,454 EUR / year",
+  "duration": "2 years, 5 months"
+},{
+  "_id": {
+    "$oid": "6014d15d7e2d542858337200"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11996/logos/1584562410_unitas_int_p_pos_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Applied Technologies",
+  "university": "University of Tasmania",
+  "location": "Multiple locations",
+  "description": "The Associate Degree in Applied Technologies from University of Tasmania is a new pathway to a career in two exciting high-tech fields: Cyber Security and Cyber-Physical Systems (robotics and automation).",
+  "fee": "",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014d15e7e2d542858337201"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Management - International Studies",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The combined Bachelor degrees in Management - International Studies is offered jointly by Business and International Studies at the University of Technology Sydney. The degree integrates the study of business management with a major in the language and culture of another country. ",
+  "fee": "506 EUR / credit",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014d15e7e2d542858337202"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13040/logos/1515428209_XJTLU%20Square.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Intelligent Supply Chain",
+  "university": "Xi'an Jiaotong-Liverpool University",
+  "location": "Suzhou, China",
+  "description": "The Intelligent Supply Chain program from Xi'an Jiaotong-Liverpool University integrates application and practice, providing you with a cutting-edge education in supply chains in the era of artificial intelligence.",
+  "fee": "9,089 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d15e7e2d542858337203"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Management, Digital Innovation and Entrepreneurship (Hons)",
+  "university": "City, University of London - Cass Business School",
+  "location": "London, England, United Kingdom",
+  "description": "The Business Management, Digital Innovation and Entrepreneurship (Hons) programme at City, University of London explores technological and innovation trends and their impact on organisations.",
+  "fee": "22,080 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d15e7e2d542858337204"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/43b16c41.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Technology And Analytics",
+  "university": "Portland State University",
+  "location": "Online",
+  "description": "PSU is the only public institution in Portland offering this area of study, giving students an affordable option to pursue a specialized Business Technology And Analytics degree at Portland State University in a high-demand field. ",
+  "fee": "24,609 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d15e7e2d542858337205"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11506/logos/1540893470_rsz_lsbu_crest_simple_white_text_horizon_blackoutline.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Management with Finance - International Year One",
+  "university": "ONCAMPUS London South Bank",
+  "location": "London, England, United Kingdom",
+  "description": "This Business Management with Finance - International Year One from ONCAMPUS London South Bank is designed for international students who do not quite have the academic grades and/or English level to start the first year of an undergraduate degree at London South Bank University, but have a stronger profile than a UFP student.",
+  "fee": "14,997 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d15f7e2d542858337206"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/362/logos/1545386181_gdfgfdgdfg.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Knowledge and Information Management and Communication Studies (Hons)",
+  "university": "University of Malta",
+  "location": "Msida, Malta",
+  "description": "The Knowledge and Information Management and Communication Studies (Hons) programme at University of Malta is offered as an honours main area of study together with a subsidiary area of study, or as one of two ordinary main areas of study. ",
+  "fee": "8,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d15f7e2d542858337207"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/43b16c41.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Accountancy and Financial Management (Top-up) (Hons)",
+  "university": "Faculty of Business and Law",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "If you're an EU or international student and want to top up your diploma in accounting to degree level, this top up BA (Hons) Accounting and Financial Management top-up degree course is for you.",
+  "fee": "16,192 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014d171e28e0edf5a499bd9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bachelor of Commerce - Bachelor of Information Technology",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "If you’re looking for an exceptional career in commerce and information technology (IT), then the Bachelor of Commerce - Bachelor of Information Technology from University of Canberra offers the perfect platform from which to forge ahead with confidence.",
+  "fee": "20,445 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d172e28e0edf5a499bda"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bachelor of Commerce (Finance and Banking)",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "On this Bachelor of Commerce (Finance and Banking) from University of Canberra, you’ll be introduced to the theory and practice of the worlds of commerce, finance and banking. A highly practical degree, you’ll develop knowledge and techniques in risk management and credit assessment, and will learn how to manage risks in financial services firms.",
+  "fee": "20,445 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d172e28e0edf5a499bdb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17819/logos/1536592713_SAUlogo12-blue-letters.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Economics",
+  "university": "Saint Ambrose University",
+  "location": "Davenport, Iowa, United States",
+  "description": "Join the Business Economics program from Saint Ambrose University, you're compelled to uncover the art behind business economics - which goes way beyond numbers. As a business economist, you will use accounting and finance principles to analyze organizational structures and apply them to business.",
+  "fee": "26,788 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d172e28e0edf5a499bdc"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/503/logos/1580207762_logo370x111.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Administration",
+  "university": "International University of Monaco (IUM)",
+  "location": "Monte-Carlo, Monaco",
+  "description": "The Business Administration program from International University of Monaco (IUM)  is an undergraduate management program that attracts highly skilled and talented students from all over the world, recently graduated from high school. ",
+  "fee": "11,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d172e28e0edf5a499bdd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Management and Leadership (Hons)",
+  "university": "Coventry University",
+  "location": "London, England, United Kingdom",
+  "description": "At CU London, the Business Management and Leadership (Hons) programme at Coventry University is designed to help you establish key leadership skills, from managing people and resources to strategic planning. ",
+  "fee": "",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d172e28e0edf5a499bde"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Investment and Finance in Property - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS Reading",
+  "location": "London, England, United Kingdom",
+  "description": "This Investment and Finance in Property - Undergraduate Foundation Programme from ONCAMPUS Reading is designed to prepare international students, who have completed senior secondary education, for entry to undergraduate studies at the University of Reading. ",
+  "fee": "19,006 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d172e28e0edf5a499bdf"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Relations",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "International Relations at Liberty University gives you a broad approach to the disciplines of economics, law, philosophy, and geography. Gain an understanding of the intellectual philosophies that have shaped the modern world.",
+  "fee": "19,630 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d173e28e0edf5a499be0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17279/logos/1600259633_logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Data Science - Statistics",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "In this Data Science - Statistics program from Colorado State University you will gain knowledge and insight through the analysis of data. ",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d173e28e0edf5a499be1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Foundation Year - Business Track",
+  "university": "University of Europe for Applied Sciences",
+  "location": "Iserlohn, Germany",
+  "description": "The Foundation Year - Business Track at University of Europe for Applied Sciences enables you to study English taught bachelor programmes in business, economics and social sciences. ",
+  "fee": "12,500 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d1878d06296f2c5090de"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/19555/logos/1556869802_logo-01-1.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business and Financial Management - International Year One",
+  "university": "ONCAMPUS Sunderland",
+  "location": "Sunderland, England, United Kingdom",
+  "description": "This one-year (3 term) Business and Financial Management - International Year One programme at ONCAMPUS Sunderland offers successful students guaranteed progression to Year 2 of a range of business and accounting-related degrees at the University of Sunderland. You will study your programme at our Centre located at the heart of the University of Sunderland City campus.",
+  "fee": "15,269 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d1878d06296f2c5090df"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12315/logos/1476870459_Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Financial Management (Hons)",
+  "university": "Faculty of Business and Law",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "The business world is more complex and diverse than ever, and the demand for financially literate graduates has never been higher.This BA (Hons) Financial Management degree course gives you a thorough understanding of the business world, and is ideal if you want a career in business finance.",
+  "fee": "16,192 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d1878d06296f2c5090e0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/13147/logos/1533146824_YU_studyportal.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Luxury Brand Management",
+  "university": "Swiss School of Higher Education",
+  "location": "Montreux, Switzerland",
+  "description": "The Bachelor in Luxury Brand Management at the Swiss School of Higher Education provides students with an introduction to luxury: the concept of luxury and the luxury market and explores the origins, evolutions and its application and relevance.",
+  "fee": "25,752 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d1878d06296f2c5090e1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Level 4 Diploma in Accounting and Business",
+  "university": "London School of International Business",
+  "location": "London, England, United Kingdom",
+  "description": "The Level 4 Diploma in Accounting and Business programme from London School of International Business aims to develop pro-active decision makers, managers and leaders for a variety of careers in business sectors in a global context.",
+  "fee": "1,031 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014d1878d06296f2c5090e2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Administration - Accounting",
+  "university": "Yorkville University",
+  "location": "Vancouver, Canada",
+  "description": "The Bachelor of Business Administration - Accounting at Yorkville University is designed to provide students with the technical, analytical and interpretive skills required for a successful career in the accounting field. ",
+  "fee": "17,364 EUR / year",
+  "duration": "2½ years"
+},{
+  "_id": {
+    "$oid": "6014d1888d06296f2c5090e3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/4e7e3402.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Engineering Business Management (Hons) Top-Up",
+  "university": "Coventry University",
+  "location": "Coventry, England, United Kingdom",
+  "description": "You could be next in-line for a promotion with the Engineering Business Management (Hons) Top-Up BEng at Coventry University, designed to boost your existing qualifications.",
+  "fee": "17,664 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d1888d06296f2c5090e4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Paramedic Science (Hons)",
+  "university": "University of Central Lancashire (UCLan)",
+  "location": "Preston, England, United Kingdom",
+  "description": "If you like variety, work well under pressure and want to work in medical care, this could be the perfect course for you. Learn the essential skills required to work as a paramedic  on this popular and well-established Paramedic Science (Hons) course at University of Central Lancashire (UCLan) .",
+  "fee": "",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d1888d06296f2c5090e5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Logistics, Procurement and Supply Chain Management (Hons)",
+  "university": "Faculty of Business and Society Courses",
+  "location": "Pontypridd, Wales, United Kingdom",
+  "description": "The BA Logistics, Procurement and Supply Chain Management (Hons) degree at University of South Wales  and offers a future facing and integrated business education covering the main disciplines and operational areas of business, whilst focusing on supporting students to develop the skills and competencies required in a contemporary and future labour market.",
+  "fee": "14,946 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d19b11ee34471b366986"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/324b1fe7.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Communication Management",
+  "university": "Università Cattolica del Sacro Cuore",
+  "location": "Milano, Italy",
+  "description": "Combining sociology and media studies, psychology and economics, history and political science, together with law, the Communication Management programme from Università Cattolica del Sacro Cuore provides a coherent interdisciplinary curriculum that allows students to develop their understanding of how communication works in the creative industries and in particular in fashion and food.",
+  "fee": "8,040 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d19c11ee34471b366987"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Youth Ministries (Christian Leadership)",
+  "university": "Liberty University",
+  "location": "Lynchburg, Virginia, United States",
+  "description": "Youth Ministries (Christian Leadership) at Liberty University  focuses on educating students on effective, biblical leadership. Throughout this degree, you will examine the life of a youth leader, their professional responsibilities, as well as their personal health and readiness for the job. ",
+  "fee": "19,630 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d19c11ee34471b366988"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/c82fc116.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Finance and Accounting",
+  "university": "Saxion University of Applied Sciences",
+  "location": "Enschede, Netherlands",
+  "description": "Would you like to play a part in the world of international economics or are you just interested in studying with people from all over the world? Then International Finance and Accounting at Saxion University of Applied Sciences is definitely a degree to consider.",
+  "fee": "7,800 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d19c11ee34471b366989"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12825/logos/1605732617_nu_logo_654_stacked.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Homeland Security and Emergency Management",
+  "university": "National University",
+  "location": "San Diego, California, United States",
+  "description": "Prepare for careers in the security, business continuity, and disaster management fields in the public sector (city, state, or federal governments), nonprofit organizations, and private industry with the Bachelor of Science in Homeland Security and Emergency Management at the National University.",
+  "fee": "10,986 EUR / module",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d19c11ee34471b36698a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/studies/40788/logos/1611248182_logobsb_sp.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bachelor in Management",
+  "university": "Burgundy School of Business",
+  "location": "Dijon, France",
+  "description": "Our Bachelor in Management is designed to provide young students with the essential skills needed in management, marketing and business while also developing soft skills: agility, creativity, entrepreneurial spirit and collective thinking.With 66 nationalities represented on its Dijon campus, and 25% of international students each year, BSB has a long tradition of international openness.",
+  "fee": "7,500 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d19d11ee34471b36698b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fashion and Textiles",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The Bachelor of Design in Fashion and Textiles at the University of Technology Sydney is an internationally recognised degree that gives students the start they need to pursue careers across all facets of the international fashion industry. The degree provides the conceptual knowledge and garment-making skills required to transform creative vision into compelling fashion statements. ",
+  "fee": "527 EUR / credit",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d19d11ee34471b36698c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/574/logos/1600865603_logo_ecole_rvb.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "3rd year International Class - DN MADE Retail and Interior Design",
+  "university": "L'École de design Nantes Atlantique",
+  "location": "Nantes, France",
+  "description": "The 3rd year of DN MADE Retail and Interior Design course offered by L'École de Design Nantes Atlantique welcomes French students and international students of various nationalities who wish to complete a French undergraduate degree, through the third (which is the last) year of Bachelor level studies.",
+  "fee": "9,000 EUR / year",
+  "duration": "1 year"
+},{
+  "_id": {
+    "$oid": "6014d19d11ee34471b36698d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Marketing and Public Relations (Hons)",
+  "university": "Coventry University",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This exciting Marketing and Public Relations (Hons) at Coventry University aims to equip you with the knowledge, competences and skills that are required to be successful in contemporary marketing and public relations industries. ",
+  "fee": "15,739 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d19d11ee34471b36698e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/f835e630.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Milling Science and Management - Operations",
+  "university": "Kansas State University",
+  "location": "Manhattan, Kansas, United States",
+  "description": "A career in Milling Science and Management - Operations offers outstanding opportunities. Demand for milling products — flour and grain — remains constant, and Kansas State University offers the nation’s only bachelor’s degree in milling. ",
+  "fee": "20,827 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d19d11ee34471b36698f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11701/logos/1578591788_sdlogo3c.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Public Relations",
+  "university": "South Dakota State University",
+  "location": "Brookings, South Dakota, United States",
+  "description": "This Public Relations major at South Dakota State University prepares students with essential written and visual communication, critical thinking, strategy, design, and research skills for careers in public relations and marketing communications.",
+  "fee": "307 EUR / credit",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1b913d76a41648d4075"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10831/logos/1568845722_uon.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Environmental Science and Management - Business",
+  "university": "University of Newcastle",
+  "location": "Newcastle, New South Wales, Australia",
+  "description": "The Environmental Science and Management - Business program at the University of Newcastle incorporates knowledge from a wide range of fields including biology, ecology, chemistry, and geology to understand human impacts on the environment and to develop ways to address these problems. ",
+  "fee": "22,417 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1b913d76a41648d4076"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Accounting with Finance - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Accounting with Finance - Undergraduate Foundation Programme from ONCAMPUS London is designed to prepare international students, who have completed senior secondary education, for entry to undergraduate studies at the top universities across the UK. ",
+  "fee": "19,804 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d1b913d76a41648d4077"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1493/logos/1516272095_euc-logo-en.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Economics",
+  "university": "European University Cyprus (EUC)",
+  "location": "Nicosia, Cyprus",
+  "description": "The Business Economics program at European University Cyprus (EUC) is an interdisciplinary program encompassing the development of key competencies in economics, accounting and management.",
+  "fee": "8,790 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1b913d76a41648d4078"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/293/logos/1607527508_capture2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Development Economics",
+  "university": "SOAS University of London",
+  "location": "London, England, United Kingdom",
+  "description": "Studying BSc Development Economics at SOAS University of London will provide you with a thorough grounding in economic theory, analysis and policy, while studying the economics of a wide range of developing and emerging countries.",
+  "fee": "21,095 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d1ba13d76a41648d4079"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/300/logos/1601911332_city-uol-logo_responsive-rgb-dk1a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics with Accounting (Hons)",
+  "university": "City, University of London",
+  "location": "London, England, United Kingdom",
+  "description": "The Economics with Accounting (Hons) offered by City, University of London enables you to develop a strong methodological, conceptual and quantitative foundation, preparing you for a wide range of rewarding careers in economics and accounting.",
+  "fee": "19,000 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d1ba13d76a41648d407a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "The study of economics arises from the scarcity of resources relative to the size of human wants. The Economics discipline at University of Arizona provides a framework for analyzing and solving problems occurring from such a scarcity. ",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1ba13d76a41648d407b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Fashion Arts and Business",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "Because fashion is an international business, Humber College’s Fashion Arts and Business diploma program places an emphasis on retail operations from both domestic and international perspectives. You will study marketing, store planning and merchandising, brand management, cosmetic marketing, event planning and retail buying.  ",
+  "fee": "10,209 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014d1ba13d76a41648d407c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1758/logos/1552294633_1500x1500-ingilizce-logo-23052018.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Economics with Placement Year - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS Reading",
+  "location": "London, England, United Kingdom",
+  "description": "This Business Economics with Placement Year - Undergraduate Foundation Programme from ONCAMPUS Reading is designed to prepare international students, who have completed senior secondary education, for entry to undergraduate studies at the University of Reading. ",
+  "fee": "19,006 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d1ba13d76a41648d407d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12315/logos/1476870459_Logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Banking and Finance",
+  "university": "Istanbul Okan University",
+  "location": "Istanbul, Turkey",
+  "description": "The Banking and Finance programme from Okan University  embraces all specialized areas of finance on the basis of economics,accounting and law.",
+  "fee": "4,124 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1cfae8edff47e2cb699"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/20209/logos/1605771513_logo_1500-500.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Management (Honours)",
+  "university": "Swiss School of Business Research",
+  "location": "Online",
+  "description": "The BBA in Business Management (Honours) qualification is a 3 year accredited degree offered by Swiss School of Business Research.",
+  "fee": "3,900 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d1cfae8edff47e2cb69a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/217/logos/1528712038_UCLAN-logo.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Construction Project Management (Hons)",
+  "university": "University of Central Lancashire (UCLan)",
+  "location": "Preston, England, United Kingdom",
+  "description": "This BSc Construction Project Management (Hons) degree offered by the University of Central Lancashire (UCLan) will give you the professional grounding in construction you need to be a manager that delivers success.",
+  "fee": "14,380 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d1cfae8edff47e2cb69b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12502/logos/1565617059_pace-logo-rgb-isolated.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Mathematics",
+  "university": "Pace University",
+  "location": "Multiple locations",
+  "description": "The BA in Mathematics at Pace University is ideal for those students who wish to attain broad-based liberal arts and science education. It is a generalized program that enables students to develop critical-thinking, problem-solving, analytical, and quantitative skills.",
+  "fee": "37,802 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1d0ae8edff47e2cb69c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Horticulture - Horticultural Business Management",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The Horticulture - Horticultural Business Management major at Colorado State University provides the broadest horticultural background available. The curriculum consists of a core of business, computer, and economics courses. ",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1d0ae8edff47e2cb69d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/fb444a98.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Management with Events Management (Hons)",
+  "university": "",
+  "location": "Dundee, Scotland, United Kingdom",
+  "description": "This Business Management with Events Management (Hons) course at Abertay University  covers all areas, including digital events across a variety of platforms. With a specialism in events management (which also applies to tourism), you will become highly employable across many different types of organisations.",
+  "fee": "15,852 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1d0ae8edff47e2cb69e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sustainable Plant Systems - Agronomy Option",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "Students in the Sustainable Plant Systems - Agronomy Option program from University of Arizona learn fundamental plant and soil science principles and techniques aimed at developing improved crop plants, and best practices for managing field-, greenhouse-, and agricultural crops, as well as urban landscapes.",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1d0ae8edff47e2cb69f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/43b16c41.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Human Resource Management",
+  "university": "Portland State University",
+  "location": "Portland, Oregon, United States",
+  "description": "The Human Resource Management degree at Portland State University equips you with the tools to shape workplace culture, identify and groom leaders, improve productivity, and to use HR data and analytics to inform and support long-range strategic objectives. With an HR management degree from PSU, you’ll stand out in the job market and in your HR management career. ",
+  "fee": "24,609 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d1d0ae8edff47e2cb6a0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1756/logos/1571993195_aubg-logo.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Technology - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS Sunderland",
+  "location": "Sunderland, England, United Kingdom",
+  "description": "This one-year (3 term) Business Technology - Undergraduate Foundation Programme at ONCAMPUS Sunderland can offer successful students guaranteed progression to the University of Sunderland. You will study your Foundation programme at our state-of-the-art Centre located at the heart of the University of Sunderland City campus.",
+  "fee": "15,269 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d1d0ae8edff47e2cb6a1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/43b16c41.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Political Science and International Relations",
+  "university": "American University in Bulgaria",
+  "location": "Blagoevgrad, Bulgaria",
+  "description": "The Political Science and International Relations program from American University in Bulgaria prepares and encourages you to recognize, analyze, and evaluate the role of major actors, structures, and processes in our world.",
+  "fee": "10,269 EUR / year",
+  "duration": "4 years"
+}]

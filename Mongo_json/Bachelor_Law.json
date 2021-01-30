@@ -1,0 +1,705 @@
+[{
+  "_id": {
+    "$oid": "6014cf39868fa7d907af8ce3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law (Senior Status)",
+  "university": "University of Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "Build on your degree in another subject – or your non-UK legal qualification – with this Law (Senior Status) from The University of Hull.",
+  "fee": "16,418 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014cf39868fa7d907af8ce4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology with Law - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "This one-year (3 term) Criminology with Law - Undergraduate Foundation Programme at ONCAMPUS Hull offers successful students guaranteed progression to the University of Hull. ",
+  "fee": "16,186 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014cf39868fa7d907af8ce5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Law",
+  "university": "The University of Western Australia",
+  "location": "Multiple locations",
+  "description": "This Business Law major from The University of Western Australia is ideal for anyone planning a career in the business or government sectors. This major also lays the foundations for a successful postgraduate studies in law.",
+  "fee": "25,002 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cf39868fa7d907af8ce6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology with Psychology",
+  "university": "University of Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "Crime begins in the mind. Learn to understand both in this Criminology with Psychology programme from The University of Hull.",
+  "fee": "16,418 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cf3a868fa7d907af8ce7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1338/logos/1572880065_esade_rlu.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law and Global Governance, Economics and Legal Order",
+  "university": "ESADE",
+  "location": "Barcelona, Spain",
+  "description": "Do you want to blaze an international career? Would you like to be a consul, diplomat or work in top organisations such as NATO, the World Health Organisation (WHO) or in the European Union? With the Double Degree in Law and Global Governance, Economics and Legal Order from ESADE, forming part of these world-shaping institutions is just one of your options.",
+  "fee": "19,500 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014cf3a868fa7d907af8ce8"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law (with Foundation Year) (Hons)",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "The Law (with Foundation Year) (Hons) from University of the West of England (UWE Bristol) is a practical contemporary degree, recognised by employers and delivered by leading experts in one of the largest law schools in the country.",
+  "fee": "15,286 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cf3a868fa7d907af8ce9"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology (with Foundation Year) (Hons)",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "Criminology (with Foundation Year) (Hons) at University of the West of England (UWE Bristol) teaches you about crime and the criminal justice system, drawing on sociology, law, psychology and philosophy, and applying theories, knowledge and research to real, contemporary issues. ",
+  "fee": "15,286 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cf3a868fa7d907af8cea"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Communication (Journalism) - Laws",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This combined Bachelor degrees in Communication (Journalism) - Laws at the University of Technology Sydney provides students with the knowledge and the practical skills required to become highly effective practitioners in either professional discipline, and meets the academic requirements for admission to practice law in NSW. ",
+  "fee": "598 EUR / credit",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014cf3a868fa7d907af8ceb"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology and Cybercrime (Hons)",
+  "university": "Faculty of Humanities and Social Sciences",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "In the digital age, crime is becoming more complex and diverse with the internet creating new types of crime and reinventing old ones. If you’re interested in fighting cybercrime, this combined course – the first of its kind in the UK – covers traditional criminology theory while exploring modern issues like cyber-security, online terrorism and digital forensics. ",
+  "fee": "16,192 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014cf718cc6ec1f7b89d897"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/15321/logos/1479219623_UW_left-stack_rgb-black.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminal Justice",
+  "university": "University of Winnipeg",
+  "location": "Winnipeg, Canada",
+  "description": "The Criminal Justice program at the University of Winnipeg explores issues including justice, crime, law, offenders, victims, the criminal justice system and other forms of social sanctions and controls with emphasis on studying the institutions of justice. ",
+  "fee": "9,454 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cf728cc6ec1f7b89d898"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law (Senior Status)",
+  "university": "University of Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "Build on your degree in another subject – or your non-UK legal qualification – with this Law (Senior Status) from The University of Hull.",
+  "fee": "16,418 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014cf728cc6ec1f7b89d899"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology with Law - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "This one-year (3 term) Criminology with Law - Undergraduate Foundation Programme at ONCAMPUS Hull offers successful students guaranteed progression to the University of Hull. ",
+  "fee": "16,186 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014cf728cc6ec1f7b89d89a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b86ba679.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business Law",
+  "university": "The University of Western Australia",
+  "location": "Multiple locations",
+  "description": "This Business Law major from The University of Western Australia is ideal for anyone planning a career in the business or government sectors. This major also lays the foundations for a successful postgraduate studies in law.",
+  "fee": "25,002 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cf728cc6ec1f7b89d89b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology with Psychology",
+  "university": "University of Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "Crime begins in the mind. Learn to understand both in this Criminology with Psychology programme from The University of Hull.",
+  "fee": "16,418 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cf728cc6ec1f7b89d89c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1338/logos/1572880065_esade_rlu.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law and Global Governance, Economics and Legal Order",
+  "university": "ESADE",
+  "location": "Barcelona, Spain",
+  "description": "Do you want to blaze an international career? Would you like to be a consul, diplomat or work in top organisations such as NATO, the World Health Organisation (WHO) or in the European Union? With the Double Degree in Law and Global Governance, Economics and Legal Order from ESADE, forming part of these world-shaping institutions is just one of your options.",
+  "fee": "19,500 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014cf738cc6ec1f7b89d89d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/249/logos/1576587683_logo-study-portals.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law and Human Resource Management (Hons)",
+  "university": "University of Strathclyde",
+  "location": "Glasgow, Scotland, United Kingdom",
+  "description": "There are a number of ways you can study law at Strathclyde, one such way being the BA degree in combination with another subject. Please note that studying Law within the BA Law and Human Resource Management (Hons) degree at the University of Strathclyde will not qualify you for entry to the legal profession. For professional qualifications in Law students follow the LLB programme.",
+  "fee": "18,117 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cf738cc6ec1f7b89d89e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/249/logos/1576587683_logo-study-portals.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law",
+  "university": "University of Strathclyde",
+  "location": "Glasgow, Scotland, United Kingdom",
+  "description": "Studying Law  at the University of Strathclyde concerns the obligations, duties and rights of every member of society in relation to their neighbours and to society.",
+  "fee": "19,419 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cf738cc6ec1f7b89d89f"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/b3bafd7c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "(Hons) Law and Criminology",
+  "university": "University of Lincoln",
+  "location": "Lincoln, England, United Kingdom",
+  "description": "The LLB (Hons) Law and Criminology degree at University of Lincoln offers students the chance to study for a law degree while deepening their understanding of the causes and consequences of crime.",
+  "fee": "15,965 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cf738cc6ec1f7b89d8a0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law (with Foundation Year) (Hons)",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "The Law (with Foundation Year) (Hons) from University of the West of England (UWE Bristol) is a practical contemporary degree, recognised by employers and delivered by leading experts in one of the largest law schools in the country.",
+  "fee": "15,286 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cfb1be3442614b633e45"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law with Business Management",
+  "university": "University of Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "Learn to think like a lawyer, while gaining insight into the business world on this combined degree with this Law with Business Management from The University of Hull.",
+  "fee": "16,418 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cfb2be3442614b633e46"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law (Hons)",
+  "university": "Coventry University",
+  "location": "Coventry, England, United Kingdom",
+  "description": "Whether you have a passion for Law or Business, studying Law (Hons) at Coventry University can help to sharpen the mind, build an analytical skillset and develop problem-solving abilities.",
+  "fee": "15,739 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cfb2be3442614b633e47"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/16875/logos/1567547815_bay_path_college_logo.svg.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Legal Studies",
+  "university": "Bay Path University",
+  "location": "Longmeadow, Massachusetts, United States",
+  "description": "The Legal Studies program at Bay Path University  prepares graduates for careers in law by providing a strong undergraduate education emphasizing communication, leadership, technology, and ethics.",
+  "fee": "29,512 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cfb2be3442614b633e48"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/15c0d2d6.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology with Law",
+  "university": "University of Hull",
+  "location": "Hull, England, United Kingdom",
+  "description": "Learn about the areas where crime and criminal justice collide with this Criminology with Law course from The University of Hull.",
+  "fee": "16,418 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cfb2be3442614b633e49"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law and Practice - Intensive International Foundation Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This two term Law and Practice - Intensive International Foundation Programme from ONCAMPUS Coventry offers successful students progression to Coventry University. You will study your Intensive Foundation programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "16,628 EUR / full",
+  "duration": "½ year"
+},{
+  "_id": {
+    "$oid": "6014cfb2be3442614b633e4a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17041/logos/1579806004_logo2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminal Justice and Political Science",
+  "university": "Texas A&M International University",
+  "location": "Laredo, Texas, United States",
+  "description": "The Criminal Justice and Political Science program is offered by the Texas A&M International University. ",
+  "fee": "19,292 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cfb2be3442614b633e4b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business and Law (with Foundation Year) (Hons)",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "Business and Law (with Foundation Year) (Hons) at University of the West of England (UWE Bristol) equips you with a strong foundation in business and law with the opportunity to specialise in either subject at the end of your first year.",
+  "fee": "15,286 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cfb3be3442614b633e4c"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Forensic Science - Laws",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "In this combined Bachelor degrees in Forensic Science - Laws at the University of Technology Sydney, students learn to use science as a tool to enforce the law or to prepare for professional and specialist work in the world of forensic science. ",
+  "fee": "598 EUR / credit",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014cfb3be3442614b633e4d"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law Accelerated 2 year programme",
+  "university": "University of Law, Hong Kong",
+  "location": "Hong Kong, Hong Kong (SAR)",
+  "description": "The Law Accelerated 2 year programme from The University of Law is designed to be the most focused professional law degree available.",
+  "fee": "15,248 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014cfb3be3442614b633e4e"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology with Psychology (with Foundation Year) (Hons)",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "Criminology with Psychology (with Foundation Year) (Hons) at University of the West of England (UWE Bristol) is split equally between criminology and psychology, so you'll study both before choosing which to major in.",
+  "fee": "15,286 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cfcf1db8496bd0de3264"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11996/logos/1584562410_unitas_int_p_pos_cmyk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics and Laws",
+  "university": "University of Tasmania",
+  "location": "Multiple locations",
+  "description": "This Economics and Laws from University of Tasmania is offered by the Tasmanian School of Business and Economics and the Faculty of Law and is available at Hobart. ",
+  "fee": "22,289 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014cfcf1db8496bd0de3265"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/741fec08.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Sociology, Criminology and Criminal Justice Concentration",
+  "university": "Colorado State University",
+  "location": "Fort Collins, Colorado, United States",
+  "description": "The Sociology, Criminology and Criminal Justice Concentration at Colorado State University trains students to view issues of crime, victimization, and justice through a sociological lens.",
+  "fee": "26,156 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cfcf1db8496bd0de3266"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17276/logos/1564427347_primary-wordmark-fullcolor.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Pre-Law and Legal Studies",
+  "university": "Southern Utah University",
+  "location": "Cedar City, Utah, United States",
+  "description": "The Pre-Law and Legal Studies Program of Southern Utah University is part of the Department of Political Science and Criminal Justice but works with students from all majors who have an interest in a future career in law as an attorney or paralegal.",
+  "fee": "17,174 EUR / year",
+  "duration": ""
+},{
+  "_id": {
+    "$oid": "6014cfd01db8496bd0de3267"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Science - Laws",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "This combined Bachelor degrees in Science - Laws at the University of Technology Sydney addresses the increasing need for scientific expertise among lawyers. ",
+  "fee": "598 EUR / credit",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014cfd01db8496bd0de3268"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Laws - International Studies",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "The combined Bachelor degrees in Laws - International Studies at the University of Technology Sydney takes a global approach to the study of law and culture with a requirement for students to spend a year overseas. Years 1–3 of the course are conducted at UTS, and encompass legal studies core subjects and electives/majors, including the new Legal Futures and Technology major. ",
+  "fee": "598 EUR / credit",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014cfd01db8496bd0de3269"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17276/logos/1564427347_primary-wordmark-fullcolor.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Legal Studies",
+  "university": "Southern Utah University",
+  "location": "Cedar City, Utah, United States",
+  "description": "The undergraduate Legal Studies program from Southern Utah University provides students with the knowledge, skills, and values necessary to work effectively, competently, ethically, and successfully as legal professionals in a law office/firm, corporation/business entity, government agency, or the public sector.",
+  "fee": "17,174 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014cfd01db8496bd0de326a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/12502/logos/1565617059_pace-logo-rgb-isolated.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS Sunderland",
+  "location": "Sunderland, England, United Kingdom",
+  "description": "This one-year (3 term) Criminology - Undergraduate Foundation Programme at ONCAMPUS Sunderland can offer successful students guaranteed progression to the University of Sunderland. You will study your Foundation programme at our state-of-the-art Centre located at the heart of the University of Sunderland City campus.",
+  "fee": "15,269 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014cfd01db8496bd0de326b"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11506/logos/1540893470_rsz_lsbu_crest_simple_white_text_horizon_blackoutline.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminal Justice",
+  "university": "Pace University",
+  "location": "Multiple locations",
+  "description": "With your BS in Criminal Justice at Pace University, you can set a career path in private sector security or law enforcement–two fields that are always growing.",
+  "fee": "37,802 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cfe8054a289dd11feec0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law with Criminology (Hons)",
+  "university": "Faculty of Business and Law",
+  "location": "Portsmouth, England, United Kingdom",
+  "description": "If you’re interested in law and criminological theory and practice, this LLB (Hons) Law with Criminology degree course will match your interests.",
+  "fee": "16,192 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cfe8054a289dd11feec1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/15864/logos/1600680372_arden_2020_tiffany_720x720.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law (Hons)",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "Keele University is one of the UK’s leading law schools with an impressive list of alumni practising law at the highest levels. The Law (Hons) programme is recognised as a qualifying law degree, enabling you to train as a solicitor or barrister after graduating.  ",
+  "fee": "16,701 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cfe8054a289dd11feec2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/91b21a86.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminal Justice (Hons)",
+  "university": "Arden University Online",
+  "location": "Online",
+  "description": "The Criminal Justice (Hons) programme offered by Arden University Online allows you to gain a better understanding of the causes, consequences and prevention of crime from social, legal, political and personal perspectives.",
+  "fee": "2,612 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cfe8054a289dd11feec3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/14017/logos/1515402484_1598_ULAW_BUSINESS_SCHOOL_LOGO_STACKED_RGB.PNG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "International Governance and Public Policy (Hons)",
+  "university": "Keele University",
+  "location": "Keele, England, United Kingdom",
+  "description": "This Dual Award programme in International Governance and Public Policy (Hons) has been developed in partnership between Beijing Foreign Studies University (BFSU) and Keele University for students who want to specialise in the study of international issues in politics, business and law.  ",
+  "fee": "16,701 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cfe9054a289dd11feec4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "(Hons) Business Management with Law with Foundation Year",
+  "university": "The University of Law Business School",
+  "location": "Multiple locations",
+  "description": "The BA (Hons) Business Management with Law programme from The University of Law Business School is designed for students who are looking to develop their business management knowledge along with an understanding of the legal framework that organisations operate within.",
+  "fee": "16,022 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cfe9054a289dd11feec5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/10831/logos/1568845722_uon.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Online (Hons) Senior Status",
+  "university": "The University of Law",
+  "location": "Online",
+  "description": "The Online (Hons) Senior Status offered by The University of Law is a specifically designed degree for students who already hold a degree and want to gain a Qualifying Law Degree in just two years full time.",
+  "fee": "10,474 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014cfe9054a289dd11feec6"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17577/logos/1579300227_humber_whitegold.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Laws (Honours) - Diploma of Legal Practice",
+  "university": "University of Newcastle",
+  "location": "Newcastle, New South Wales, Australia",
+  "description": "The Laws (Honours) - Diploma of Legal Practice program at the University of Newcastle meets the academic requirements needed to gain admission to the practice of law in New South Wales.",
+  "fee": "20,128 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014cfe9054a289dd11feec7"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11403/logos/1597085861_libertywordmark-stacked-cmyk.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Paralegal Studies",
+  "university": "Humber College",
+  "location": "Toronto, Canada",
+  "description": "Humber College’s Bachelor of Applied Arts – Paralegal Studies program is the only four-year degree program to receive accreditation by The Law Society of Ontario as an accredited paralegal education program.  ",
+  "fee": "12,161 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cffd72be08ab3bfa0021"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17041/logos/1579806004_logo2.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminal Justice and Political Science",
+  "university": "Texas A&M International University",
+  "location": "Laredo, Texas, United States",
+  "description": "The Criminal Justice and Political Science program is offered by the Texas A&M International University. ",
+  "fee": "19,292 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cffe72be08ab3bfa0022"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Business and Law (with Foundation Year) (Hons)",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "Business and Law (with Foundation Year) (Hons) at University of the West of England (UWE Bristol) equips you with a strong foundation in business and law with the opportunity to specialise in either subject at the end of your first year.",
+  "fee": "15,286 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014cffe72be08ab3bfa0023"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Forensic Science - Laws",
+  "university": "University of Technology Sydney",
+  "location": "Sydney, New South Wales, Australia",
+  "description": "In this combined Bachelor degrees in Forensic Science - Laws at the University of Technology Sydney, students learn to use science as a tool to enforce the law or to prepare for professional and specialist work in the world of forensic science. ",
+  "fee": "598 EUR / credit",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014cffe72be08ab3bfa0024"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/245/logos/1499083809_Capture.JPG?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law (Hons)",
+  "university": "Leicester De Montfort Law School",
+  "location": "Leicester, England, United Kingdom",
+  "description": "The LLB Law (Hons) at De Montfort University combines academic rigour with projects that put your legal training into practice to develop the skills employers look for.",
+  "fee": "16,135 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cffe72be08ab3bfa0025"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/249/logos/1576587683_logo-study-portals.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Economics and Business Law (Hons)",
+  "university": "University of Strathclyde",
+  "location": "Glasgow, Scotland, United Kingdom",
+  "description": "The Economics and Business Law (Hons) degree at the University of Strathclyde will give you the ability to explain complex data in simple terms to different audiences. You’ll also develop excellent mathematical, statistical and problem-solving skills. ",
+  "fee": "18,117 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cffe72be08ab3bfa0026"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11174/logos/1561064020_uc_logo_stacked_colour_digital.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Bachelor of Communication and Media - Bachelor of Laws",
+  "university": "University of Canberra",
+  "location": "Canberra, Australian Capital Territory, Australia",
+  "description": "Take the legal practical problem and together you have a Bachelor of Communication and Media - Bachelor of Laws from University of Canberra that will develop your legal and advocacy skills while showing you how to create your own and others’ unique brand identities from the ground up.",
+  "fee": "19,179 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014cfff72be08ab3bfa0027"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law Accelerated 2 year programme",
+  "university": "University of Law, Hong Kong",
+  "location": "Hong Kong, Hong Kong (SAR)",
+  "description": "The Law Accelerated 2 year programme from The University of Law is designed to be the most focused professional law degree available.",
+  "fee": "15,248 EUR / year",
+  "duration": "2 years"
+},{
+  "_id": {
+    "$oid": "6014cfff72be08ab3bfa0028"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/249/logos/1576587683_logo-study-portals.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Scots and English Law (Clinical) (Hons)",
+  "university": "University of Strathclyde",
+  "location": "Glasgow, Scotland, United Kingdom",
+  "description": "The  Scots and English Law (Clinical) (Hons) at University of Strathclyde helps you gain the unique opportunity to enhance your theoretical understanding of the law, by applying it in real-life contexts.",
+  "fee": "19,419 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cfff72be08ab3bfa0029"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/220/logos/1580977406_aru_logo_descriptor_cmyk_blue_aw.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law (Hons)",
+  "university": "Anglia Ruskin University",
+  "location": "Multiple locations",
+  "description": "The Law (Hons) degree at Anglia Ruskin University is accredited by the Solicitors Regulation Authority and the Bar Standards Boards, so you know you’re in good hands. Study in Cambridge or Chelmsford, work with qualified solicitors in our law clinics, and practise your craft in mock court rooms.",
+  "fee": "15,739 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014cfff72be08ab3bfa002a"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/150/logos/1533561830_UWE_Web_Avatar_Bottom.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology with Psychology (with Foundation Year) (Hons)",
+  "university": "University of the West of England (UWE Bristol)",
+  "location": "Bristol, England, United Kingdom",
+  "description": "Criminology with Psychology (with Foundation Year) (Hons) at University of the West of England (UWE Bristol) is split equally between criminology and psychology, so you'll study both before choosing which to major in.",
+  "fee": "15,286 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d01d6eff1ee1c446e6bd"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1338/logos/1572880065_esade_rlu.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law",
+  "university": "ESADE",
+  "location": "Barcelona, Spain",
+  "description": "Studying Law at ESADE will set you apart. Do you know that major national and international firms come to ESADE to hire our students? At ESADE, they find highly qualified jurists who have solid training in international law, knowledge of languages, the ability to apply law in the real world, educational experience abroad, and added-value skills like communication, proactivity and leadership.",
+  "fee": "16,950 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d01e6eff1ee1c446e6be"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11878/logos/1572636326_acu-logo_cmyk_full-colour_positive_a3.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Commerce - Laws",
+  "university": "Australian Catholic University",
+  "location": "Multiple locations",
+  "description": " Our Bachelor of Commerce - Laws from Australian Catholic University focuses on making a strong and positive contribution to our communities. Together, they provide a world of possibilities.",
+  "fee": "19,369 EUR / year",
+  "duration": "5 years"
+},{
+  "_id": {
+    "$oid": "6014d01e6eff1ee1c446e6bf"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/17057/logos/1499857234_Essex-Logo-Black.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Law with Criminology (Hons)",
+  "university": "University of Essex Online",
+  "location": "Online",
+  "description": "The Law with Criminology (Hons) programme at the University of Essex Online takes a different approach to the subject of law. ",
+  "fee": "5,237 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d01e6eff1ee1c446e6c0"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/0d1edf1c.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Undergraduate Foundation Programme – Humanities and Social Sciences",
+  "university": "ONCAMPUS Sunderland",
+  "location": "Sunderland, England, United Kingdom",
+  "description": "This one-year (3 term) Undergraduate Foundation Programme – Humanities and Social Sciences at ONCAMPUS Sunderland can offer successful students guaranteed progression to the University of Sunderland. You will study your Foundation programme at our state-of-the-art Centre located at the heart of the University of Sunderland City campus.",
+  "fee": "15,269 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d01e6eff1ee1c446e6c1"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/49af32b9.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology and Criminal Justice - Undergraduate Foundation Programme",
+  "university": "ONCAMPUS London",
+  "location": "London, England, United Kingdom",
+  "description": "This Criminology and Criminal Justice - Undergraduate Foundation Programme from ONCAMPUS London is designed to prepare international students, who have completed senior secondary education, for entry to undergraduate studies at the top universities across the UK. ",
+  "fee": "21,112 EUR / year",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d01e6eff1ee1c446e6c2"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/1888/logos/1590388227_ulaw_370x111px.png?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Global Studies - Global Societies - Human Rights, Migrations, and Social Movements Emphasis",
+  "university": "University of Arizona",
+  "location": "Tucson, Arizona, United States",
+  "description": "This Global Studies - Global Societies - Human Rights, Migrations, and Social Movements Emphasis at University of Arizona examines global movements and struggles.",
+  "fee": "30,613 EUR / year",
+  "duration": "4 years"
+},{
+  "_id": {
+    "$oid": "6014d01f6eff1ee1c446e6c3"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/mp/d52f209a.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "(Hons) Law with International Business (Online)",
+  "university": "University of Law, Hong Kong",
+  "location": "Online",
+  "description": "The (Hons) Law with International Business (Online) degree from The University of Law is available as a 3, 4, 4.5 or 6 year course (Reg. No. 253055). ",
+  "fee": "10,063 EUR / year",
+  "duration": "3 years"
+},{
+  "_id": {
+    "$oid": "6014d01f6eff1ee1c446e6c4"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/15864/logos/1600680372_arden_2020_tiffany_720x720.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology - International Foundation Programme",
+  "university": "ONCAMPUS Coventry",
+  "location": "Coventry, England, United Kingdom",
+  "description": "This one-year (3 term) Criminology - International Foundation Programme from ONCAMPUS Coventry can offer successful students progression to Coventry University. You will study your Foundation programme at our state-of-the-art Centre located at the heart of the Coventry University campus.",
+  "fee": "16,628 EUR / full",
+  "duration": "9 months"
+},{
+  "_id": {
+    "$oid": "6014d01f6eff1ee1c446e6c5"
+  },
+  "logo_link": "https://storage-prtl-co.imgix.net/endor/organisations/11979/logos/1573589497_uts_logo_vertical_lockup_rgb_blk.jpg?q=50&h=112&w=112&fit=max&auto=format,compress&q=40",
+  "course": "Criminology and Law with Foundation Year (Hons)",
+  "university": "Arden University Online",
+  "location": "Online",
+  "description": "Are you interested in building a career in the criminology or law sectors, but aren’t sure you’re prepared for university study? The Foundation Year portion of this Criminology and Law with Foundation Year (Hons) at Arden University Online is designed to transition you into your University experience.",
+  "fee": "4,995 EUR / year",
+  "duration": "4 years"
+}]
