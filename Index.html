@@ -120,15 +120,15 @@
                         <div class="form-group">
                             <label for="exampleInput1">University Name :&nbsp;&nbsp;&nbsp;</label>
                             <input type="text" class="form-control" id="university_name" aria-describedby="nameHelp"
-                                placeholder="Enter University's Name" ng-model="uni" ng-change="get_maps()">
+                                placeholder="Enter University's Name" ng-model="uni">
                         </div>
 
                         <div class="form-group">
                             <label for="exampleInput2">&nbsp;&nbsp;Country Code :&nbsp;&nbsp;&nbsp;</label>
-                            <input type="text" class="form-control" id="exampleInput2" placeholder="IN">
+                            <input type="text" class="form-control" id="country_name" placeholder="Enter Country Name" ng-model="coun">
                         </div>
                         &nbsp;&nbsp;
-                        <button type="submit" class="btn btn-outline-primary">Search</button>
+                        <button type="submit" class="btn btn-outline-primary" ng-click="get_maps()">Search</button>
                     </form>
                 </div>
             </div>
