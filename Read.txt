@@ -1,55 +1,48 @@
-import java.util.*;
-public class ANA {
-    public static void main(String[] args) {
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the string=");
-        String x=sc.nextLine();
-        System.out.println("Enter the pattern=");
-        String ptr=sc.nextLine();
-        HashMap<Character,Integer> hm=new HashMap<>();
-        int k=ptr.length();
-        for(int i=0;i<k;i++){
-            char c=ptr.charAt(i);
-            if(hm.containsKey(c)){
-                hm.put(c, hm.get(c)+1);
-            }
-            else{
-                hm.put(c, 1);
-            }
+Rethinking our relationship with screens
+We are spending more time than ever before glued to our screens. A digital detox helps by disconnecting temporarily in order to reconnect. In this article, Ralf sheds light on how to best leverage digital detox in the current period.
+Social distancing. Isolation for months on end. A deluge of new smartphone apps and increased social media usage. Amid the Covid-19 pandemic, we are spending more and more time glued to our screens.
 
-        }
-        int count=hm.size();
-        int ans=0;
-        int i=0,j=0;
-        while(j<x.length()){
-            char sk=x.charAt(j);
-            if(hm.containsKey(sk)){
-                hm.put(sk,hm.get(sk)-1);
-                if(hm.get(sk)==0){
-                    count--;
-                }
+Pop quiz! To what extent do you agree with the following statements?
 
-            }
-            if(j-i+1<k){
-                j++;
-            }
-            else if(j-i+1==k){
-                if(count==0){
-                    ans++;
-                }
-                if(hm.containsKey(x.charAt(i))){
-	                hm.put(x.charAt(i),hm.get(x.charAt(i))+1);
-	                
-	                if(hm.get(x.charAt(i))==1)
-	                {
-	                    count++;
-	                }
-	            }
-	            i++;
-	            j++;
-            }
-        }
-        System.out.println(ans);
+You become easily distracted by the internet while studying
+Even when you are not online, you have a strong urge to use your smartphone
+You are very likely to use screens right before bedtime
+You feel anxious when the Wi-Fi signal goes weak
+You feel like avoiding social interactions by constantly checking your phone
+If you have agreed with most of these statements, the constant use of smartphones and other screens may be affecting your physical and mental wellbeing. Our modern lives, whether they are chaotic, structured, or somewhere in between, revolve around technology. Our ‘always-on’ attitude collides with our attempted work-life balance and can leave us distracted, frazzled, or even lost.
 
-    }
-}
+
+Research has revealed our dependence on technological devices and screens. Giving up screen time even for a day can lead to feelings of stress, anxiety and increases mental health risks. Furthermore, the ‘stay at home’ restrictions during the current Covid-19 crisis only exacerbates this issue. With companies switching to working from home and events going virtual, we are using screens more than we did prior to the pandemic.
+
+
+Therefore, it requires a certain amount of dedication to break free from the shackles of constant usage of smartphones and laptops. The upside is that by detaching yourself from digital distractions that have become an integral part of our lives, we can easily explore other things that enrich our lives. In such times of social media and smartphone dependence, what has provided a remedy for me is a so-called ‘digital detox’.
+
+
+A ‘digital detox’ endorses the conscious temporary renunciation of smartphones, laptops, tablets and the like in order to free up time for productive activities. In so doing, I have reignited my passion for playing the drums, photography and have been catching up on reading the latest marvels of human innovation, for example, on the progress made in the field of gene editing and therapeutics.
+
+
+Here are a few tips I have found useful for practicing digital detox and maximizing the benefits of disconnecting both digitally and virtually:
+
+Limit smartphone usage before bed
+Turn your smartphones off at least 30 minutes before bedtime to increase the quality of your sleep. Instead, use this time to do something more productive. I have allocated my time at night for either practicing drums, writing or working out.
+
+
+It sounds simple in nature, but it is very effective. Banish your smartphone from the bedroom by leaving it in the kitchen or living room. I admit that the use of smartphones as an alarm clock is undeniable, so I have substituted it for an analogue alarm clock!
+
+Pick up a hobby (or two)
+Make a list of three or four activities you could indulge in and that would challenge you to ‘undo’ your autopilot mindset. Picking up new activities does require rewiring your behavioral impulses to form new habits and derive delayed gratification.
+
+
+The pursuit of fun and productive activities that you are passionate about will become habits over time and help to promote long-term happiness.
+
+Digital detox for a day each month
+Whether it be hiking up a hill in the vicinity of your home or simply being outside and getting fresh air in nature, leaving your screens at home and reconnecting with nature is a healthy option to make the best use of a digital detox.
+
+Turn off push notifications
+Sudden vibrations and buzzes from your smartphone can become a continuous waterfall of distractions. Simply turning off your push notifications in your phone's settings has endless benefits ranging from increasing your attention span to reducing your anxiety.
+
+Master digital detox together
+Look for allies! It is much easier to break from social media with friends and family rather than attempting it on your own. Together you can do a digital detox retreat and, for instance, actively switch off for a weekend – without mobile phones, reception and/or internet access.
+
+
+As reflected in the tips above, a ‘digital detox’ is not intended to be permanent. Technology underpins many aspects of our daily life and shapes how we study, work, communicate and think. However, temporary breaks from our devices and establishing hard boundaries can work wonders and the benefits can have a long-lasting impact.
