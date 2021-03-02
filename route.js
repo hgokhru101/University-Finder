@@ -95,7 +95,7 @@ app.get("/media_feed", function (req, res) {
 });
 
 app.get("*", function (req, res) {
-  res.status(404).send("FORBIDDEN 404. NOT FOUND");
+  res.sendFile(path.join(__dirname, "public", "404.html"));
 });
 
 app.listen(9000, () => {
