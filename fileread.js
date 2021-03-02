@@ -1,7 +1,6 @@
 const readline = require('readline');
 const fs = require('fs');
-// create instance of readline
-// each instance is associated with single input stream
+
 let rl = readline.createInterface({
 input: fs.createReadStream('Read.txt')
 });
